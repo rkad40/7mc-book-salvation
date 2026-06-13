@@ -184,5 +184,5 @@ Rest assured, though: much better and far stronger arguments await.
 > 3. **Why is circumcision central to Paul's argument?**  
 > 4. **Does the Catholic reading of Romans 1-3 result in works-salvation?**  
 
-🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md)
+🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md) [Next➡️](c007-the-two-witness-argument.md) 
 
