@@ -1,6 +1,6 @@
-# A Question of Salvation
+**Chapter 1** *(1-minute read)*
 
----
+# A Question of Salvation
 
 Our story begins in Acts chapter sixteen, verse sixteen. Let us set the stage...
 
@@ -77,3 +77,7 @@ As we embark on this journey of exploration and discernment, let us do so togeth
 **Lord Jesus Christ, hear the prayer of all who sincerely and earnestly seek you. Grant us the wisdom to discern, in the light of Scripture, the answer to that most important question once asked by the Philippian jailer: *"What must I do to be saved?"* Give us the grace to embrace that answer with our lives and to walk faithfully in the way you set before us. We ask this in your holy name.**
 
 **Amen.**
+
+[➡️Next](./c002-the-great-divide.md)
+
+
