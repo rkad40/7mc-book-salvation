@@ -33,7 +33,7 @@ As Christians, we must be prepared. And that means basing our theology on biblic
 
 Let us return to Romans 3:28. Saint Paul writes:
 
-> #### ✝️Romans 3:28 (RSV‑2CE)  
+> #### ✝️ Romans 3:28 (RSV‑2CE)  
 > For we hold that a man is justified by faith apart from works of law.
 
 The word translated “law” in Romans 3:28--and throughout Paul’s letters--is *nomos* (*νόμος*).
@@ -161,7 +161,7 @@ That must be our goal: to understand what Paul meant by “works of law.”
 
 And to do that, we must place Romans 3:28 back into its full context.
 
-> #### Ask an AI
+> #### 💡 Ask An AI
 >
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
 >
@@ -173,4 +173,4 @@ And to do that, we must place Romans 3:28 back into its full context.
 > 6. **Are there early Church Fathers who comment on the meaning of “works of law”?**  
 
 
-🧭 **Navigation**: [⬅️Prev](./c003-sola-fide-proof-text.md) [Next➡️](#)
+🧭 **Navigation**: [⬅️Prev](./c003-sola-fide-proof-text.md) [Next➡️](./c005-romans-rewind.md)

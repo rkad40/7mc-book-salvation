@@ -163,7 +163,7 @@ Yet, understanding the divide is the first step toward engaging it honestly. Onl
 
 In the next chapter, we will roll up our sleeves and examine the verse that, more than any other, is seen as the backbone of *sola fide*.
 
-> #### Ask An AI
+> #### 💡 Ask An AI
 >
 > Here are a few theologically neutral questions a reader might ask an AI to explore this topic more deeply:
 >

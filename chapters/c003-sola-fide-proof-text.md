@@ -157,7 +157,7 @@ Of course, there is another possibility—one we have not yet considered.
 
 What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of the law”?
 
-> #### Ask An AI
+> #### 💡 Ask An AI
 >
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
 > 
