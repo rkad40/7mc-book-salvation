@@ -1,4 +1,4 @@
-📖 **Chapter 1** *(1-minute read)*
+📖 **Chapter 1** *(4-minute read)*
 
 # A Question of Salvation
 

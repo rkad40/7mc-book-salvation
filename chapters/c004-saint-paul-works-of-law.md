@@ -1,4 +1,4 @@
-📖 **Chapter 4** *(1-minute read)*
+📖 **Chapter 4** *(7-minute read)*
 
 # What Does Saint Paul Mean by "Works of Law"?
 

@@ -1,4 +1,4 @@
-📖 **Chapter 3** *(1-minute read)*
+📖 **Chapter 3** *(7-minute read)*
 
 # The Bible Verse That Clearly Teaches Justification By Faith Alone 
 
