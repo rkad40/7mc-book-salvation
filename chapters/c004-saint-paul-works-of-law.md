@@ -5,9 +5,9 @@
 > #### 📄 Abstract
 > The key to Romans 3:28 is the meaning of the word Paul uses for “law”: *nomos*. Protestants generally interpret *nomos* here to mean *good works* or *works of righteousness*, which leads naturally to the doctrine of justification by faith alone. But *nomos* has a specific and highly relevant biblical meaning: it is the Greek word used to translate *Torah*—the Mosaic Law. If we apply this meaning, the Catholic reading emerges: Paul is not contrasting faith with moral effort, but faith with the Mosaic covenantal system. In that case, Romans 3:28 is not saying that good works are excluded from justification, but that a person does **not** need to become a Jew—by adopting circumcision, dietary laws, and the rest of the Torah—in order to become a Christian.
 
-Protestant theologians often assert—quite forcefully—that Romans 3:28 teaches *sola fide*, that it is an irrefutable fact that man is justified *by faith alone*. Many seem genuinely incredulous when Catholics do not subscribe to this interpretation of Paul’s dogmatic dictum, which they believe is so clearly stated in the third chapter of Romans.
+Protestant theologians often assert—quite forcefully—that Romans 3:28 teaches that man is justified *by faith alone*. Many seem genuinely incredulous when Catholics do not subscribe to this interpretation of Paul’s dogmatic dictum, which they believe is so clearly stated in the third chapter of Romans.
 
-But is it possible that there is a *reason* Catholics are not so easily persuaded?
+But is it possible that there is a *reason* Catholics are not so easily swayed?
 
 As a Catholic Christian, I take the topic of salvation *very seriously*. The first prayer on my lips when I rise and the last when I lie down is: *“Lord, please save my family.”*  
 
@@ -19,9 +19,11 @@ One of my favorite Christian quotations comes from the nineteenth‑century prie
 
 [^Quote-1]: Knowles, Leo J. *The Catholic Book of Quotations*. Huntington, IN: Our Sunday Visitor Publishing Division, 2004, p. 81.
 
-The sentiment is beautiful—breathtaking even—and I pray it is that simple. Because if it is, then this book may not serve much purpose. Protestants and Catholics alike would be equally positioned to receive the gift of eternal life.
+The sentiment is beautiful—breathtaking even. And I pray it is that simple. If it is, then this book serves little purpose. Protestants and Catholics alike would be equally positioned to receive the gift of eternal life.
 
-But we must prepare as if it is *not* that simple. And that means biblically grounded theology matters.
+But what if it is *not* that simple?
+
+As Christians, we must be prepared. And that means that basing our theology on biblically grounded facts matters.
 
 ## Romans 3:28 Redux
 
