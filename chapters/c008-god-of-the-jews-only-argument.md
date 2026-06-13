@@ -5,8 +5,6 @@
 > #### 📄 Abstract
 > Romans 3:28 is often quoted in isolation as a proof‑text for *sola fide*, but Paul immediately follows it with a logical contrast in Romans 3:29. When the two verses are read together, Paul creates an "A‑or‑B" structure: either man is justified by faith apart from "works of law," **or** God is only the God of the Jews. This forces "works of law" to refer to something uniquely Jewish--namely, the **Mosaic boundary markers** that distinguished Jews from Gentiles. When we apply the BYOD (Bring Your Own Definition) test from **RIGHT‑1**, only the Catholic definition ("works of the Mosaic Law") makes the logic coherent. The Protestant definition ("good works") collapses the argument. This chapter shows that Romans 3:28–29, read in context, unambiguously refers to **works of the Mosaic Law**, not good works.
 
----
-
 The **Covenant‑Context Argument** and the **Two‑Witness Context Argument** are strong proofs, but admittedly, they do leave a bit of wiggle room.
 
 The next proof, the **God‑of‑the‑Jews‑Only Argument**, is a *much* better and *far* stronger argument. This argument once again leans heavily into our **RIGHT** rules. It involves context (**RIGHT‑2**)--but in a way that removes subjectivity from the analysis.
@@ -221,8 +219,6 @@ Paul's logic is covenantal to the core--and once you see it, you can't unsee it.
 I promised you an airtight argument, and I think I have delivered. 
 
 But we are not done yet.
-
----
 
 > #### 💡 Ask An AI
 > 

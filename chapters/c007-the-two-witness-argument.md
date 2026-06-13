@@ -207,8 +207,6 @@ The next two arguments that I will present over the next two chapters are about 
 
 They are both veritable **debate enders**.
 
----
-
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:

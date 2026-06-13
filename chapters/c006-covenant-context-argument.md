@@ -5,8 +5,6 @@
 > #### 📄 Abstract
 > Paul's argument in Romans 1–3 is not about people trying to earn salvation by good works.  It is about Jews claiming covenant privilege through the Mosaic Law--especially circumcision. Throughout these chapters, Paul contrasts Jew/Gentile, circumcised/uncircumcised, and those under the **LAW**/without the **LAW**. His target is not moral legalism but covenantal entitlement.  Circumcision, the first and defining work of the Mosaic Law, functioned as a covenantal identity marker. Many Jewish Christians believed Gentiles must become Jews--enter the covenant through circumcision--to be saved. Paul dismantles this claim. He insists that covenant identity does not justify anyone. Jews and Gentiles stand on equal footing before God, and both are justified by faith in Christ apart from the works that mark Jewish covenant membership. Read in context, "works of law" in Romans 3:28 refers not to good works in general but to the Mosaic Law's covenant‑defining works. Paul's point is not "faith alone," but "no covenant privilege."  
 
----
-
 In the next four chapters, we will examine four arguments showing that "works of law" in Romans 3:28 means **works of the Mosaic Law**.
 
 The first of these is the **Covenant‑Context Argument**. As the name suggests, it is grounded in the immediate context of Romans 3:28--namely, Romans 1–3.
