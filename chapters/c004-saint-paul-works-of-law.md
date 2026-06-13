@@ -170,8 +170,7 @@ And to do that, we must place Romans 3:28 back into its full context.
 > 3. **How do Protestant and Catholic scholars differ in their interpretation of Romans 3:28?**  
 > 4. **What role did the Jew‑Gentile controversy play in shaping Paul's theology of justification?**  
 > 5. **How does the Council of Jerusalem (Acts 15) inform our reading of Romans and Galatians?**  
-> 6. **Are there early Church Fathers who comment on the meaning of "works of law"?**  
-
+> 6. **Are there early Church Fathers who comment on the meaning of "works of law"?**
 
 🧭 **Navigation**: [⬅️Prev](c003-sola-fide-proof-text.md) [Next➡️](c005-romans-rewind.md) 
 

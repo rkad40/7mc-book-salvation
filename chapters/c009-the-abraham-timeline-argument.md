@@ -1,19 +1,15 @@
-📖 **Chapter 9** *(9-minute read)*
+📖 **Chapter 9** *(8-minute read)*
 
 # The Abraham Timeline Argument (Romans 3:30)
 
-> # Spoiler
+> #### 📄 Abstract
 > Paul appeals to the chronology of Abraham's life to show that justification occurred *before* Abraham performed the covenant‑initiating act of circumcision--the first "work of the law." This argument only makes sense if Paul has in mind Mosaic‑covenant works, not good works in general. The Protestant reading collapses the chronology and renders Paul's argument incoherent, while the Catholic reading preserves its force.
-
----
 
 We have already examined three arguments from Romans 1–3 showing that when Paul speaks of "works of law" (Romans 3:20, 28), he means **works of the Mosaic Law**.
 
 We now turn to Romans 4 for the fourth. I call it the **Abraham Timeline Argument**.
 
 Let's jump right into it.
-
----
 
 ## Introduction to the Abraham Timeline Argument
 
@@ -39,8 +35,6 @@ The Torah identified the Jews as **God's chosen people**. For many Jews, it woul
 If Paul can truly show that the Torah says that man is justified by faith and not by works of law, then Torah‑based covenantal presumption is dismantled.
 
 Spoiler alert: **That is exactly what Paul does**.
-
----
 
 ## Saint Paul's Brilliant Argument
 
@@ -93,8 +87,6 @@ Thus Paul shows that the Torah itself teaches that Abraham was justified by fait
 
 It is a brilliant argument that dismantles Torah‑based covenantal presumption.
 
----
-
 ## The Problem for Protestants with the Abraham Justification Timeline
 
 Paul promised a biblical proof showing that man is justified by faith apart from "works of law." And he delivered--but only *if* one subscribes to the notion that "works of law" means **works of the Mosaic Law** and that Paul is arguing against **Torah‑based covenantal presumption**.
@@ -137,8 +129,6 @@ Forced through the interpretive filter of Protestantism, Paul's biblical proof w
 
 Brilliant as Paul's argument otherwise is, it simply does not work within the Protestant framework.
 
----
-
 ## Protestant Rejoinders to Paul's Abraham Timeline Argument
 
 None of this stops Protestants from claiming that Paul's real goal is to refute the more general works‑salvation heresy.
@@ -174,8 +164,6 @@ Other Protestants propose nuanced variations of these two approaches. But they a
 
 That means that in Romans 4:9–10 **circumcision really does mean circumcision**--and one is bound by the theological implications that follow.
 
----
-
 ## Conclusion
 
 In Romans 4, Paul delivers an ironclad biblical argument showing that man is not justified by **works of the Mosaic Law**.
@@ -190,9 +178,7 @@ Because Scripture is the Word of God, we must hold that Paul's argument in Roman
 
 Thus, we again arrive at a biblical proof that further demonstrates that when Paul speaks of "works of law," he means **works of the Mosaic Law**.
 
----
-
-> # Ask An AI
+> #### 💡 Ask An AI
 >
 > Here are some theologically neutral questions a reader might ask an AI to explore this topic more deeply:
 >
@@ -200,5 +186,6 @@ Thus, we again arrive at a biblical proof that further demonstrates that when Pa
 > 2. What is the historical and covenantal significance of circumcision in the Old Testament, and how does that context shape Paul's reasoning in Romans 4?
 > 3. Does Paul's argument in Romans 4 logically support a distinction between "works of the law" and "good works," or does it treat all works the same?
 > 4. How did Second Temple Jews understand Abraham's righteousness, and how might that background illuminate Paul's use of Abraham as an example?
+
 🧭 **Navigation**: [⬅️Prev](c008-god-of-the-jews-only-argument.md)
 

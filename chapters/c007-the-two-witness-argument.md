@@ -211,14 +211,14 @@ They are both veritable **debate enders**.
 
 ---
 
-> # Ask an AI
+> #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
 > 
 > 1. **How do biblical scholars distinguish between different uses of the word "law" (*nomos*) in Paul's letters?**  
 > 2. **What evidence do historians give for how first‑century Jews understood "the law and the prophets"?**  
 > 3. **How do Protestant and Catholic interpreters differ in their reading of Romans 3:28, and what assumptions shape each view?**  
-> 4. **What role does the Deuteronomic two‑witness rule play in Jewish legal reasoning, and how might Paul be drawing on it?**  
+> 4. **What role does the Deuteronomic two‑witness rule play in Jewish legal reasoning, and how might Paul be drawing on it?**
 
 🧭 **Navigation**: [⬅️Prev](c006-covenant-context-argument.md) [Next➡️](c008-god-of-the-jews-only-argument.md) 
 

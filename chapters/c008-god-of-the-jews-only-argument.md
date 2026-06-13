@@ -1,8 +1,8 @@
-📖 **Chapter 8** *(8-minute read)*
+📖 **Chapter 8** *(7-minute read)*
 
 # The God‑of‑the‑Jews‑Only Argument (Romans 3:28–29)
 
-> # Spoiler
+> #### 📄 Abstract
 > Romans 3:28 is often quoted in isolation as a proof‑text for *sola fide*, but Paul immediately follows it with a logical contrast in Romans 3:29. When the two verses are read together, Paul creates an "A‑or‑B" structure: either man is justified by faith apart from "works of law," **or** God is only the God of the Jews. This forces "works of law" to refer to something uniquely Jewish--namely, the **Mosaic boundary markers** that distinguished Jews from Gentiles. When we apply the BYOD (Bring Your Own Definition) test from **RIGHT‑1**, only the Catholic definition ("works of the Mosaic Law") makes the logic coherent. The Protestant definition ("good works") collapses the argument. This chapter shows that Romans 3:28–29, read in context, unambiguously refers to **works of the Mosaic Law**, not good works.
 
 ---
@@ -220,7 +220,7 @@ But we are not done yet.
 
 ---
 
-> # Ask an AI
+> #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
 > 
@@ -228,5 +228,6 @@ But we are not done yet.
 > 2. **How does Paul use disjunctive logic or rhetorical alternatives elsewhere in his letters, and does Romans 3:28–29 follow the same pattern?**
 > 3. **What evidence exists in Jewish and early Christian writings that "works of the law" refers to practices that distinguish Jews from Gentiles?**
 > 4. **How do different Christian traditions interpret Romans 3:28–29, and what assumptions shape those interpretations?**
+
 🧭 **Navigation**: [⬅️Prev](c007-the-two-witness-argument.md) [Next➡️](c009-the-abraham-timeline-argument.md) 
 
