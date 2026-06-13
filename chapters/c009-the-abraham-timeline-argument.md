@@ -1,4 +1,4 @@
-📖 **Chapter 9** *(8-minute read)*
+📖 **Chapter 9** *(7-minute read)*
 
 # The Abraham Timeline Argument (Romans 3:30)
 
@@ -20,11 +20,11 @@ Back in [chapter ${Book.Chapter['C009-TheTwoWitnessArgument'].ChapterNumber}](${
 
 Because "the **LAW** and the **Prophets**" is a formulaic expression for the Hebrew Scriptures, we concluded that "law" here means **Torah**. This allowed us to show that "law" in verses 20 and 28 also means **Torah**, placing those battleground verses squarely in the Catholic sphere.
 
-At the time, however, we did not linger on the broader implication:
+At the time we did not linger on the broader implication:
 
 > **Paul is claiming that justification by faith is not a *new* idea.**  
 
-To those Jews who accepted the Torah as the word of God *par excellence*, but denied that Gentiles could be saved without obeying the Mosaic Law, Paul is saying:
+To those Jews who accepted the Torah as the word of God *par excellence*, but denied that Gentiles could be saved apart from Mosaic Law, Paul is saying:
 
 > **Even the Torah teaches that salvation is apart from the Mosaic Law.**
 
@@ -32,7 +32,7 @@ Paul's claim has the force of a biblical mic‑drop moment.
 
 The Torah identified the Jews as **God's chosen people**. For many Jews, it would have been **inconceivable** that the godless Gentiles were included in God's plan for salvation.
 
-If Paul can truly show that the Torah says that man is justified by faith and not by works of law, then Torah‑based covenantal presumption is dismantled.
+If Paul can truly show that the Torah says that man is justified by faith and not by works of law, then he dismantles the Judaizer heresy.
 
 Spoiler alert: **That is exactly what Paul does**.
 
@@ -67,7 +67,7 @@ Why does this matter?
 
 Under the Old Covenant, a man did not enter into covenant with God **until he was circumcised**. Circumcision was the **first and foundational work of the Mosaic Law**. Other works of law might follow. **But circumcision was *always* the first**. 
 
-Paul's logic is simple and airtight:
+Paul's logic is airtight:
 
 1. Abraham was justified **before** circumcision.  
 2. Circumcision is the **first** work of the Mosaic Law.  
@@ -81,7 +81,7 @@ Graphically:
 
 If event `A` **precedes** event `B`, then `B` **cannot** be the cause of `A`.
 
-Thus Paul shows that the Torah itself teaches that Abraham was justified by faith apart from Mosaic works. Therefore:
+Paul shows that the Torah itself teaches that Abraham was justified by faith apart from Mosaic works. Therefore:
 
 > **Gentiles can likewise be justified by faith without first becoming Jews**.
 
@@ -89,11 +89,11 @@ It is a brilliant argument that dismantles Torah‑based covenantal presumption.
 
 ## The Problem for Protestants with the Abraham Justification Timeline
 
-Paul promised a biblical proof showing that man is justified by faith apart from "works of law." And he delivered--but only *if* one subscribes to the notion that "works of law" means **works of the Mosaic Law** and that Paul is arguing against **Torah‑based covenantal presumption**.
+Paul promised a biblical proof showing that man is justified by faith apart from "works of law." And he delivered--but only *if* one subscribes to the notion that "works of law" means **works of the Mosaic Law** and that Paul is arguing against **Judaizer heresy**.
 
-If one tries to squeeze **good works** into Paul's definition of "works of law" such that Paul is more generally targeting **works‑salvation**, then his brilliant argument disintegrates into incoherence.
+If one tries to squeeze **good works** into Paul's definition of "works of law" such that Paul is more generally targeting the **works‑salvation heresy**, then his brilliant argument disintegrates into incoherence.
 
-That's because Paul's entire case hinges on the **chronological significance** of circumcision as the **first work of the Mosaic Law**. But Protestants do not read Paul's "works of law" as **works of the Mosaic Law**. They read it as **good works**.
+Paul's entire case hinges on the **chronological significance** of circumcision as the **first work of the Mosaic Law**. But Protestants do not read Paul's "works of law" as **works of the Mosaic Law**. They read it as **good works**.
 
 **Question**:
 
@@ -107,7 +107,7 @@ In the context of **works of the Mosaic Law**, circumcision operates like a temp
 
 Why else would Paul aks: **"Was it [Abraham's justification] before or after he had been circumcised?"** Paul is clearly stating that there is **is** a chronological significance to circumcision.
 
-But if "works of law" means **good works**, as Protestants claim, then circumcision is a **JAG** (**J**ust **A**nother **G**ood Work). Circumcision--if it could be considered a good work at all--would simply be one of many **without chronological significance**. What would it then matter if Abraham was justified before being circumcised? At most it would prove Abraham wasn't justified by that **specific** good work. It would not prove that the patriarch was not justified by a **prior** good work.
+But if "works of law" means **good works**, as Protestants claim, then circumcision is a **JAG** (**J**ust **A**nother **G**ood Work). Circumcision--if it could be considered a good work at all--would simply be one of many. What would it then matter if Abraham was justified before being circumcised? At most it would prove Abraham wasn't justified by that **specific** good work. It would not prove that the patriarch was not justified by a **prior** good work.
 
 It gets worse though. A savvy works‑salvation interlocutor could easily blow up Paul's argument by pointing to Genesis 12:
 
@@ -141,9 +141,7 @@ Some attempt what I would call the **brute‑force** technique of simply asserti
 
 But with respect to Dr. Sproul and those who share his view, this is categorically false. Abraham *did* do good works before he was justified. Genesis 12 is just one example.[^Sproul-FaithAlone-Overview]
 
-[^Sproul-FaithAlone-Overview]: Ibid. Notably, Sproul neither exegetes nor mentions Abraham's obedience in Genesis 12. There is a reason for this. As a Reformed Calvinist, Sproul inherits a long‑standing difficulty: defending *sola fide* in light of Abraham's obedience in Genesis 12. Reformed theology teaches that Abraham was justified in Genesis 15 when he "believed God" and it was "counted to him as righteousness." To preserve this, they must also teach that **nothing Abraham did before Genesis 15 counts as a "work" in Paul's sense**. Thus Abraham's obedience in Genesis 12 is reclassified as a **different kind of work**--a so‑called "faith‑work" that occupies a vague space between Abraham's initial stirrings of belief (Genesis 12) and his definitive act of belief (Genesis 15). <p></p>
-But this produces a circular argument: **Abraham could not have been justified by good works because he had done no good works prior to justification (Genesis 15); and the works he *did* perform prior to justification (Genesis 12) cannot be considered "good" because he had not yet been justified.**<p></p>Recognizing the instability of this position, some Protestants have been willing to treat Abraham's obedience in Genesis 12 as evidence that **he was already truly justified at that earlier point**. See, for example, Phil Gons' ["When Was Abraham Justified?"](https://philgons.com/2007/04/when-was-abraham-justified-part-1/). But this move destroys Paul's argument in Romans 4. Paul's proof depends on two explicit chronological markers: (1) Abraham was justified in **Genesis 15**, and (2) Abraham was circumcised in **Genesis 17**. Paul's point is that Abraham was justified *before* performing any **works of the law**--with circumcision serving as the concrete, covenantal timestamp.<p></p>
-But if justification is pushed back to Genesis 12, Paul's chronology collapses. Genesis 12:1–3 records God's command; Genesis 12:4 records Abraham's obedient action: "Abram went, as the Lord had told him." There is no prior statement of Abraham's faith that would allow Paul to argue that faith preceded this good work. Thus, if "works of the law" means **good works**, Paul's argument fails to demonstrate that Abraham was justified before doing any.<p></p>
+[^Sproul-FaithAlone-Overview]: Ibid. Notably, Sproul neither exegetes nor mentions Abraham's obedience in Genesis 12. There is a reason for this. As a Reformed Calvinist, Sproul inherits a long‑standing difficulty: defending *sola fide* in light of Abraham's obedience in Genesis 12. Reformed theology teaches that Abraham was justified in Genesis 15 when he "believed God" and it was "counted to him as righteousness." To preserve this, they must also teach that **nothing Abraham did before Genesis 15 counts as a "work" in Paul's sense**. Thus Abraham's obedience in Genesis 12 is reclassified as a **different kind of work**--a so‑called "faith‑work" that occupies a vague space between Abraham's initial stirrings of belief (Genesis 12) and his definitive act of belief (Genesis 15). <p></p> But this produces a circular argument: **Abraham could not have been justified by good works because he had done no good works prior to justification (Genesis 15); and the works he *did* perform prior to justification (Genesis 12) cannot be considered "good" because he had not yet been justified.**<p></p>Recognizing the instability of this position, some Protestants have been willing to treat Abraham's obedience in Genesis 12 as evidence that **he was already truly justified at that earlier point**. See, for example, Phil Gons' ["When Was Abraham Justified?"](https://philgons.com/2007/04/when-was-abraham-justified-part-1/). But this move destroys Paul's argument in Romans 4. Paul's proof depends on two explicit chronological markers: (1) Abraham was justified in **Genesis 15**, and (2) Abraham was circumcised in **Genesis 17**. Paul's point is that Abraham was justified *before* performing any **works of the law**--with circumcision serving as the concrete, covenantal timestamp.<p></p> But if justification is pushed back to Genesis 12, Paul's chronology collapses. Genesis 12:1–3 records God's command; Genesis 12:4 records Abraham's obedient action: "Abram went, as the Lord had told him." There is no prior statement of Abraham's faith that would allow Paul to argue that faith preceded this good work. Thus, if "works of the law" means **good works**, Paul's argument fails to demonstrate that Abraham was justified before doing any.<p></p>
 Paul's proof only works if "works of the law" refers to **works of the Mosaic Law**. It does **not** and **cannot** work if "works of the law" is reinterpreted as **good works**.
 
 Some Protestants attempt to turn circumcision into a **symbolic act** that somehow retains chronological significance while being abstracted to include all works. For example, the authors of the *Life Application New Testament Commentary* write:
