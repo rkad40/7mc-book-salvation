@@ -1,4 +1,4 @@
-**Chapter 2** *(1-minute read)*
+📖 **Chapter 2** *(1-minute read)*
 
 # The Great Divide
 
@@ -173,4 +173,4 @@ In the next chapter, we will roll up our sleeves and examine the verse that, mor
 > 4. **What biblical passages are most commonly cited in discussions about salvation?**
 > 5. **How have modern theologians attempted to bridge the divide between Catholic and Protestant views on salvation?**
 
-[⬅️Prev](./c001-introduction.md)
+🧭 **Navigation**: [⬅️Prev](./c001-introduction.md) [Next➡️](./c003-sola-fide-proof-text.md)
