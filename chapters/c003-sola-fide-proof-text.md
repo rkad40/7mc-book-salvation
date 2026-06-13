@@ -1,4 +1,4 @@
-📖 **Chapter 3** *(7-minute read)*
+📖 **Chapter 3** *(6-minute read)*
 
 # The Bible Verse That Clearly Teaches Justification By Faith Alone 
 
@@ -7,17 +7,17 @@
 
 In 1517, Martin Luther penned his now‑famous *95 Theses*, protesting abuses he perceived in the Catholic Church.
 
-Rumor has it that Luther dramatically nailed his document to the door of the Wittenberg church on October 31st--Halloween Day--1517. The scene is so iconic that it has become the Reformation's opening tableau, reenacted in sermons, textbooks, and children's Sunday‑school plays.
+Rumor has it that Luther dramatically nailed his document to the door of the Wittenberg church on October 31st—Halloween Day—1517. The scene is so iconic that it has become the Reformation's opening tableau, reenacted in sermons, textbooks, and children's Sunday‑school plays.
 
 But did it actually happen?
 
 Modern scholarship is increasingly skeptical. The scant evidence we possess suggests that Luther simply mailed his *95 Theses* to Archbishop Albrecht of Mainz. No hammer. No nails. No dramatic thud echoing through the streets of Wittenberg.
 
-Whether nailed or mailed, the effect was the same. Luther's Theses were a shot across the bow of the Catholic Church--the opening salvo in a theological conflict that soon engulfed all of Christendom.[^95-Theses-Commentary]
+Whether nailed or mailed, the effect was the same. Luther's Theses were a shot across the bow of the Catholic Church—the opening salvo in a theological conflict that soon engulfed all of Christendom.[^95-Theses-Commentary]
 
 [^95-Theses-Commentary]: Luther's *95 Theses* do **not** mention *sola fide* or even broach the topic of justification. That would come later.
 
-Over the next decade and a half, the Reformation grew from a protest into a full‑blown rebellion against Rome. And *sola fide*--justification by faith alone--became the rallying cry of those leading the charge.
+Over the next decade and a half, the Reformation grew from a protest into a full‑blown rebellion against Rome. And *sola fide*—justification by faith alone—became the rallying cry of those leading the charge.
 
 Luther famously called justification by faith alone the article upon which the Church stands or falls. For Luther and for many who followed him, *sola fide* was not merely one doctrine among many. **It was the beating heart of the gospel itself.**
 
@@ -28,7 +28,7 @@ One of the founding tenets of the Protestant Reformation was the belief that Chr
 
 This uniquely Protestant conviction is known in academic circles as the **Perspicuity of Scripture**.
 
-The word *perspicuity* means "clarity." And the doctrine asserts precisely that--Scripture is **clear**. One Protestant commentator summarizes it this way:
+The word *perspicuity* means "clarity." And the doctrine asserts precisely that—Scripture is **clear**. One Protestant commentator summarizes it this way:
 
 > "The doctrine of perspicuity means that the central message of the Bible is clear and understandable… Its meaning is comprehensible even to children and the simple."[^Perspicuity-1]
 
@@ -40,18 +40,18 @@ Dr. R. C. Sproul echoes the sentiment in *Essential Truths of the Christian Fait
 
 [^Sproul-Perspicuity]: R. C. Sproul, *Essential Truths of the Christian Faith* (Wheaton, IL: Tyndale House, 1992), 26.
 
-If something is so clear that even children can grasp it, then it must be unmistakably clear--so clear that getting it wrong would feel almost criminal.
+If something is so clear that even children can grasp it, then it must be unmistakably clear—so clear that getting it wrong would feel almost criminal.
 
 This is why Protestants often appeal to the "plain sense" or "clear meaning" of Scripture. It is a layman's shorthand for the doctrine of perspicuity.[^Perspicuity-Limits]
 
-[^Perspicuity-Limits]: It is important to note what the doctrine of perspicuity does and does not claim. Protestants are not saying that *all* of Scripture is clear--only those *essential doctrines*, among which salvation is certainly included.
+[^Perspicuity-Limits]: It is important to note what the doctrine of perspicuity does and does not claim. Protestants are not saying that *all* of Scripture is clear—only those *essential doctrines*, among which salvation is certainly included.
 
 
 ## Justification by Faith Alone, Clearly Taught
 
-Given Protestant appeals to the "plain sense" of Scripture, one might expect the doctrine of justification by faith alone--*sola fide*--to appear explicitly in the Bible. If justification by faith alone is the very heart of the gospel, then surely Scripture would state it plainly. And Protestants insist that it.
+Given Protestant appeals to the "plain sense" of Scripture, one might expect the doctrine of justification by faith alone—*sola fide*—to appear explicitly in the Bible. If justification by faith alone is the very heart of the gospel, then surely Scripture would state it plainly. And Protestants insist that it.
 
-Interestingly though, the only verse in all of Scripture that uses the phrase *"faith alone"* is James 2:24--and it explicitly rejects the formula:
+Interestingly though, the only verse in all of Scripture that uses the phrase *"faith alone"* is James 2:24—and it explicitly rejects the formula:
 
 > #### ✝️ James 2:24 (RSV‑2CE) 
 > You see that a man is justified by works and not by faith alone.
@@ -82,14 +82,14 @@ Any answer that includes more than this is dismissed as a "false gospel."
 
 Catholic theologians in Luther's day (and ever since) have pointed out that Romans 3:28 does **not** say that a person is justified by *faith alone*. Rather, Paul writes that a person is justified "by faith apart from *works of law*."
 
-In other words, Paul is not contrasting faith with "works" in general. He is contrasting faith with a specific category of works--*works of law*.
+In other words, Paul is not contrasting faith with "works" in general. He is contrasting faith with a specific category of works—*works of law*.
 
 But to the Reformers, this distinction was immaterial. Even if Paul did not explicitly say "faith alone," they believed that this was "clearly" what he meant.
 
 
 ## Getting "Faith Alone" From "Faith Apart From Works of the Law"
 
-To get from Paul's actual words to the Protestant formula "faith alone," one must make a series of interpretive moves--each one small, but cumulatively significant.
+To get from Paul's actual words to the Protestant formula "faith alone," one must make a series of interpretive moves—each one small, but cumulatively significant.
 
 First, Protestants define "works of the law" as *good works* or *works of righteousness*. If we apply that definition to Paul's statement, we get:
 
@@ -106,7 +106,7 @@ And if justification is "apart from any works," then faith must be the exclusive
 > #### Protestant interpretation of Romans 3:28: STEP 3 of 3
 > For we hold that a man is justified by faith *alone*.
 
-And *voilà*--the doctrine of *sola fide* emerges. 
+And *voilà*—the doctrine of *sola fide* emerges. 
 
 While word "alone" may not be in Paul's version of Romans 3:28, it has certainly made itself at home in Protestant theology.
 
@@ -127,7 +127,7 @@ Responding to the Catholic critique in his day, Martin Luther wrote:
 
 Luther was never known for *understating* his position. Witty? Certainly. Colorful? Always. Whether he was correct in this case is another matter entirely (and remains to be seen).
 
-John Calvin was more measured--though only slightly. He conceded that the word "alone" does not appear in the text, but argued that its inclusion is warranted:
+John Calvin was more measured—though only slightly. He conceded that the word "alone" does not appear in the text, but argued that its inclusion is warranted:
 
 > Their objection to the exclusive or *alone* is not only unfounded, but it is obviously absurd. Does he [Paul] not clearly enough attribute everything to faith alone when he disconnects it from works?[^3]
 
@@ -141,7 +141,7 @@ Similar statements have been made by Protestant theologians ever since. In his c
 
 Reformed apologist James White, in his book *The Roman Catholic Controversy*, writes:
 
-> Paul goes on to describe the means of justification--it is by faith and faith alone. He writes: "For we maintain that a man is justified by faith apart from works of the Law" (Romans 3:28).[^4]
+> Paul goes on to describe the means of justification—it is by faith and faith alone. He writes: "For we maintain that a man is justified by faith apart from works of the Law" (Romans 3:28).[^4]
 
 [^4]: As cited in Robert A. Sungenis, *Not By Faith Alone*, p. 5.
 
@@ -159,9 +159,9 @@ For five centuries, Protestant theologians have asserted two key claims:
 
 It seems like an open‑and‑shut case.
 
-Of course, there is another possibility--one we have not yet considered.
+Of course, there is another possibility—one we have not yet considered.
 
-What if--*just maybe*--Saint Paul had something else in mind when he spoke of "works of the law"?
+What if—*just maybe*—Saint Paul had something else in mind when he spoke of "works of the law"?
 
 > #### 💡 Ask An AI
 >

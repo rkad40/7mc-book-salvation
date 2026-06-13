@@ -3,13 +3,13 @@
 # The Covenant‑Context Argument (Romans 1:1–3:27)
 
 > #### 📄 Abstract
-> Paul's argument in Romans 1–3 is not about people trying to earn salvation by good works.  It is about Jews claiming covenant privilege through the Mosaic Law--especially circumcision. Throughout these chapters, Paul contrasts Jew/Gentile, circumcised/uncircumcised, and those under the **LAW**/without the **LAW**. His target is not moral legalism but covenantal entitlement.  Circumcision, the first and defining work of the Mosaic Law, functioned as a covenantal identity marker. Many Jewish Christians believed Gentiles must become Jews--enter the covenant through circumcision--to be saved. Paul dismantles this claim. He insists that covenant identity does not justify anyone. Jews and Gentiles stand on equal footing before God, and both are justified by faith in Christ apart from the works that mark Jewish covenant membership. Read in context, "works of law" in Romans 3:28 refers not to good works in general but to the Mosaic Law's covenant‑defining works. Paul's point is not "faith alone," but "no covenant privilege."  
+> Paul's argument in Romans 1–3 is not about people trying to earn salvation by good works.  It is about Jews claiming covenant privilege through the Mosaic Law—especially circumcision. Throughout these chapters, Paul contrasts Jew/Gentile, circumcised/uncircumcised, and those under the **LAW**/without the **LAW**. His target is not moral legalism but covenantal entitlement.  Circumcision, the first and defining work of the Mosaic Law, functioned as a covenantal identity marker. Many Jewish Christians believed Gentiles must become Jews—enter the covenant through circumcision—to be saved. Paul dismantles this claim. He insists that covenant identity does not justify anyone. Jews and Gentiles stand on equal footing before God, and both are justified by faith in Christ apart from the works that mark Jewish covenant membership. Read in context, "works of law" in Romans 3:28 refers not to good works in general but to the Mosaic Law's covenant‑defining works. Paul's point is not "faith alone," but "no covenant privilege."  
 
 In the next four chapters, we will examine four arguments showing that "works of law" in Romans 3:28 means **works of the Mosaic Law**.
 
-The first of these is the **Covenant‑Context Argument**. As the name suggests, it is grounded in the immediate context of Romans 3:28--namely, Romans 1–3.
+The first of these is the **Covenant‑Context Argument**. As the name suggests, it is grounded in the immediate context of Romans 3:28—namely, Romans 1–3.
 
-Our method follows the interpretive framework: **RIGHT**--the **R**ules for **I**nterpreting **G**od's **H**oly **T**ext.
+Our method follows the interpretive framework: **RIGHT**—the **R**ules for **I**nterpreting **G**od's **H**oly **T**ext.
 
 Time to get our Bible on.
 
@@ -33,7 +33,7 @@ It does not matter how you or I define "works of law." What matters is how **Pau
 
 Put together, these rules require that we define "works of law" in Romans 3:28 **using the definition supplied by the context**.
 
-Our first step, then, is to examine the *greater context*--Romans 1–3.
+Our first step, then, is to examine the *greater context*—Romans 1–3.
 
 
 ## Catholic and Protestant Interpretation of Romans 1–3
@@ -48,7 +48,7 @@ For Protestants, Paul is asking:
 
 > Can a person earn salvation by doing good works?
 
-In this reading, Paul is refuting **moral legalism**--the idea that one can "earn" or "merit" salvation by good works. Protestant theologians often call this error **works‑salvation**, and many accuse Catholics of holding it.
+In this reading, Paul is refuting **moral legalism**—the idea that one can "earn" or "merit" salvation by good works. Protestant theologians often call this error **works‑salvation**, and many accuse Catholics of holding it.
 
 Despite protestations to the contrary, **Catholics firmly reject works‑salvation as heresy**. But Catholics also maintain that this is *not* the issue Paul is addressing in Romans.
 
@@ -56,7 +56,7 @@ For Catholics, Paul's question is:
 
 > Must a person first become a Jew to be saved?
 
-In this reading, Paul is refuting the **Torah‑based covenantal presumption**--the claim that one must become a Jew and submit to the Mosaic Law to be saved.
+In this reading, Paul is refuting the **Torah‑based covenantal presumption**—the claim that one must become a Jew and submit to the Mosaic Law to be saved.
 
 
 ## Analysis of the Protestant Reading of Romans 1–3
@@ -86,7 +86,7 @@ No, to make its case, the Protestant position requires Paul to say something lik
 
 Does Paul ever do this? Protestants insist he does. 
 
-In Romans 2:25-29 Paul tells his Jewish readers that circumcision--even if it identified them as God's people and put them in covenant with God--*has no salvific value*. 
+In Romans 2:25-29 Paul tells his Jewish readers that circumcision—even if it identified them as God's people and put them in covenant with God—*has no salvific value*. 
 
 Consequently, when Paul later states that man is "justified by faith apart from works of law", Protests confidently assert this means that man is justified by faith apart from *good works*.
 
@@ -103,7 +103,7 @@ Protestant theologians insist that it is *because God ordered it*. But let us at
 
 [^Universalize]: Many Protestants argue that Paul universalizes the **LAW** in Romans 3:20: "By works of law no flesh will be justified." They argue: (1) "No flesh" = all humanity. Therefore (2) "works of law" = all works. Premise one is true. "No flesh" does, in fact, mean all humanity. But premise 2 does not follow. "No flesh" universalizes the *subjects*, not the *works*. Paul is saying: "Jews and Gentiles alike are not justified by the Mosaic Law." In other words, the Mosaic Law is *universally* incapable of justifying *anyone*.
 
-Paul could have said that "loving your neighbor as yourself"--even though commanded by God--is an example of the type of work *that does not justify*. But he never does this. In this context--and in *every* context--the "good work" referenced is circumcision. 
+Paul could have said that "loving your neighbor as yourself"—even though commanded by God—is an example of the type of work *that does not justify*. But he never does this. In this context—and in *every* context—the "good work" referenced is circumcision. 
 
 Some Protestants attempt to universalize circumcision by claiming it "implies a desire to live under the demands of the law"[^Life-Application]. Circumcision is likewise heralded as a placeholder *for any and all good works*. 
 
@@ -140,7 +140,7 @@ Circumcision was the first and preeminent work of the Mosaic Law. It functioned 
 
 ## A House Divided
 
-This Jew–Gentile tension is not unique to Romans 1-3. It appears throughout the New Testament--in Galatians 2–3, Ephesians 2, Acts 10–11, Acts 15, Philippians 3, and elsewhere--showing that the early Church struggled with the question of Gentile inclusion.
+This Jew–Gentile tension is not unique to Romans 1-3. It appears throughout the New Testament—in Galatians 2–3, Ephesians 2, Acts 10–11, Acts 15, Philippians 3, and elsewhere—showing that the early Church struggled with the question of Gentile inclusion.
 
 This divide was clearly manifested in the fact that many first‑century Jewish Christians did not accept the Gentiles as brothers and sisters in Christ. This tension forms the backdrop of Paul's argument in Romans 1-3.
 
@@ -159,16 +159,16 @@ Plainly stated: The problem wasn't **merit**; it was **entitlement**.
 
 While the Protestant reading struggles to find a sure footing in Romans 1-3, the Catholic covenantal interpretation is difficult to miss. Throw a dart at Romans 2 and it would be hard to hit a verse that did *not* deal with Jewish covenant inclusion and identity. 
 
-This is the context in which we must read Romans 3:28. Everything leading up to this verse--and the verse itself--is about **covenant identity**:
+This is the context in which we must read Romans 3:28. Everything leading up to this verse—and the verse itself—is about **covenant identity**:
 
 > #### ✝️ Romans 3:28 (RSV‑2CE)
 > For we hold that a man is justified by faith apart from works of **LAW**.
 
 That is not Paul teaching justification by faith alone. It is Paul teaching that Jews have **no privilege based on the Mosaic Law**.
 
-The Old Covenant has been set aside. Under the New Covenant, Jews and Gentiles have *equal* access to God--**by faith**.
+The Old Covenant has been set aside. Under the New Covenant, Jews and Gentiles have *equal* access to God—**by faith**.
 
-That is how Romans 3:28 must be read--firmly anchored to its context.
+That is how Romans 3:28 must be read—firmly anchored to its context.
 
 What happens if we fail do this (as many have)? 
 

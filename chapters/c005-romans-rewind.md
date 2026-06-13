@@ -9,7 +9,7 @@ To answer what Saint Paul means by *"works of law"* in Romans 3:28, we must cast
 
 So, in this chapter, I will give a brief overview of Romans 1:1–3:19.
 
-As we walk through Romans, I will follow a simple convention: whenever Paul uses the word *law* in a way that unambiguously refers to the Torah--the Mosaic Law--I will render it as **LAW**.
+As we walk through Romans, I will follow a simple convention: whenever Paul uses the word *law* in a way that unambiguously refers to the Torah—the Mosaic Law—I will render it as **LAW**.
 
 Let's begin.
 
@@ -54,14 +54,14 @@ They will be judged accordingly.
 
 So the Gentiles are the villains in our story, right? *Hold that thought*.
 
-Paul next turns to the Jews--especially those who would regard themselves as morally superior to the godless Gentiles. He addresses them directly:
+Paul next turns to the Jews—especially those who would regard themselves as morally superior to the godless Gentiles. He addresses them directly:
 
 > #### ✝️ Romans 2:1 (RSV‑2CE)
 > In passing judgment on him [i.e., the Gentile] you [i.e., the Jew] condemn yourself.
 
 Though the Jews regarded themselves as God's people and custodians of the Written Law, Paul reminds them that they too are sinners in need of salvation. 
 
-Ultimately, every person--Jew and Gentile alike--will be judged by what they do in this life:
+Ultimately, every person—Jew and Gentile alike—will be judged by what they do in this life:
 
 > #### ✝️ Romans 2:6 (RSV‑2CE)
 > For he [God] will render to every man according to his works.
@@ -71,7 +71,7 @@ Paul then outlines how every man will be judged by God:
 > #### ✝️ Romans 2:7–8 (RSV‑2CE)
 > To those who by patience in well‑doing seek for glory and honor and immortality, he [God] will give eternal life; but for those who are factious and do not obey the truth, but obey wickedness, there will be wrath and fury.
 
-The last two quotes may sit uneasily with many Protestant confessions. Paul affirms that a person is not judged *merely* on whether they accepted Jesus Christ as Lord and Savior. Rather, they are judged by *how they live their faith*--"eternal life" for those who do good, "wrath and fury" for those who do evil.
+The last two quotes may sit uneasily with many Protestant confessions. Paul affirms that a person is not judged *merely* on whether they accepted Jesus Christ as Lord and Savior. Rather, they are judged by *how they live their faith*—"eternal life" for those who do good, "wrath and fury" for those who do evil.
 
 Lest the point be missed, Paul doubles down:
 
@@ -120,7 +120,7 @@ Across the way you have the lowly Gentiles, citizens of an impoverished nation. 
 - no sacred spaces  
 - and no rights of any kind  
 
-This is the view that many Jews in Paul's day had. Indeed, many Jews in that time treated the Torah--the Mosaic Law--as some kind of **badge of honor**. 
+This is the view that many Jews in Paul's day had. Indeed, many Jews in that time treated the Torah—the Mosaic Law—as some kind of **badge of honor**. 
 
 But Paul address those Jews saying:
 
@@ -132,7 +132,7 @@ And again:
 > #### ✝️ Romans 2:23 (RSV‑2CE)
 > You who boast in the **LAW**, do you dishonor God by breaking the **LAW**?
 
-Far from being a badge of honor, the Mosaic Law was more like a **scarlet letter**--a visible reminder that the Jewish people, like an unfaithful spouse, had broken her covenant with God.
+Far from being a badge of honor, the Mosaic Law was more like a **scarlet letter**—a visible reminder that the Jewish people, like an unfaithful spouse, had broken her covenant with God.
 
 Paul is stating it plainly: **the Mosaic Law did not make Jews superior or give them special status. It simply bore witness to their sinful nature.** 
 
@@ -148,7 +148,7 @@ Keep in mind, Paul himself was a Jew. In humbling Jews, he is humbling himself. 
 > #### ✝️ Romans 3:9 (RSV‑2CE)
 > Are we Jews any better off? No, not at all; for I have already charged that all men, both Jews and Greeks, are under the power of sin.
 
-Paul then quotes from the Hebrew Scriptures--an authority his Jewish audience cannot dispute. He begins with Psalm 14:3:
+Paul then quotes from the Hebrew Scriptures—an authority his Jewish audience cannot dispute. He begins with Psalm 14:3:
 
 > #### ✝️ Romans 3:10 (RSV‑2CE)
 > "None is righteous, no, not one"
@@ -167,7 +167,7 @@ There is no distinction. All are in need of salvation.
 
 Saint Paul is telling the Jews that they are no better off than the ungodly Gentiles. 
 
-All the religious practices Jews perform under the Mosaic Law--circumcision, abstaining from pork, keeping the feast days--none of it has *any* salvific value.
+All the religious practices Jews perform under the Mosaic Law—circumcision, abstaining from pork, keeping the feast days—none of it has *any* salvific value.
 
 The unmistakable message Paul delivers is this:
 

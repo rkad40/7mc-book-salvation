@@ -4,7 +4,7 @@
 
 Our story begins in Acts chapter sixteen, verse sixteen. Let us set the stage...
 
-Paul--the self-described "apostle to the Gentiles"--and his companions have traveled to Philippi to preach the gospel. While there, he and one of his disciples, Silas, are seized and arrested, accused by the locals of "disturbing our city." The two are beaten, thrown into prison, and chained to await formal charges.
+Paul—the self-described "apostle to the Gentiles"—and his companions have traveled to Philippi to preach the gospel. While there, he and one of his disciples, Silas, are seized and arrested, accused by the locals of "disturbing our city." The two are beaten, thrown into prison, and chained to await formal charges.
 
 Paul and Silas are undeterred. The other prisoners can hear them praying and singing.
 
@@ -42,7 +42,7 @@ Giving proper gravity to this question, a second usually comes to mind:
 
 Is health and wellbeing more important? Fortune or fame? What about happiness? Or fulfillment?
 
-No--all of these things are insignificant in total when measured against the importance of salvation. For in salvation, we find **infinite consequence and matter**.
+No—all of these things are insignificant in total when measured against the importance of salvation. For in salvation, we find **infinite consequence and matter**.
 
 Jesus Christ, the God‑man and great Architect of salvation, taught:
 
@@ -66,7 +66,7 @@ Even if you are not Catholic, and even if you do not agree with the Church's tea
 
 Like you, I am a human being, capable of persisting in error. If my arguments are invalid, I *want* to know. 
 
-If I arrived at my current position thinking Christ to be *here*, only later to discover that He is not here but *there*, then my path is clear. If I fail to go where I now know He is--if I fail on account of pride, or social moorings, or any other entanglements that hinder my desire--then can I call myself a follower of Christ at all? 
+If I arrived at my current position thinking Christ to be *here*, only later to discover that He is not here but *there*, then my path is clear. If I fail to go where I now know He is—if I fail on account of pride, or social moorings, or any other entanglements that hinder my desire—then can I call myself a follower of Christ at all? 
 
 To be a follower of Christ means *to go where he is*. To do less is to say, by action, that I do not regard the question **"What must I do to be saved?"** with the utmost importance.
 
