@@ -119,7 +119,7 @@ Even though we know **Option 1** is correct, **Option 2** is still logically coh
 
 Let me repeat that in case the argument failed to land the first time:
 
-> # Romans 3:28–29 (If `A̅` then `B` Form)  
+> #### Romans 3:28–29 (If `A̅` then `B` Form)  
 > If man is justified by works of law, **then God is only the God of the Jews**.
 
 It necessarily follows that--whatever Paul means by "works of law"--he must have in mind something that applies **only to Jews**.
@@ -132,7 +132,7 @@ Not buying it yet?
 
 Let's dig into our bag of **RIGHT** tricks and dust off the **BYOD** test (**B**ring **Y**our **O**wn **D**efinition). To apply this test, we take the statement:
 
-> # Romans 3:28–29 (If `A̅` then `B` Form)  
+> #### Romans 3:28–29 (If `A̅` then `B` Form)  
 > If man is justified by works of law, then God is only the God of the Jews.
 
 …and substitute the Catholic and Protestant definitions of "works of law." If your interpretation is correct, it must--at a bare minimum--make sense of Paul's dogmatic statement.
@@ -141,7 +141,7 @@ Let's dig into our bag of **RIGHT** tricks and dust off the **BYOD** test (**B**
 
 First up, the Catholic definition of "works of law":
 
-> # Romans 3:28–29 (If `A̅` then `B` Form, Catholic Rendering)  
+> #### Romans 3:28–29 (If `A̅` then `B` Form, Catholic Rendering)  
 > If man is justified by **works of the Mosaic Law**--things like *circumcision*, *abstaining from pork*, and *keeping the holy days*--then God is only the God of the Jews.
 
 Does this make sense? 
@@ -154,7 +154,7 @@ If the only people who can be saved are those who are first circumcised and then
 
 Next up, the Protestant definition:
 
-> # Romans 3:28–29 (If `A̅` then `B` Form, Protestant Rendering)  
+> #### Romans 3:28–29 (If `A̅` then `B` Form, Protestant Rendering)  
 > If man is justified by **good works**--things like *feeding the hungry*, *clothing the naked*, *visiting the sick*--then God is only the God of the Jews.
 
 Does that make sense? 
@@ -195,8 +195,8 @@ I know there will be objections. But unlike the previous two contextual argument
 
 Whatever your definition of "works of law" is, it **must** make sense within what I am calling the **Romans "Works of Law" BYOD Test**:
 
-> # Romans "Works of Law" BYOD Test (Fill‑in‑the‑Blank)  
-> If man is justified by <span style="display:inline-block; min-width:6em; border-bottom:1px solid currentColor;width:300px;"></span>, then God is only the God of the Jews.
+> #### Romans "Works of Law" BYOD Test (Fill‑in‑the‑Blank)  
+> If man is justified by ____________________________, then God is only the God of the Jews.
 
 Most theological debates are **subjective**. People bring their interpretations the way people bring opinions to social media--confidently, and sometimes without reading the original post. 
 
