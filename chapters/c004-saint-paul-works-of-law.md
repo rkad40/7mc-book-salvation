@@ -173,4 +173,5 @@ And to do that, we must place Romans 3:28 back into its full context.
 > 6. **Are there early Church Fathers who comment on the meaning of "works of law"?**  
 
 
-🧭 **Navigation**: [⬅️Prev](./c003-sola-fide-proof-text.md) [Next➡️](./c005-romans-rewind.md)
+🧭 **Navigation**: [⬅️Prev](c003-sola-fide-proof-text.md) [Next➡️](c005-romans-rewind.md) 
+

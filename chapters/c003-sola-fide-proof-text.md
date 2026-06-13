@@ -167,4 +167,5 @@ What if--*just maybe*--Saint Paul had something else in mind when he spoke of "w
 > 4. **How do biblical scholars compare Paul's teaching on justification with James's statement in James 2:24?**
 > 5. **What arguments do modern theologians give for and against reading "faith alone" into Romans 3:28?**
 
-🧭 **Navigation**: [⬅️Prev](c002-the-great-divide.md) [Next➡️](./c004-saint-paul-works-of-law.md)
+🧭 **Navigation**: [⬅️Prev](c002-the-great-divide.md) [Next➡️](c004-saint-paul-works-of-law.md) 
+

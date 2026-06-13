@@ -196,4 +196,5 @@ Ultimately, though, you can judge for yourself.
 > 5. **How did Second Temple Jews understand the purpose and function of the Torah, and how might that background illuminate Paul's argument?**  
 > 6. **What alternative interpretations exist for Romans 2:6–10, and how do they relate to debates about faith and works?**
 
-🧭 **Navigation**: [⬅️Prev](./c004-saint-paul-works-of-law.md) [Next➡️](./c006-covenant-context-argument.md)
+🧭 **Navigation**: [⬅️Prev](c004-saint-paul-works-of-law.md) [Next➡️](c006-covenant-context-argument.md) 
+

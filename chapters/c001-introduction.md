@@ -78,8 +78,5 @@ As we embark on this journey of exploration and discernment, let us do so togeth
 
 **Amen.**
 
-## Navigation
-
-[➡️Next](./c002-the-great-divide.md)
-
+🧭 **Navigation**: [Next➡️](c002-the-great-divide.md) 
 
