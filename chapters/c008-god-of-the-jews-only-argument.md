@@ -46,7 +46,7 @@ The word "bat" can mean two different things:
 
 Which is it?
 
-But even before you can ask the question, I add:
+Before you can ask for clarification, I add:
 
 > "That's where I keep all my old baseball equipment."
 
