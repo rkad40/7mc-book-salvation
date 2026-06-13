@@ -14,7 +14,7 @@ The jailer, woken by the earthquake, rushes to the scene. When he sees the priso
 
 Before the man can fall upon his own blade, Paul intervenes. "Do not harm yourself, we are all here", he says. When the jailor enters the prison and finds all its occupants unchained, he falls at the feet of Paul and Silas. In great fear, he asks:
 
-> #### <BIBLE> Acts 16:30
+> #### ✝️ Acts 16:30
 > "What must I do to be saved?"
 
 Credit the jailor for asking the right question at the right time. 
@@ -45,7 +45,7 @@ No--all of these things are insignificant in total when measured against the imp
 
 Jesus Christ, the God‑man and great Architect of salvation, taught:
 
-> #### <BIBLE> Mark 8:36
+> #### ✝️ Mark 8:36
 > "For what does it profit a man, to gain the whole world and forfeit his life?"
 
 You can be the most popular person to have ever lived, the richest, the most beloved. They can build statues of you, name cities after you, and speak your name to the end of time with the utmost reverence. But if all of this comes at the expense of your salvation, then it was all a pointless waste.

@@ -3,7 +3,7 @@
 # The Great Divide
 
 
-> <SPOILER>
+> #### 📄 Abstract
 > Christians have historically answered the question *“What must I do to be saved?”* in different ways. For the first fifteen hundred years of Christianity, the Catholic view—centered on the Sacraments, cooperation with grace, and a lifelong process of justification—was largely uncontested. The Protestant Reformation introduced a radically different answer: *justification by faith alone*, understood as a one‑time declaration of righteousness. This event split Christianity in two. Five hundred years later, the divide remains, with Protestants differing sharply on whether Catholics are to be considered fellow Christians, or if, as some charge, they are followers of a "false gospel". 
 
 Now that we have laid the groundwork, we can finally turn to the central question of this book — the same question the Philippian jailer asked Paul and Silas in Acts 16: 
@@ -163,7 +163,7 @@ Yet, understanding the divide is the first step toward engaging it honestly. Onl
 
 In the next chapter, we will roll up our sleeves and examine the verse that, more than any other, is seen as the backbone of *sola fide*.
 
-> #### <AI> Ask An AI
+> #### Ask An AI
 >
 > Here are a few theologically neutral questions a reader might ask an AI to explore this topic more deeply:
 >

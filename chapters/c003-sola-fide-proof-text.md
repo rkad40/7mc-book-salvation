@@ -1,8 +1,8 @@
-📖 **Chapter 2** *(1-minute read)*
+📖 **Chapter 3** *(1-minute read)*
 
 # The Bible Verse That Clearly Teaches Justification By Faith Alone 
 
-> <SPOILER>
+> #### 📄 Abstract
 > Although Protestants regard Romans 3:28 as the Bible’s clearest teaching on justification by faith alone, Paul never uses the phrase, and James explicitly denies it. The Reformation’s confidence rests on the belief that Scripture is clear and that “works of law” means all good works. From this, Protestants conclude that justification must be by faith alone. Luther and others insisted this was Paul’s obvious meaning, even if the word “alone” is absent.
 
 In 1517, Martin Luther penned his now‑famous *95 Theses*, protesting abuses he perceived in the Catholic Church.
@@ -41,17 +41,17 @@ Dr. R. C. Sproul echoes the sentiment in *Essential Truths of the Christian Fait
 
 If something is so clear that even children can grasp it, then it must be unmistakably clear—so clear that getting it wrong would feel almost criminal.
 
-This is why Protestants often appeal to the “plain sense” or “clear meaning” of Scripture. It is a layman’s shorthand for the doctrine of perspicuity.
+This is why Protestants often appeal to the “plain sense” or “clear meaning” of Scripture. It is a layman’s shorthand for the doctrine of perspicuity.[^Perspicuity-Limits]
 
-It is important to note what this doctrine does and does not claim. Protestants are not saying that *all* of Scripture is clear—only those *essential doctrines*, among which salvation is certainly included.
+[^Perspicuity-Limits]: It is important to note what the doctrine of perspicuity does and does not claim. Protestants are not saying that *all* of Scripture is clear—only those *essential doctrines*, among which salvation is certainly included.
 
 ## Justification by Faith Alone, Clearly Taught
 
-Given Protestant appeals to the “plain sense” of Scripture, one might expect the doctrine of justification by faith alone—*sola fide*—to appear explicitly in the Bible. If justification by faith alone is the very heart of the gospel, then surely Scripture would state it plainly. And Protestants insist that it does—because Scripture, they argue, is clear.
+Given Protestant appeals to the “plain sense” of Scripture, one might expect the doctrine of justification by faith alone—*sola fide*—to appear explicitly in the Bible. If justification by faith alone is the very heart of the gospel, then surely Scripture would state it plainly. And Protestants insist that it.
 
 Interestingly though, the only verse in all of Scripture that uses the phrase *“faith alone”* is James 2:24—and it explicitly rejects the formula:
 
-> #### <BIBLE> James 2:24 (RSV‑2CE) 
+> #### ✝️ James 2:24 (RSV‑2CE) 
 > You see that a man is justified by works and not by faith alone.
 
 We will examine James 2:24 in a later chapter. Suffice it to say, this is not a verse Protestants place in the “perspicuous” column.
@@ -66,7 +66,7 @@ In *Are We Together?*, Dr. R. C. Sproul argues that Catholics who deny justifica
 
 What does Romans 3:28 say?
 
-> #### <BIBLE> Romans 3:28 (RSV‑2CE)
+> #### ✝️ Romans 3:28 (RSV‑2CE)
 > For we hold that a man is justified by faith apart from works of law.
 
 For many Protestants, Romans 3:28 *is* the gospel. It is asserted that this verse, more than any other, answers the question **“What must I do to be saved?”**
@@ -157,7 +157,7 @@ Of course, there is another possibility—one we have not yet considered.
 
 What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of the law”?
 
-> #### <AI> Ask An AI
+> #### Ask An AI
 >
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
 > 
@@ -167,4 +167,4 @@ What if—*just maybe*—Saint Paul had something else in mind when he spoke of 
 > 4. **How do biblical scholars compare Paul’s teaching on justification with James’s statement in James 2:24?**
 > 5. **What arguments do modern theologians give for and against reading “faith alone” into Romans 3:28?**
 
-🧭 **Navigation**: [⬅️Prev](c002-the-great-divide.md) [Next➡️](#)
+🧭 **Navigation**: [⬅️Prev](c002-the-great-divide.md) [Next➡️](./c004-saint-paul-works-of-law.md)
