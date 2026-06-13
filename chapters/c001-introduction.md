@@ -60,7 +60,7 @@ In this book, we are going to take a fresh look at this question. Where do we se
 
 Spoiler alert: I am a Catholic, and I will be approaching this question from a Catholic perspective. 
 
-Even if you are not Catholic, and even if you do not agree with the Church’s teachings on this matter, I hope you will agree that this is an important discussion to have. Perhaps some insight you glean from this text will help you reprove Catholics like myself in the future. Or perhaps this text will reveal to you more clearly the mystery of God’s plan of salvation.
+Even if you are not Catholic, and even if you do not agree with the Church's teachings on this matter, I hope you will agree that this is an important discussion to have. Perhaps some insight you glean from this text will help you reprove Catholics like myself in the future. Or perhaps this text will reveal to you more clearly the mystery of God's plan of salvation.
 
 Like you, I am a human being, capable of persisting in error. If my arguments are invalid, I *want* to know. 
 
