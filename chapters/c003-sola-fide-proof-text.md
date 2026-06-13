@@ -136,7 +136,7 @@ Similar statements have been made by Protestant theologians ever since. In his c
 
 Reformed apologist James White, in his book *The Roman Catholic Controversy*, writes:
 
-> Paul goes on to describe the means of justification -- it is by faith and faith alone. He writes: "For we maintain that a man is justified by faith apart from works of the Law" (Romans 3:28).[^4]
+> Paul goes on to describe the means of justification--it is by faith and faith alone. He writes: "For we maintain that a man is justified by faith apart from works of the Law" (Romans 3:28).[^4]
 
 [^4]: As cited in Robert A. Sungenis, *Not By Faith Alone*, p. 5.
 

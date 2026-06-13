@@ -65,22 +65,22 @@ The **Torah**--the first five books--was regarded as the Word of God *par excell
 
 In many biblical contexts, when Scripture refers to "the law," it is an unambiguous reference to the Torah or the Mosaic Law. And in Romans, Paul consistently uses "the law" in a way that unmistakably refers to the Mosaic Law:
 
-- **Romans 2:14** -- Gentiles "do not have the law."  
-- **Romans 2:17** -- Jews "rely upon the law."  
-- **Romans 2:27** -- the law is "the written code."  
-- **Romans 3:21** -- "the law and the prophets" bear witness to God's righteousness.  
-- **Romans 5:13** -- "sin indeed was in the world before the law was given."  
-- **Romans 7:6** -- the law is "the old written code."  
-- **Romans 9:4** -- Israel received "the giving of the law."
+- **Romans 2:14**--Gentiles "do not have the law."  
+- **Romans 2:17**--Jews "rely upon the law."  
+- **Romans 2:27**--the law is "the written code."  
+- **Romans 3:21**--"the law and the prophets" bear witness to God's righteousness.  
+- **Romans 5:13**--"sin indeed was in the world before the law was given."  
+- **Romans 7:6**--the law is "the old written code."  
+- **Romans 9:4**--Israel received "the giving of the law."
 
 In all these instances, "law" does *not* mean a general moral standard. It refers to the **Mosaic covenantal system** binding upon the Jewish people.
 
 Paul uses the term the same way in his other letters:
 
-- **Galatians 3:10** -- Paul quotes Deuteronomy to define "works of law."  
-- **Galatians 3:17** -- the law came 430 years after Abraham.  
-- **Galatians 5:3** -- circumcision obligates one to keep "the whole law."  
-- **Ephesians 2:14–15** -- Christ abolishes "the law of commandments and ordinances."
+- **Galatians 3:10**--Paul quotes Deuteronomy to define "works of law."  
+- **Galatians 3:17**--the law came 430 years after Abraham.  
+- **Galatians 5:3**--circumcision obligates one to keep "the whole law."  
+- **Ephesians 2:14–15**--Christ abolishes "the law of commandments and ordinances."
 
 This is only a sampling. A full catalog would take pages. It is enough to observe that across Paul's writings, "the law," "under the law," "works of law," and "the whole law" consistently refer to the *Mosaic Law*.
 

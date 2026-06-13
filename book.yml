@@ -22,4 +22,6 @@ Content:
   - {Type: Chapter, Index: 1, File: chapters/c001-introduction.md}
   - {Type: Chapter, Index: 2, File: chapters/c002-the-great-divide.md}
   - {Type: Chapter, Index: 3, File: chapters/c003-sola-fide-proof-text.md}
-  - {Type: Chapter, Index: 4, File: chapters/c004-saint-paul-works-of-law.md}
+  - {Type: Chapter, Index: 4, File: chapters/c004-saint-paul-works-of-law.md}  
+  - {Type: Chapter, Index: 5, File: chapters/c005-romans-rewind.md}  
+  - {Type: Chapter, Index: 6, File: chapters/c006-covenant-context-argument.md}
