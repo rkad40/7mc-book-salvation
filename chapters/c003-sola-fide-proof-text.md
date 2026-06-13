@@ -21,6 +21,7 @@ Over the next decade and a half, the Reformation grew from a protest into a full
 
 Luther famously called justification by faith alone the article upon which the Church stands or falls. For Luther and for many who followed him, *sola fide* was not merely one doctrine among many. **It was the beating heart of the gospel itself.**
 
+
 ## It Is All So Very "Clear"
 
 One of the founding tenets of the Protestant Reformation was the belief that Christians do not need an authoritative Church to interpret Scripture. Any sincere believer, it was argued, could read and understand the essential truths of the Bible because God had made them clear in the Written Word.
@@ -44,6 +45,7 @@ If something is so clear that even children can grasp it, then it must be unmist
 This is why Protestants often appeal to the "plain sense" or "clear meaning" of Scripture. It is a layman's shorthand for the doctrine of perspicuity.[^Perspicuity-Limits]
 
 [^Perspicuity-Limits]: It is important to note what the doctrine of perspicuity does and does not claim. Protestants are not saying that *all* of Scripture is clear--only those *essential doctrines*, among which salvation is certainly included.
+
 
 ## Justification by Faith Alone, Clearly Taught
 
@@ -75,6 +77,7 @@ At first glance, the logic seems straightforward. Paul contrasts faith with work
 
 Any answer that includes more than this is dismissed as a "false gospel."
 
+
 ## The Protestant "Faith Alone" Interpretation of Romans 3:28
 
 Catholic theologians in Luther's day (and ever since) have pointed out that Romans 3:28 does **not** say that a person is justified by *faith alone*. Rather, Paul writes that a person is justified "by faith apart from *works of law*."
@@ -82,6 +85,7 @@ Catholic theologians in Luther's day (and ever since) have pointed out that Roma
 In other words, Paul is not contrasting faith with "works" in general. He is contrasting faith with a specific category of works--*works of law*.
 
 But to the Reformers, this distinction was immaterial. Even if Paul did not explicitly say "faith alone," they believed that this was "clearly" what he meant.
+
 
 ## Getting "Faith Alone" From "Faith Apart From Works of the Law"
 
@@ -107,6 +111,7 @@ And *voilà*--the doctrine of *sola fide* emerges.
 While word "alone" may not be in Paul's version of Romans 3:28, it has certainly made itself at home in Protestant theology.
 
 To be fair, not all Protestants articulate these steps explicitly, but the logic undergirds the traditional Reformation reading.
+
 
 ## The Reformers Defend Their Interpretation
 
@@ -143,6 +148,7 @@ Reformed apologist James White, in his book *The Roman Catholic Controversy*, wr
 In short, even if Romans 3:28 does not explicitly say that man is justified by faith alone, that is "clearly" what Paul meant.
 
 It is, we are told, really quite obvious.
+
 
 ## Summary Assessment
 

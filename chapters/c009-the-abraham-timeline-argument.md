@@ -9,7 +9,8 @@ We have already examined three arguments from Romans 1–3 showing that when Pau
 
 We now turn to Romans 4 for the fourth. I call it the **Abraham Timeline Argument**.
 
-Let's jump right into it.
+Let's get down to business.
+
 
 ## Introduction to the Abraham Timeline Argument
 
@@ -35,6 +36,7 @@ The Torah identified the Jews as **God's chosen people**. For many Jews, it woul
 If Paul can truly show that the Torah says that man is justified by faith and not by works of law, then he dismantles the Judaizer heresy.
 
 Spoiler alert: **That is exactly what Paul does**.
+
 
 ## Saint Paul's Brilliant Argument
 
@@ -87,6 +89,7 @@ Paul shows that the Torah itself teaches that Abraham was justified by faith apa
 
 It is a brilliant argument that dismantles Torah‑based covenantal presumption.
 
+
 ## The Problem for Protestants with the Abraham Justification Timeline
 
 Paul promised a biblical proof showing that man is justified by faith apart from "works of law." And he delivered--but only *if* one subscribes to the notion that "works of law" means **works of the Mosaic Law** and that Paul is arguing against **Judaizer heresy**.
@@ -129,6 +132,7 @@ Forced through the interpretive filter of Protestantism, Paul's biblical proof w
 
 Brilliant as Paul's argument otherwise is, it simply does not work within the Protestant framework.
 
+
 ## Protestant Rejoinders to Paul's Abraham Timeline Argument
 
 None of this stops Protestants from claiming that Paul's real goal is to refute the more general works‑salvation heresy.
@@ -161,6 +165,7 @@ Other Protestants propose nuanced variations of these two approaches. But they a
 > **If Paul is making a *chronological* argument, then the work he uses to make his point must have *chronological significance*.** 
 
 That means that in Romans 4:9–10 **circumcision really does mean circumcision**--and one is bound by the theological implications that follow.
+
 
 ## Conclusion
 

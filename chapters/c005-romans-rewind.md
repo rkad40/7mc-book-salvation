@@ -13,6 +13,7 @@ As we walk through Romans, I will follow a simple convention: whenever Paul uses
 
 Let's begin.
 
+
 ## Salvation By Faith (1:1–17)
 
 Paul opens his letter with a greeting in which he identifies himself as "a servant of Jesus Christ, called to be an apostle" (1:1). No sooner has he finished his fairly long‑winded salutation than he launches into the theme of the entire letter:
@@ -34,6 +35,7 @@ Already, Paul has told us a great deal. The topic of his inspired letter is **sa
 
 This is a well Paul will draw from repeatedly.
 
+
 ## What About the Gentiles? (1:18–32)
 
 Paul begins with the Gentiles. 
@@ -46,6 +48,7 @@ He describes them as exhibiting all manner of "ungodliness" and "wickedness." Le
 According to Paul, ignorance is no excuse. The Gentiles have "exchanged the truth of God for a lie" (1:25). 
 
 They will be judged accordingly.
+
 
 ## What About the Jews? (2:1–11)
 
@@ -81,6 +84,7 @@ And Paul concludes on exactly that note:
 
 > #### ✝️ Romans 2:11 (RSV‑2CE)
 > For God shows no partiality.
+
 
 ## But the Jews Have the Law! (2:12–3:8)
 
@@ -134,6 +138,7 @@ Paul is stating it plainly: **the Mosaic Law did not make Jews superior or give 
 
 For all their privileges, Jews were no better than Gentiles.
 
+
 ## The Universal Verdict: All Are Under Sin (3:9–19)
 
 For a first‑century Jew reading Romans, Paul's words must have felt like a theological sledgehammer to the face.
@@ -157,6 +162,7 @@ As the Old Testament condemnations multiply, Paul's point is unmistakable: **all
 
 There is no distinction. All are in need of salvation.
 
+
 ## Paul's Point in Romans 1–3
 
 Saint Paul is telling the Jews that they are no better off than the ungodly Gentiles. 
@@ -166,6 +172,7 @@ All the religious practices Jews perform under the Mosaic Law--circumcision, abs
 The unmistakable message Paul delivers is this:
 
 > **No human being is righteous before God. All are in need of salvation. (And yes, if you are a Jew, *that means you too*!)**
+
 
 ## What Do "Works of Law" Mean?
 

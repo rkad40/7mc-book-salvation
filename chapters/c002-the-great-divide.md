@@ -60,6 +60,7 @@ In the decades following Luther's break from the Church, numerous Protestant con
 
 What started as a clash of ideologies and a war of words soon spilled over the pulpit and into the public square, eventually erupting into violence across Europe. 
 
+
 ## The Current State of Affairs
 
 In recent times, the temperature has cooled in some quarters.
@@ -107,6 +108,7 @@ Your obnoxious uncle Al does not get banished to the porch at the Thanksgiving g
 
 This is the way that Catholics see things today.
 
+
 ## Anathematizing the Gospel
 
 Sproul, however, sees the relationship differently:
@@ -123,6 +125,7 @@ How have Catholics "anathematized the gospel"? According to Sproul and those Pro
 This is a drastic oversimplification of a far more nuanced topic--one we will explore in detail later. But this is how many Protestants see it. 
 
 Many Protestants would argue that, since justification is by faith alone, any theological system that introduces human cooperation, sacramental participation, or ongoing transformation into the salvific equation has, in fact, **"anathematized the gospel."**[^Sproul-2]
+
 
 ## Protestant Views on Catholicism--A Spectrum, Not a Single Position
 
@@ -141,6 +144,7 @@ Others lean strongly toward the third category. **R. C. Sproul**, **John MacArth
 [^Sproul-3]: In *Faith Alone*, Sproul writes: "Rome's official repudiation of *sola fide* disqualifies it as an acceptable Christian communion. Yet members of Rome who do embrace *sola fide* are brothers and sisters in Christ." (p. 57)
 
 In short, Protestant views on Catholicism are not monolithic. They form a spectrum--from generous recognition of Catholic faith to outright denial that Catholics are Christian in any meaningful sense.
+
 
 ## Conclusion
 

@@ -13,6 +13,7 @@ The next proof, the **God‑of‑the‑Jews‑Only Argument**, is a *much* bette
 
 Let's jump right in.
 
+
 ## Introduction to the God‑of‑the‑Jews‑Only Argument
 
 It is not uncommon to hear Protestant apologists cite or paraphrase Romans 3:28 without commentary, as if the obvious meaning aligns with *sola fide*.
@@ -30,6 +31,7 @@ Most Protestants share this view. Romans 3:28 teaches *sola fide*. Period.
 But is that really how it works?
 
 Sometimes our biases are just biased. Our contextual analysis of Romans 1–3 should at least open the door to some warranted skepticism.
+
 
 ## The Bat‑in‑the‑Attic Example
 
@@ -126,6 +128,7 @@ It necessarily follows that--whatever Paul means by "works of law"--he must have
 
 This leaves us with only one option: "works of law" in Romans 3:28 unambiguously refers to **works of the Mosaic Law**.
 
+
 ## Applying the BYOD Test
 
 Not buying it yet? 
@@ -188,6 +191,7 @@ The logical reduction simply makes the conclusion **irrefutably clear**.[^Or-Con
 Paul is not talking about "good works" or "works of righteousness." He is talking about **works of the Mosaic Law**--the Jewish covenantal identity markers.
 
 He is saying, in no uncertain terms, that man is justified by faith apart from **works of the Mosaic Law**--meaning you do not have to become a Jew in order to be a Christian.
+
 
 ## The Romans "Works of Law" BYOD Test
 

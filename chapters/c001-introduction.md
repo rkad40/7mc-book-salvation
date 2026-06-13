@@ -31,6 +31,7 @@ No, his question cuts to the core of it:
 
 **"What must I do to be saved?"** 
 
+
 ## What is More Important Than Our Salvation?
 
 The question is a timeless one. It has invariably been asked countless times by countless individuals over the last two thousand years. 
@@ -49,6 +50,7 @@ Jesus Christ, the God‑man and great Architect of salvation, taught:
 > "For what does it profit a man, to gain the whole world and forfeit his life?"
 
 You can be the most popular person to have ever lived, the richest, the most beloved. They can build statues of you, name cities after you, and speak your name to the end of time with the utmost reverence. But if all of this comes at the expense of your salvation, then it was all a pointless waste.
+
 
 ## The Salvation Controversy
 
@@ -69,6 +71,7 @@ If I arrived at my current position thinking Christ to be *here*, only later to 
 To be a follower of Christ means *to go where he is*. To do less is to say, by action, that I do not regard the question **"What must I do to be saved?"** with the utmost importance.
 
 This is true for all. Moving forward in this book, I ask you prayerfully to keep this in mind. 
+
 
 ## Opening Prayer
 

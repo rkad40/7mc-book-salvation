@@ -5,7 +5,6 @@
 > #### 📄 Abstract
 > Paul's meaning in Romans 3:28 becomes unmistakable once you read it alongside its "prequel," Romans 3:20–22. In that earlier passage, Paul uses the technical biblical formula "the law and the prophets," which always refers to the **Torah** and the **Prophets**--the first two sections of the Jewish Scriptures. This locks the meaning of *nomos* ("law") in place. If "LAW" in verse 21 means the **Torah** (and it does), then the same word in verse 20 must also mean the **Torah**. And if it means the **Torah** in verse 20, it must mean the **Torah** in verse 28. In other words, "works of law" in Romans 3:28 does not mean "good works" or "moral effort." It means **works of the Mosaic Law**--the covenantal identity markers of Judaism. Paul's point is not that human effort is irrelevant, but that Jewish covenantal privilege does not justify anyone. Jews and Gentiles alike are justified by faith, apart from the works of the **Torah**.
 
-
 The second of the four arguments we are going to consider is the **Two‑Witness Context Argument**.
 
 This is another contextual argument from Romans. But unlike the **Covenant‑Context Argument**--which took a big-picture approach to Romans 1–3--the **Two‑Witness Context Argument** zooms in on the immediate context of Romans 3:28 to show, yet again, that when Paul speaks of "works of law," he unambiguously means **works of the Mosaic Law**.
@@ -38,7 +37,6 @@ Thus, the covenantal context strongly supports the conclusion that "works of law
 But this conclusion doesn't depend on a single line of contextual reasoning.
 
 You see, there is a *prequel* passage in Romans 3 that speaks both of "faith" and "works of law". And what it tells us about Paul's intended meaning is profound. 
-
 
 
 ## Romans 3:20–22: The Prequel to 3:28

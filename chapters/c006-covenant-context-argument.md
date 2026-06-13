@@ -15,6 +15,7 @@ Our method follows the interpretive framework: **RIGHT**--the **R**ules for **I*
 
 Time to get our Bible on.
 
+
 ## Introduction to the Covenant‑Context Argument
 
 Our focus remains Romans 3:28, where Paul writes:
@@ -35,6 +36,7 @@ It does not matter how you or I define "works of law." What matters is how **Pau
 Put together, these rules require that we define "works of law" in Romans 3:28 **using the definition supplied by the context**.
 
 Our first step, then, is to examine the *greater context*--Romans 1–3.
+
 
 ## Catholic and Protestant Interpretation of Romans 1–3
 
@@ -57,6 +59,7 @@ For Catholics, Paul's question is:
 > Must a person first become a Jew to be saved?
 
 In this reading, Paul is refuting the **Torah‑based covenantal presumption**--the claim that one must become a Jew and submit to the Mosaic Law to be saved.
+
 
 ## Analysis of the Protestant Reading of Romans 1–3
 
@@ -91,6 +94,7 @@ Consequently, when Paul later states that man is "justified by faith apart from 
 
 Is this confidence warranted?
 
+
 ## Is Circumcision a "Good" Work?
 
 Circumcision is certainly an odd choice to serve as the poster child for good works in Romans 1-3.
@@ -118,6 +122,7 @@ What was Paul's point?
 
 **That Jewish circumcision was not a *moral* act; it was, instead, an act of *covenant identity*.**
 
+
 ## The Covenant Context
 
 Because of God's covenant with their forefathers, Jews viewed themselves as God's people. The Old Testament repeatedly reinforces this identity.
@@ -134,6 +139,7 @@ And that's what the Jews did. Only they didn't put their mark on a piece of pape
 
 Circumcision was the first and preeminent work of the Mosaic Law. It functioned as a **covenant identity marker** defining the Jews' unique place as God's own people. 
 
+
 ## A House Divided
 
 This Jew–Gentile tension is not unique to Romans 1-3. It appears throughout the New Testament--in Galatians 2–3, Ephesians 2, Acts 10–11, Acts 15, Philippians 3, and elsewhere--showing that the early Church struggled with the question of Gentile inclusion.
@@ -149,6 +155,7 @@ Paul aims to strip his Jewish readers of any pretense of covenant privilege writ
 - "**there is no distinction; since all have sinned and fall short of the glory of God**" (Romans 3:22-23)
 
 Plainly stated: The problem wasn't **merit**; it was **entitlement**.
+
 
 ## Conclusion
 
