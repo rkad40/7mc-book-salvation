@@ -9,9 +9,7 @@ Protestant theologians often assert—quite forcefully—that Romans 3:28 teache
 
 But is it possible that there is a *reason* Catholics are not so easily swayed?
 
-As a Catholic Christian, I take the topic of salvation *very seriously*. 
-
-Indeed, for me, the question **”What must I do to be saved?”** does not go nearly far enough. 
+As a Catholic Christian, I take the topic of salvation *very seriously*. Indeed, for me, the question **”What must I do to be saved?”** does not go nearly far enough. 
 
 I am equally—if not more—concerned with the eternal destiny of my family. The first prayer on my lips when I rise and the last when I lie down is: *”Lord, please save my family.”* 
 
@@ -28,6 +26,8 @@ The sentiment is beautiful—breathtaking even. And I pray it is that simple. If
 But what if it is *not* that simple?
 
 As Christians, we must be prepared. And that means basing our theology on biblically grounded data.
+
+And that is what we will endeavor to do.
 
 
 ## Romans 3:28 Redux
