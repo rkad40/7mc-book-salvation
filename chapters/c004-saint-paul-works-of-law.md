@@ -39,7 +39,7 @@ Let us return to Romans 3:28. Saint Paul writes:
 > #### ✝️ Romans 3:28 (RSV‑2CE)  
 > For we hold that a man is justified by faith apart from works of law.
 
-The word translated “law” in Romans 3:28—and throughout Paul’s letters—is the Gree word *nomos* (*νόμος*).
+The word translated “law” in Romans 3:28—and throughout Paul’s letters—is the Greek word *nomos* (*νόμος*).
 
 In secular Greek, *nomos* referred to an ordinance, regulation, or statute: a binding rule established by custom or civic authority.
 
