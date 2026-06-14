@@ -125,7 +125,7 @@ John Calvin was more measured—though only slightly. He conceded that the word 
 
 > Their objection to the exclusive or *alone* is not only unfounded, but it is obviously absurd. Does he [Paul] not clearly enough attribute everything to faith alone when he disconnects it from works?[^3]
 
-[^3]: John Calvin, *Institutes of the Christian Religion*, 3.11.19.
+[^3]: John Calvin, *Institutes of the Christian Religion*, 3.11.19. Translations of this statement vary slightly across editions.
 
 Similar statements have been made by Protestant theologians ever since. In his commentary on Romans, Protestant John MacArthur writes:
 
@@ -154,9 +154,7 @@ But is that really the way of it?
 
 Did the earliest Christians immediately “drop the ball” when it came to the doctrine of salvation? And did God allow such an error to persist down through the centuries until men like Luther and Calvin came onto the scene and finally set the record straight?
 
-That would be quite the theological plot twist.
-
-While many Protestants then and now treat this as an open-and-shut case, there is **another possibility**—one we have not yet considered.
+Let’s just say that would be quite the theological plot twist if true. And while many Protestants then and now treat Protestant reading of Romans 3:28 as an open-and-shut case, there is **another possibility**—one we have not yet considered.
 
 What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of law”?
 
