@@ -1,4 +1,4 @@
-📖 **Chapter 4** *(6-minute read)*
+📖 **Chapter 4** *(7-minute read)*
 
 # What Does Saint Paul Mean by “Works of Law”?
 
@@ -37,7 +37,7 @@ Let us return to Romans 3:28. Saint Paul writes:
 > #### ✝️ Romans 3:28 (RSV‑2CE)  
 > For we hold that a man is justified by faith apart from works of law.
 
-The word translated “law” in Romans 3:28—and throughout Paul’s letters—is *nomos* (*νόμος*).
+The word translated “law” in Romans 3:28—and throughout Paul’s letters—is the Gree word *nomos* (*νόμος*).
 
 In secular Greek, *nomos* referred to an ordinance, regulation, or statute: a binding rule established by custom or civic authority.
 
@@ -75,7 +75,7 @@ In many biblical contexts, when Scripture refers to “the law,” it is an unam
 - **Romans 7:6**—the law is “the old written code.”  
 - **Romans 9:4**—Israel received “the giving of the law.”
 
-In all these instances, “law” does *not* mean a general moral standard. It refers to the **Mosaic covenantal system** binding upon the Jewish people.
+In all of these instances, “law” does *not* refer to a general moral standard. It refers to the **Mosaic covenantal system that was codified in the first five books of the Jewish Bible**.
 
 Paul uses the term the same way in his other letters:
 
@@ -84,21 +84,21 @@ Paul uses the term the same way in his other letters:
 - **Galatians 5:3**—circumcision obligates one to keep “the whole law.”  
 - **Ephesians 2:14–15**—Christ abolishes “the law of commandments and ordinances.”
 
-This is only a sampling. A full catalog would take pages. It is enough to observe that across Paul’s writings, “the law,” “under the law,” “works of law,” and “the whole law” consistently refer to the *Mosaic Law*.
+This is only a sampling. A full catalog would take pages. It is enough to observe that across Paul’s writings, “the law,” “under the law,” “works of law,” and “the whole law” consistently refer to the **Torah** or **Mosaic Law**.
 
 
 ## Implications for Romans 3:28
 
 The implications are significant. In short, there are *two* possible interpretations of Romans 3:28, depending on how one understands “works of law.” Either:
 
-- Man is justified by faith apart from *good works* (i.e., by faith alone) **—OR—**  
-- Man is justified by faith apart from *works of the Mosaic Law*
+- Man is justified by faith apart from **good works** (i.e., by faith alone) **—OR—**  
+- Man is justified by faith apart from **works of the Mosaic Law**
 
 We have already examined the first interpretation—the one held by most Protestants.
 
 But what about the second?
 
-If “works of law” means *works of the Mosaic Law*, then Romans 3:28 carries a very different meaning. Paul would be saying that man is justified by faith and not by performing the works of the Mosaic Law.
+If “works of law” means **works of the Mosaic Law**, then Romans 3:28 carries a very different meaning. Paul would be saying that man is justified by faith and not by performing the works of the prescribed in the Torah identified as the Mosaic Law.
 
 In other words:
 
@@ -108,11 +108,13 @@ Or, more to Paul’s point:
 
 **Jews and Gentiles are *both* justified in like manner, *by faith in Christ*, not *by the Mosaic Law*.**
 
-Some readers today, lacking the historical context of first‑century Judaism, might be tempted to dismiss this interpretation. Protestants, in particular, often make truth claims based on what they perceive to be the “clear meaning” or “plain sense” of Scripture—filtered through a fifteenth‑ or twenty‑first‑century lens.
+Paul didn’t write Romans in a theological bubble. His words were shaped by the world he lived in—a world of synagogues, covenant identity, and fierce debates about what marked out the people of God. When he spoke of “works of law,” he wasn’t inventing a new phrase; he was stepping into an ongoing conversation.
+
+Some readers today, lacking the historical context of first‑century Judaism, might be tempted to dismiss this interpretation. Protestants, in particular, often make truth claims based on what they perceive to be the “clear meaning” or “plain sense” of Scripture—filtered through a fifteenth‑ or twenty‑first‑century Christian lens.
 
 But historical context matters. And ultimately, it outweighs personal bias.
 
-What we find when we read Scripture is that interpreting “works of law” as *works of the Mosaic Law* aligns perfectly with a major controversy in the early Church—one explicitly documented throughout the New Testament.
+What we find when we read Scripture is that interpreting “works of law” as **works of the Mosaic Law** aligns perfectly with a major controversy in the early Church—one explicitly documented throughout the New Testament.
 
 
 ## First Century Christianity in Crisis: Jew vs. Gentile
@@ -142,7 +144,7 @@ What does it all mean?
 
 Simply put: 
 
-> **If “works of law” refers to the Mosaic Law, it is not only linguistically and contextually sound—it constitutes a precise historical fit.**
+**If “works of law” refers to the Mosaic Law, it is not only linguistically and contextually sound—it constitutes a precise historical fit.**
 
 
 ## Conclusion
@@ -164,7 +166,7 @@ Of course, it does not matter how *you* or *I* define “works of law.” It onl
 
 That must be our goal: to understand what Paul meant by “works of law.”
 
-And to do that, we must place Romans 3:28 back into its full context.
+And to do that, we must place Romans 3:28 back into its proper context.
 
 > #### 💡 Ask An AI
 >

@@ -146,17 +146,19 @@ It is, we are told, really quite obvious. How could anyone argue the point?
 
 ## Fifteen Hundred Years of Bad Theology?
 
-Curiously, it did not matter to the Reformers that *sola fide* was a doctrinal novelty that was unknown in Christian teaching for the fifteen hundred years that preceded the Reformation.[^Early-Church-Sola-Fide] For newly minted Protestants like Luther and Calvin, it just meant that there were fifteen hundred years of Christians that had got the question, “What must I do to be saved?”, wrong.  
+Curiously, it did not trouble the Reformers that *sola fide* was a doctrinal novelty that was unknown in Christian scholarship or teaching in the fifteen centuries preceding the Reformation.[^Early-Church-Sola-Fide] For newly minted Protestants like Luther and Calvin, it just meant that there were fifteen hundred years of Christians that had gotten the question, “What must I do to be saved?”, wrong.  
 
-[^Early-Church-Sola-Fide]: Sometimes Protestant theologians make the claim that *sola fide* can be found in the patristic writings of the early Church, particularly in the writings of Chrysostom and Origen. These Fathers speak of salvation by faith, but not faith alone in the Protestant sense.
+[^Early-Church-Sola-Fide]: Sometimes Protestant theologians make the claim that *sola fide* can be found in the patristic writings of the early Church, particularly in the commentaries of Chrysostom and Origen. These Fathers do speak of salvation by faith, but not faith alone in the Protestant sense. Justification by faith fits perfectly well into the confines of Catholic soteriology. In fact, Catholics theology can even accept a slightly sanitized version of justification by faith alone. We will flesh out all of this in later chapters.  
 
 But is that really the way of it? 
 
 Did the earliest Christians immediately “drop the ball” when it came to the doctrine of salvation? And did God allow such an error to persist down through the centuries until men like Luther and Calvin came onto the scene and finally set the record straight?
 
-Let’s just say that would be quite the theological plot twist if true. And while many Protestants then and now treat Protestant reading of Romans 3:28 as an open-and-shut case, there is **another possibility**—one we have not yet considered.
+Let’s just say that would be quite the theological plot twist if true. 
 
-What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of law”?
+And while many Protestants then and now treat the Protestant reading of Romans 3:28 as an open-and-shut case, there is **another possibility**—one we have not yet considered.
+
+Before we assume the Reformers were correcting fifteen centuries of error, we should pause and ask a deeper question. What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of law”?
 
 > #### 💡 Ask An AI
 >
