@@ -13,7 +13,9 @@ As a Catholic Christian, I take the topic of salvation *very seriously*.
 
 Indeed, for me, the question **”What must I do to be saved?”** does not go nearly far enough. 
 
-I am equally—if not more—concerned with the eternal destiny of my family. The first prayer on my lips when I rise and the last when I lie down is: *”Lord, please save my family.”* I am concerned, as well, for my friends. I am concerned for my coworkers, believers and non‑believers alike. I am concerned for people I know and people I do not. I am concerned for you as well—the readers of this book.
+I am equally—if not more—concerned with the eternal destiny of my family. The first prayer on my lips when I rise and the last when I lie down is: *”Lord, please save my family.”* 
+
+I am concerned, as well, for my friends. I am concerned for my coworkers, believers and non‑believers alike. I am concerned for people I know and people I do not. I am concerned for you as well—the readers of this book.
 
 Sometimes I wonder if it is truly as hard a question to answer as we make it out to be. 
 
