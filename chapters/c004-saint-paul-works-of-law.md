@@ -17,9 +17,7 @@ I am equally—if not more—concerned with the eternal destiny of my family. Th
 
 I am concerned, as well, for my friends. I am concerned for my coworkers, believers and non‑believers alike. I am concerned for people I know and people I do not. I am concerned for you as well—the readers of this book.
 
-Sometimes I wonder if it is truly as hard a question to answer as we make it out to be. 
-
-One of my favorite Christian quotations comes from the nineteenth‑century priest Father Jean‑Baptiste Lacordaire, who stated:
+Sometimes I wonder if is as hard as we make it out to be. One of my favorite Christian quotations comes from the nineteenth‑century priest Father Jean‑Baptiste Lacordaire, who stated:
 
 > A God on the Cross! That is all my theology.[^Quote-1]
 
@@ -52,7 +50,7 @@ But there is another, far more relevant, biblical meaning of *nomos* that must b
 
 ## What Is the Torah?
 
-The Christian Bible today is comprised of an **Old Testament** and a **New Testament**—the former written before the coming of the Messiah, the latter written after.
+The Christian Bible today is comprised of an **Old Testament** and a **New Testament**—the former written about events that came before the coming of the Messiah, the latter written about events that came after.
 
 - The **Old Testament** begins with Genesis and ends with Malachi.  
 - The **New Testament** begins with the Gospels, followed by Acts, the epistles, and Revelation.
