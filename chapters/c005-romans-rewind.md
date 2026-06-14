@@ -33,19 +33,17 @@ In the next verse, Paul presents his thesis statement:
 
 Already, Paul has told us a great deal. The topic of his inspired letter is **salvation by faith** and how it relates to **both Jews and Gentiles**.
 
-This is a well Paul will draw from repeatedly.
+This Jew-Gentile topic is one that Paul will return to repeatedly in Romans. But first, he considers the two groups independently. First up: the Gentiles.
 
 
 ## What About the Gentiles? (1:18–32)
 
-Paul begins with the Gentiles. 
-
-He describes them as exhibiting all manner of “ungodliness” and “wickedness.” Lest one argue that their conduct might be excused because they do not know God, Paul insists that God has made Himself known through creation:
+Paul describes the Gentiles as exhibiting all manner of “ungodliness” and “wickedness.” Lest one argue that their conduct might be excused because they do not know God, Paul insists that God has made Himself known to them:
 
 > #### ✝️ Romans 1:20 (RSV‑2CE)
 > His eternal power and deity… have been clearly perceived in the things that have been made.
 
-According to Paul, ignorance is no excuse. The Gentiles have “exchanged the truth of God for a lie” (1:25). 
+In other words, ignorance of God cannot be excused as the Gentiles have “exchanged the truth of God for a lie” (1:25). 
 
 They will be judged accordingly.
 

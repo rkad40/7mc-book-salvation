@@ -67,7 +67,7 @@ Note, Paul is making a **chronological** argument:
 
 Why does this matter?
 
-Under the Old Covenant, a man did not enter into covenant with God **until he was circumcised**. Circumcision was the **first and foundational work of the Mosaic Law**. Other works of law might follow. **But circumcision was *always* the first**. 
+Under the Old Covenant, a man did not enter into covenant with God **until he was circumcised**. Circumcision was the **first and foundational work of the Mosaic Law**. Other works followed. **But circumcision was *always* the first**. 
 
 Paul’s logic is airtight:
 
@@ -79,7 +79,7 @@ Paul’s logic is airtight:
 
 Graphically:
 
-![](static/img/pic/Romans4AB.svg)
+![](../assets/img/pic/theme/system/Romans4AB.svg)
 
 If event `A` **precedes** event `B`, then `B` **cannot** be the cause of `A`.
 
@@ -124,7 +124,7 @@ The Bible tells us that Abraham obeyed: “So Abram went, as the Lord had told h
 
 By all biblical measure, **Abraham’s obedience in Genesis 12 was a good work**. And that’s a big problem for the Protestant position. Graphically:
 
-![](static/img/pic/Romans4BA.svg)
+![](../assets/img/pic/theme/system/Romans4BA.svg)
 
 Now event `B` **precedes** event `A`. And that means `B` **can** be the possible cause of `A`.  
 
