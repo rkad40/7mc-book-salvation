@@ -76,7 +76,7 @@ Here, “LAW” unquestionably means the **Torah**. How do we know? Because Paul
 
 ## The Law and the Prophets (Explained)
 
-As noted in [chapter ${Book.Chapter[‘C006-SaintPaulWorksOfTheLaw’].ChapterNumber}](${Book.Chapter[‘C006-SaintPaulWorksOfTheLaw’].Link}), the Jewish Scriptures were divided into three major sections:
+As [previously noted](./c004-saint-paul-works-of-law.md), the Jewish Scriptures were divided into three major sections:
 
 1. **Torah**  
 2. **Prophets**  
@@ -125,7 +125,7 @@ If you want a good analogy—imagine a child asking both parents for something t
 
 The “law and the prophets” formula has the same weight. When you see it in Scripture, it’s time to pull out the highlighter; the Bible is about to drop some wisdom.[^Romans-4-Arugment]
 
-[^Romans-4-Arugment]: Side note: When Paul says “the **LAW** and the Prophets bear witness” to this new manifestation of righteousness, he is teasing a biblical proof that will come in Romans 4. It is truly a *exquisite* argument proving definitively that the Torah—the very source of Jewish boasting and ethnic identity—states that man is truly justified by faith and not by doing the works of the Torah. The argument that Paul presents in Romans 4 is mic-drop good—a true 10 out of 10 winner. But there is a catch. The proof that Paul uses only works if “works of the law” means **works of the Mosaic Law**. It completely breaks if we try to sneak **good works** under the umbrella of what Paul is calling “works of the law.” We will review this argument in [chapter ${Book.Chapter[‘C011-TheAbrahamTimelineArgument’].ChapterNumber}](${Book.Chapter[‘C011-TheAbrahamTimelineArgument’].Link}).
+[^Romans-4-Arugment]: Side note: When Paul says “the **LAW** and the Prophets bear witness” to this new manifestation of righteousness, he is teasing a biblical proof that will come in Romans 4. It is truly a *exquisite* argument proving definitively that the Torah—the very source of Jewish boasting and ethnic identity—states that man is truly justified by faith and not by doing the works of the Torah. The argument that Paul presents in Romans 4 is mic-drop good—a true 10 out of 10 winner. But there is a catch. The proof that Paul uses only works if “works of the law” means **works of the Mosaic Law**. It completely breaks if we try to sneak **good works** under the umbrella of what Paul is calling “works of the law.” We will review this argument in an [upcoming chapter](./c009-the-abraham-timeline-argument.md).
 
 
 ## Romans 3:20–22: The Prequel to 3:28 (Part II)

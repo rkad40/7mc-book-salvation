@@ -14,7 +14,7 @@ Let’s get down to business.
 
 ## Introduction to the Abraham Timeline Argument
 
-Back in [chapter ${Book.Chapter[‘C009-TheTwoWitnessArgument’].ChapterNumber}](${Book.Chapter[‘C009-TheTwoWitnessArgument’].Link}), we examined Romans 3:21–22:
+In an [earlier chapter](./c007-the-two-witness-argument.md), we examined Romans 3:21–22:
 
 > #### ✝️ Romans 3:21–22 (RSV‑2CE)  
 > The righteousness of God has been manifested apart from **LAW** [**Torah**], although the **LAW** [**Torah**] and the **Prophets** bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe...
