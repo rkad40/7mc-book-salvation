@@ -7,7 +7,7 @@
  
 To discern what Saint Paul means by *"works of law"* in Romans 3:28, we must cast a wider net and look at the broader context leading up to that verse.
 
-So, in this chapter, I will give a brief overview of Romans 1:1–3:19.
+In this chapter, I will give a brief overview of the first three chapters of Romans.
 
 As we walk through Romans, I will follow a simple convention: whenever Paul uses the word *law* in a way that unambiguously refers to the Torah—the Mosaic Law—I will render it as **LAW**.
 
