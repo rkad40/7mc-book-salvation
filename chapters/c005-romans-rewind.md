@@ -5,7 +5,7 @@
 > #### 📄 Abstract
 > Paul’s opening argument in Romans establishes that both Jews and Gentiles stand equally in need of salvation. The Gentiles are guilty because they reject the God revealed in creation; the Jews are guilty because, despite possessing the law, they fail to keep it. Paul insists that God shows no partiality: all people will be judged according to their deeds, and all are “under the power of sin.” Religious identity, circumcision, and observance of Mosaic practices have no salvific value. By the end of Romans 3:19, Paul has leveled the playing field between Jews and Gentiles. No human being is righteous before God, and no one can earn salvation. This sets the stage for understanding what Paul means by “works of law” in Romans 3:28.
  
-To discern what Saint Paul means by *”works of law”* in Romans 3:28, we must cast a wider net and look at the broader context leading up to that verse.
+To discern what Saint Paul means by *“works of law”* in Romans 3:28, we must cast a wider net and look at the broader context leading up to that verse.
 
 In this chapter, I will give a brief overview of the first three chapters of Romans.
 
@@ -69,7 +69,7 @@ Paul then outlines how every man will be judged by God:
 > #### ✝️ Romans 2:7–8 (RSV‑2CE)
 > To those who by patience in well‑doing seek for glory and honor and immortality, he [God] will give eternal life; but for those who are factious and do not obey the truth, but obey wickedness, there will be wrath and fury.
 
-The last two quotes may sit uneasily with many Protestant confessions. Paul affirms that a person is not judged *merely* on whether they accepted Jesus Christ as Lord and Savior. Rather, they are judged by *how they live their faith*—”eternal life” for those who do good, “wrath and fury” for those who do evil.
+The last two quotes may sit uneasily with many Protestant confessions. Paul affirms that a person is not judged *merely* on whether they accepted Jesus Christ as Lord and Savior. Rather, they are judged by *how they live their faith*—“eternal life” for those who do good, “wrath and fury” for those who do evil.
 
 Lest the point be missed, Paul doubles down:
 
@@ -86,7 +86,7 @@ And Paul concludes on exactly that note:
 
 ## But the Jews Have the Law! (2:12–3:8)
 
-At this point, Paul’s Jewish readers might object: **”How can this be? The Gentiles do not have the Torah! Only we do!”**
+At this point, Paul’s Jewish readers might object: **“How can this be? The Gentiles do not have the Torah! Only we do!”**
 
 Paul responds:
 
@@ -176,7 +176,7 @@ The unmistakable message Paul delivers is this:
 
 Paul’s buildup sets the stage for his dogmatic proclamation in Romans 3:28.
 
-We are finally ready to answer the question: **What does Paul mean by *”works of law”* in that verse?**
+We are finally ready to answer the question: **What does Paul mean by *“works of law”* in that verse?**
 
 As a Catholic, you no doubt know where I land on this question: “works of law,” for Paul, means **works of the Mosaic Law**. And in the next three chapters, I will present three arguments as evidence:
 
@@ -184,7 +184,7 @@ As a Catholic, you no doubt know where I land on this question: “works of law,
 2. **The Jewish Boundary‑Marker Argument** (Romans 3:28–29)  
 3. **The Abraham Timeline Argument** (Romans 3:30–4:10)
 
-Of the three, the first is the weakest. But the last two are among the strongest you will find. Indeed, I would say they are *irrefutably* strong in affirming that *”works of law”* means **works of the Mosaic Law**.
+Of the three, the first is the weakest. But the last two are among the strongest you will find. Indeed, I would say they are *irrefutably* strong in affirming that *“works of law”* means **works of the Mosaic Law**.
 
 A bold claim? Sure. But I have receipts.
 

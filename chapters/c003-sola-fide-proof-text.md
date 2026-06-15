@@ -51,7 +51,7 @@ If something is so clear that **even children can grasp it**, then it must be un
 
 Given Protestant appeals to the “plain sense” of Scripture, one might expect the doctrine of justification by faith alone—*sola fide*—to appear explicitly in the Bible. Protestants insist that it does.
 
-Interestingly, however, the only verse in all of Scripture that uses the phrase *”faith alone”* is James 2:24—and it explicitly rejects the formula:
+Interestingly, however, the only verse in all of Scripture that uses the phrase *“faith alone”* is James 2:24—and it explicitly rejects the formula:
 
 > #### ✝️ James 2:24 (RSV‑2CE) 
 > You see that a man is justified by works and not by faith alone.
@@ -63,7 +63,7 @@ Instead, the verse most frequently cited as the clearest biblical proof of justi
 > #### ✝️ Romans 3:28 (RSV‑2CE)
 > For we hold that a man is justified by faith apart from works of law.
 
-Luther made Romans 3:28 the central biblical foundation for *sola fide* in his lectures. Modern Protestant theologians continue to do the same, insisting that this verse—more than any other—clearly teaches justification by faith alone. In his book *Are We Together?*, Dr. R. C. Sproul goes so far as to argue that Catholics are guilty of **”ignoring many plain teachings of Scripture, such as Romans 3:28.”**[^1]
+Luther made Romans 3:28 the central biblical foundation for *sola fide* in his lectures. Modern Protestant theologians continue to do the same, insisting that this verse—more than any other—clearly teaches justification by faith alone. In his book *Are We Together?*, Dr. R. C. Sproul goes so far as to argue that Catholics are guilty of **“ignoring many plain teachings of Scripture, such as Romans 3:28.”**[^1]
 
 [^1]: R. C. Sproul, *Are We Together? A Protestant Analyzes Roman Catholicism*, p. 4.  
 

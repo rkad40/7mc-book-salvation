@@ -29,7 +29,7 @@ or:
 
 No, his question cuts to the core of it: 
 
-**”What must I do to be saved?”** 
+**“What must I do to be saved?”** 
 
 
 ## What is More Important Than Our Salvation?
@@ -54,7 +54,7 @@ You can be the most popular person to have ever lived, the richest, the most bel
 
 ## The Salvation Controversy
 
-Hopefully you agree with all of this. I assume that if you are reading this book, you do. There is no greater question any of us can ask than, **”What must I do to be saved?”** It is such an important question that we must leave no stone unturned.
+Hopefully you agree with all of this. I assume that if you are reading this book, you do. There is no greater question any of us can ask than, **“What must I do to be saved?”** It is such an important question that we must leave no stone unturned.
 
 Unfortunately it is a question that divides Christians today. Embarrassingly, Catholics and Protestants divine different answers to this most important question. Indeed the question of salvation is one over which much blood, spiritual and literal, has been shed. 
 
@@ -68,7 +68,7 @@ Like you, I am a human being, capable of persisting in error. If my arguments ar
 
 If I arrived at my current position thinking Christ to be *here*, only later to discover that He is not here but *there*, then my path is clear. If I fail to go where I now know He is—if I fail on account of pride, or social moorings, or any other entanglements that hinder my desire—then can I call myself a follower of Christ at all? 
 
-To be a follower of Christ means *to go where he is*. To do less is to say, by action, that I do not regard the question **”What must I do to be saved?”** with the utmost importance.
+To be a follower of Christ means *to go where he is*. To do less is to say, by action, that I do not regard the question **“What must I do to be saved?”** with the utmost importance.
 
 This is true for all. Moving forward in this book, I ask you prayerfully to keep this in mind. 
 
@@ -77,7 +77,7 @@ This is true for all. Moving forward in this book, I ask you prayerfully to keep
 
 As we embark on this journey of exploration and discernment, let us do so together in prayer:
 
-**Lord Jesus Christ, hear the prayer of all who sincerely and earnestly seek you. Grant us the wisdom to discern, in the light of Scripture, the answer to that most important question once asked by the Philippian jailer: *”What must I do to be saved?”* Give us the grace to embrace that answer with our lives and to walk faithfully in the way you set before us. We ask this in your holy name.**
+**Lord Jesus Christ, hear the prayer of all who sincerely and earnestly seek you. Grant us the wisdom to discern, in the light of Scripture, the answer to that most important question once asked by the Philippian jailer: *“What must I do to be saved?”* Give us the grace to embrace that answer with our lives and to walk faithfully in the way you set before us. We ask this in your holy name.**
 
 **Amen.**
 

@@ -4,11 +4,11 @@
 
 
 > #### 📄 Abstract
-> Christians have historically answered the question *”What must I do to be saved?”* in different ways. For the first fifteen hundred years of Christianity, the Catholic view—centered on the Sacraments, cooperation with grace, and a lifelong process of justification—was largely uncontested. The Protestant Reformation introduced a radically different answer: *justification by faith alone*, understood as a one‑time declaration of righteousness. This event split Christianity in two. Five hundred years later, the divide remains, with Protestants differing sharply on whether Catholics are to be considered fellow Christians, or if, as some charge, they are followers of a “false gospel”. 
+> Christians have historically answered the question *“What must I do to be saved?”* in different ways. For the first fifteen hundred years of Christianity, the Catholic view—centered on the Sacraments, cooperation with grace, and a lifelong process of justification—was largely uncontested. The Protestant Reformation introduced a radically different answer: *justification by faith alone*, understood as a one‑time declaration of righteousness. This event split Christianity in two. Five hundred years later, the divide remains, with Protestants differing sharply on whether Catholics are to be considered fellow Christians, or if, as some charge, they are followers of a “false gospel”. 
 
 Now that we have laid the groundwork, we can finally turn to the central question of this book—the same question the Philippian jailer asked Paul and Silas in Acts 16: 
 
-**”What must I do to be saved?”**
+**“What must I do to be saved?”**
 
 As we have already noted, Christianity is deeply divided on how to answer this question. Yet this division is a relatively recent development.
 
@@ -24,7 +24,7 @@ It can be summarized as follows:
 
 1. God gives a person grace awakening a desire for Him.
 2. The person hears the Gospel and freely responds with grace‑enabled faith.
-3. The person is baptized and receives **initial justification**. (This is what Protestants call being “saved”, Catholics preferring the expression “**being in a state of sanctifying grace**”.)
+3. The person is baptized and receives **initial justification**. (This is what Protestants call being “saved”, Catholics preferring the expression “**being in a state of sanctifying grace**“.)
 
 The key idea is that salvation is a **process**:
 
@@ -98,7 +98,7 @@ The *Catechism of the Catholic Church* teaches that Protestants are **true Chris
 
 That’s not lip service. Its Catholic doctrine. If a validly baptized Protestant becomes Catholic, **they are not re‑baptized**. Baptized Christians are already **part of the family**, so to speak.  
 
-And when the topic of Protestant Christianity comes up in homilies (as it infrequently does) the universal honorific used to identify its adherents is: **”our brothers and sisters in Christ.”**
+And when the topic of Protestant Christianity comes up in homilies (as it infrequently does) the universal honorific used to identify its adherents is: **“our brothers and sisters in Christ.”**
 
 The implication is clear from a Catholic viewpoint: **Christians of all denominations make up a family**. 
 
@@ -124,7 +124,7 @@ How have Catholics “anathematized the gospel”? According to Sproul and those
 
 This is a drastic oversimplification of a far more nuanced topic—one we will explore in detail later. But this is how many Protestants see it. 
 
-Many Protestants would argue that, since justification is by faith alone, any theological system that introduces human cooperation, sacramental participation, or ongoing transformation into the salvific equation has, in fact, **”anathematized the gospel.”**[^Sproul-2]
+Many Protestants would argue that, since justification is by faith alone, any theological system that introduces human cooperation, sacramental participation, or ongoing transformation into the salvific equation has, in fact, **“anathematized the gospel.”**[^Sproul-2]
 
 
 ## Protestant Views on Catholicism—A Spectrum, Not a Single Position
@@ -132,7 +132,7 @@ Many Protestants would argue that, since justification is by faith alone, any th
 As noted, Sproul’s view is not shared by all Protestants. Views on Catholicism vary widely. Most Protestants tend to place Catholics into one of three broad categories:
 
 1. **Catholics are Christians without qualification.**
-2. **Catholics are Christians—but not “*Bible‑believing*” Christians.**
+2. **Catholics are Christians—but not “*Bible‑believing*“ Christians.**
 3. **Catholics are not Christians at all.**[^Note-1]
 
 [^Note-1]: It is not uncommon to hear testimonies such as: “I was raised Catholic, but at seventeen I *became a Christian*,” or, “I was Catholic, but then I *got saved*.”
@@ -148,7 +148,7 @@ In short, Protestant views on Catholicism are not monolithic. They form a spectr
 
 ## Conclusion
 
-The question **”What must I do to be saved?”** is one of utmost importance to Christians. This quintessential question has shaped Christian identity and divided Christian communities for the last five hundred years.
+The question **“What must I do to be saved?”** is one of utmost importance to Christians. This quintessential question has shaped Christian identity and divided Christian communities for the last five hundred years.
 
 The respective beliefs in a nutshell:
 

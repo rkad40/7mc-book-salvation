@@ -29,6 +29,7 @@ As Christians, we must be prepared. And that means grounding our theology in Scr
 
 That is what we will endeavor to do.
 
+
 ## Romans 3:28 Redux
 
 Let us return to Romans 3:28. Saint Paul writes:
@@ -45,6 +46,7 @@ For reasons discussed in the previous chapter, many Protestant theologians assum
 Once “works of law” is interpreted in this broad moral sense and then juxtaposed with faith, *sola fide* naturally follows.
 
 But there is another, far more relevant, biblical meaning of *nomos* that must be considered. The word *nomos* is the Greek translation of the Hebrew word *Torah*.
+
 
 ## What Is the Torah?
 

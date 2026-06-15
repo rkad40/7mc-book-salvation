@@ -90,7 +90,7 @@ In Boolean notation, the possibilities are:
 > 1. `If A then B̅`
 > 2. `If A̅ then B`
 
-…where `A̅` means “not `A`” and `B̅` means “not `B`.”
+…where `A̅` means “not `A`“ and `B̅` means “not `B`.”
 
 However you express it, the logic is **inviolate** regardless of what values we assign to `A` and `B`. Only one of them **can** be true; the corresponding value **must** be false.[^XOR]
 

@@ -57,19 +57,19 @@ Taken together, the passage gives us justification **through faith** apart from 
 
 The passage is as close to a first‑century copy‑and‑paste as you can get. Romans 3:20–22 effectively gives us *everything* that Romans 3:28 does—*and more*.  
 
-But as we shall see, it is precisely that “*and more*” that creates tension for Protestant interpreters.
+But as we shall see, it is precisely that “*and more*“ that creates tension for Protestant interpreters.
 
 
 ## The Law and the Prophets
 
 You may have noticed that when I cited Romans 3:20, I did **not** render “works of the law” as “works of the **LAW**.” I promised to reserve that formatting for cases where the meaning is unambiguously the **Torah**.
 
-But note that in verse 21, I did render “law” as “**LAW**”:
+But note that in verse 21, I did render “law” as “**LAW**“:
 
 > #### ✝️ Romans 3:21 (RSV‑2CE)  
 > The righteousness of God has been manifested apart from **LAW**, although the **LAW** and the prophets bear witness to it... 
 
-Here, “LAW” unquestionably means the **Torah**. How do we know? Because Paul uses the technical biblical formula **”the law and the prophets.”**
+Here, “LAW” unquestionably means the **Torah**. How do we know? Because Paul uses the technical biblical formula **“the law and the prophets.”**
 
 **This is Paul’s tell.**
 
@@ -84,26 +84,26 @@ As [previously noted](./c004-saint-paul-works-of-law.md), the Jewish Scriptures 
 
 Notice the first two canonical groups: the **Torah** and the **Prophets**. 
 
-Here is what you need to know: Whenever Scripture uses the phrase **”the law and the prophets,”** it is a technical formula that *always* means **the Torah and the Prophets**.
+Here is what you need to know: Whenever Scripture uses the phrase **“the law and the prophets,”** it is a technical formula that *always* means **the Torah and the Prophets**.
 
-The phrase, or a variant of it, appears seven other times in the New Testament. In every instance, “**LAW**” means **Torah**.[^Law-and-Prophets]
+The phrase, or a variant of it, appears seven other times in the New Testament. In every instance, “**LAW**“ means **Torah**.[^Law-and-Prophets]
 
 [^Law-and-Prophets]: The New Testament usage includes: 
-(1) Matthew 5:17—”I have not come to abolish the **LAW** and the prophets…”
-(2) Matthew 7:12—”…for this is the **LAW** and the prophets.”
-(3) Matthew 11:13—”For all the prophets and the **LAW** prophesied until John.”
-(4) Matthew 22:40—”On these two commandments depend all the **LAW** and the prophets.”
-(5) Luke 16:16—”The **LAW** and the prophets were until John.”
-(6) Acts 13:15—”After the reading of the **LAW** and the prophets…”
-(7) Acts 24:14—”…believing everything laid down by the **LAW** and written in the prophets.”
-In all instances the word “**LAW**” (Greek *nomos*) unambiguously means **Torah**.
+(1) Matthew 5:17—“I have not come to abolish the **LAW** and the prophets…”
+(2) Matthew 7:12—“…for this is the **LAW** and the prophets.”
+(3) Matthew 11:13—“For all the prophets and the **LAW** prophesied until John.”
+(4) Matthew 22:40—“On these two commandments depend all the **LAW** and the prophets.”
+(5) Luke 16:16—“The **LAW** and the prophets were until John.”
+(6) Acts 13:15—“After the reading of the **LAW** and the prophets…”
+(7) Acts 24:14—“…believing everything laid down by the **LAW** and written in the prophets.”
+In all instances the word “**LAW**“ (Greek *nomos*) unambiguously means **Torah**.
 
 **There are no exceptions.**
 
 
 ## The Two‑Witness Rule
 
-But what does the phrase **”the LAW and the prophets”** mean?
+But what does the phrase **“the LAW and the prophets”** mean?
 
 It invokes the Deuteronomic **two‑witness rule** (Deut 17:6; 19:15).
 
@@ -142,7 +142,7 @@ Recall our **RIGHT** rules:
 
 Both rules are again in play.  
 
-In verse 21, “**LAW**” = **Torah**. No one argues the point. To quote the Borg: “Resistance is futile.”
+In verse 21, “**LAW**“ = **Torah**. No one argues the point. To quote the Borg: “Resistance is futile.”
 
 In verse 20—*the preceding verse*—we have a contextually related use of the word “law”:
 
@@ -179,7 +179,7 @@ One of those readings is nonsensical—and I doubt I have to tell you which one 
 
 But if you believe Romans 3:28 teaches the Protestant doctrine of *sola fide*, then you are effectively married to that nonsensical reading of Romans 3:21.[^Law-Shift]
 
-[^Law-Shift]: Protestants sometimes argue that Paul uses “law” (Greek *nomos*) in multiple senses and that context does not force a single meaning. That is true—up to a point. Paul’s use of “law” in Romans 2:14—”When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law”—does not govern its meaning in Romans 3:20. No argument there. But Paul’s usage of “law” in Romans 3:21 **does** govern its meaning within Paul’s single, continuous thought in Romans 3:20–22. Paul can use *nomos* flexibly, but **he does not shift meanings mid‑argument without clear contextual markers**. Romans 3:20–22 contains none. Anyone claiming a semantic shift here bears the burden of proof.
+[^Law-Shift]: Protestants sometimes argue that Paul uses “law” (Greek *nomos*) in multiple senses and that context does not force a single meaning. That is true—up to a point. Paul’s use of “law” in Romans 2:14—“When Gentiles who have not the law do by nature what the law requires, they are a law to themselves, even though they do not have the law”—does not govern its meaning in Romans 3:20. No argument there. But Paul’s usage of “law” in Romans 3:21 **does** govern its meaning within Paul’s single, continuous thought in Romans 3:20–22. Paul can use *nomos* flexibly, but **he does not shift meanings mid‑argument without clear contextual markers**. Romans 3:20–22 contains none. Anyone claiming a semantic shift here bears the burden of proof.
 
 
 Applying the **RIGHT** rules, the Catholic interpretation naturally follows.
