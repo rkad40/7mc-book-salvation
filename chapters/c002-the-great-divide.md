@@ -24,7 +24,7 @@ It can be summarized as follows:
 
 1. God gives a person grace awakening a desire for Him.
 2. The person hears the Gospel and freely responds with grace‑enabled faith.
-3. The person is baptized and receives **initial justification**. (This is what Protestants call being “saved”, Catholics preferring the expression “**being in a state of sanctifying grace**“.)
+3. The person is baptized and receives **initial justification**. (This is what Protestants call being “saved”, Catholics preferring the expression “**being in a state of sanctifying grace**”.)
 
 The key idea is that salvation is a **process**:
 
@@ -132,7 +132,7 @@ Many Protestants would argue that, since justification is by faith alone, any th
 As noted, Sproul’s view is not shared by all Protestants. Views on Catholicism vary widely. Most Protestants tend to place Catholics into one of three broad categories:
 
 1. **Catholics are Christians without qualification.**
-2. **Catholics are Christians—but not “*Bible‑believing*“ Christians.**
+2. **Catholics are Christians—but not “*Bible‑believing*” Christians.**
 3. **Catholics are not Christians at all.**[^Note-1]
 
 [^Note-1]: It is not uncommon to hear testimonies such as: “I was raised Catholic, but at seventeen I *became a Christian*,” or, “I was Catholic, but then I *got saved*.”

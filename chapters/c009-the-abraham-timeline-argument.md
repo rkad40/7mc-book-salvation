@@ -19,7 +19,7 @@ In an [earlier chapter](./c007-the-two-witness-argument.md), we examined Romans 
 > #### ✝️ Romans 3:21–22 (RSV‑2CE)  
 > The righteousness of God has been manifested apart from **LAW** [**Torah**], although the **LAW** [**Torah**] and the **Prophets** bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe...
 
-Because “the **LAW** and the **Prophets**“ is a formulaic expression for the Hebrew Scriptures, we concluded that “law” here means **Torah**. This allowed us to show that “law” in verses 20 and 28 also means **Torah**, placing those battleground verses squarely in the Catholic sphere.
+Because “the **LAW** and the **Prophets**” is a formulaic expression for the Hebrew Scriptures, we concluded that “law” here means **Torah**. This allowed us to show that “law” in verses 20 and 28 also means **Torah**, placing those battleground verses squarely in the Catholic sphere.
 
 At the time we did not linger on the broader implication:
 

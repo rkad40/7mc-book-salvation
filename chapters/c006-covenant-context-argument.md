@@ -144,13 +144,13 @@ This Jew–Gentile tension is not unique to Romans 1-3. It appears throughout th
 
 This divide was clearly manifested in the fact that many first‑century Jewish Christians did not accept the Gentiles as brothers and sisters in Christ. This tension forms the backdrop of Paul’s argument in Romans 1-3.
 
-Over a dozen times Paul contrasts “Jews/Gentiles”, “Jews/Greeks”, “circumcised/ uncircumcised”,  those “under the **LAW**/without the **LAW**“. Paul even names his interlocutor: “You call yourself a **Jew** and rely upon the **LAW** and boast of your relation to God...” (Romans 2:17).
+Over a dozen times Paul contrasts “Jews/Gentiles”, “Jews/Greeks”, “circumcised/ uncircumcised”,  those “under the **LAW**/without the **LAW**”. Paul even names his interlocutor: “You call yourself a **Jew** and rely upon the **LAW** and boast of your relation to God...” (Romans 2:17).
 
 Paul aims to strip his Jewish readers of any pretense of covenant privilege writing:
 
-- “**God shows no partiality**“ (Romans 2:11)
-- “**all men, both Jews and Greeks, are under the power of sin**“ (Romans 3:9)
-- “**there is no distinction; since all have sinned and fall short of the glory of God**“ (Romans 3:22-23)
+- “**God shows no partiality**” (Romans 2:11)
+- “**all men, both Jews and Greeks, are under the power of sin**” (Romans 3:9)
+- “**there is no distinction; since all have sinned and fall short of the glory of God**” (Romans 3:22-23)
 
 Plainly stated: The problem wasn’t **merit**; it was **entitlement**.
 
