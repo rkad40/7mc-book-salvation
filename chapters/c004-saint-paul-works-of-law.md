@@ -11,11 +11,9 @@ But is it possible that there is a *reason* Catholics are not so easily swayed?
 
 As a Catholic Christian, I take the topic of salvation *very seriously*. Indeed, for me, the question **“What must I do to be saved?”** does not go nearly far enough.
 
-I am equally—if not more—concerned with the eternal destiny of my family. The first prayer on my lips when I rise and the last when I lie down is: *“Lord, please save my family.”*
+I pray daily for the salvation of my family, and I carry that same concern for my friends, my coworkers, and for all those God has placed in my life. I am concerned for you as well—the readers of this book.
 
-I am concerned, as well, for my friends. I am concerned for my coworkers, believers and non‑believers alike. I am concerned for people I know and people I do not. And I am concerned for you as well—the readers of this book.
-
-Sometimes I wonder if is as hard as we make it out to be. One of my favorite Christian quotations comes from the nineteenth‑century priest Father Jean‑Baptiste Lacordaire, who wrote:
+Sometimes I wonder if it is truly as hard as we make it out to be. One of my favorite Christian quotations comes from the nineteenth‑century priest Father Jean‑Baptiste Lacordaire, who wrote:
 
 > A God on the Cross! That is all my theology.[^Quote-1]
 
@@ -49,6 +47,8 @@ But there is another, far more relevant, biblical meaning of *nomos* that must b
 
 
 ## What Is the Torah?
+
+To understand Paul’s meaning, we must step into his world and consider how a first‑century Jew would have heard the word *nomos*.
 
 The Christian Bible today is comprised of an **Old Testament** and a **New Testament**—the former written about events that came before the coming of the Messiah, the latter written about events that came after.
 
@@ -84,7 +84,7 @@ Paul uses the term the same way in his other letters:
 - **Galatians 5:3**—circumcision obligates one to keep “the whole law.”  
 - **Ephesians 2:14–15**—Christ abolishes “the law of commandments and ordinances.”
 
-This is only a sampling. A full catalog would take pages. It is enough to observe that across Paul’s writings, “the law,” “under the law,” “works of law,” and “the whole law” consistently refer to the **Torah** or **Mosaic Law**.
+This is only a sampling. A full catalog would force me to break my 7-minute rule. It is enough to observe that across Paul’s writings, “the law,” “under the law,” “works of law,” and “the whole law” consistently refer to the **Torah** or **Mosaic Law**.
 
 
 ## Implications for Romans 3:28
@@ -117,7 +117,7 @@ Paul did not write Romans in a theological vacuum. His words were shaped by the 
 Ultimately, what we find when we read Scripture is that interpreting “works of law” as **works of the Mosaic Law** aligns perfectly with a major controversy in the early Church—one explicitly documented throughout the New Testament.
 
 
-## First Century Christianity in Crisis: Jew vs. Gentile
+## First-Century Christianity in Crisis: Jew vs. Gentile
 
 Today, Christian controversy is dominated by the Catholic–Protestant debate. But in the first century A.D., the central conflict was between Christians who converted from Judaism and those who converted from the Gentile ranks.
 
@@ -128,7 +128,7 @@ The Acts of the Apostles records the first Church council, convened precisely to
 > #### ✝️ Acts 15:5 (RSV‑2CE)  
 > “It is necessary to circumcise them [Gentile Christians], and to charge them to keep the law of Moses.”
 
-The Bible says that “after there had been much debate,” Peter rose and addressed the assembly:
+Reading this, one can reasonably wonder whether the Church has changed all that much in the last two thousand years. As is so often the case—then and now—many of the most difficult challenges the Church faces are not external but internal. The Bible says that “after there had been much debate,” Peter rose and addressed the assembly:
 
 > #### ✝️ Acts 15:8–9 (RSV‑2CE)  
 > “God who knows the heart bore witness to them [Gentile Christians], giving them the Holy Spirit just as he did to us; and he made no distinction between us and them, but cleansed their hearts by faith.”
@@ -138,13 +138,13 @@ Peter then concludes:
 > #### ✝️ Acts 15:11 (RSV‑2CE)  
 > “We believe that we shall be saved through the grace of the Lord Jesus, just as they will.”
 
-This should have settled the matter, but it did not. Paul—being the Apostle to the Gentiles—frequently crossed paths with those whom he called “false brethren,” who leveled “unsettling” accusations against Gentile Christians and attempted to impose the Mosaic Law upon them.
+Peter’s words should have closed the debate, but old habits die hard. Even in the apostolic age, Church disputes had a way of lingering. Paul—ever in the thick of the Gentile mission—soon found himself contending with “false brethren” who continued pressing the case for the Mosaic Law.
 
-What does it all mean?
+The one thing we can reasonably conclude from this dust‑up is this:
 
-Simply put: 
+**If “works of law” refers to the Mosaic Law, the interpretation is not only linguistically and contextually sound—it fits the historical situation with remarkable precision.**[^NPP]
 
-**If “works of law” refers to the Mosaic Law, the interpretation is not only linguistically and contextually sound—it fits the historical situation with remarkable precision.**
+[^NPP]: It is worth noting that some modern Protestant scholars—particularly those associated with the **New Perspective on Paul**—agree that “works of law” refers to the Mosaic Law rather than to moral effort. Figures such as E. P. Sanders, James D. G. Dunn, and N. T. Wright argue that Paul’s concern was not human good works in general, but the Jewish boundary‑marker practices that distinguished Israel under the Torah. While these scholars remain Protestant and do not fully adopt a Catholic view of justification, their linguistic and historical analysis strongly supports the idea that Paul’s phrase “works of law” is rooted in the Mosaic covenant, not in generic moral action. The work of **NPP** scholars is important because it provides Protestants who find merit in the historical Christian reading of Paul with a robust, academically grounded framework for understanding Romans 3:28 without abandoning Protestant commitments.
 
 
 ## Conclusion
@@ -164,9 +164,8 @@ The definition we choose frames our understanding of the gospel itself and shape
 
 Of course, it does not matter how *you* or *I* define “works of law.” It only matters how **Saint Paul** defined the expression—and, by extension, how the **Holy Spirit** intended it to be understood.
 
-That must be our goal: to understand what Paul meant by “works of law.”
+That must be our goal: to understand what Paul meant by “works of law.” And to do that, we must return to Romans and read Paul on his own terms.
 
-And to do that, we must place Romans 3:28 back into its proper context.
 
 > #### 💡 Ask An AI
 >
