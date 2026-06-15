@@ -1,6 +1,6 @@
-📖 **Chapter 5** *(6-minute read)*
+📖 **Chapter 5** *(7-minute read)*
 
-# Romans 1–3: “None Are Righteous”
+# Romans in Review
 
 > #### 📄 Abstract
 > Paul’s opening argument in Romans establishes that both Jews and Gentiles stand equally in need of salvation. The Gentiles are guilty because they reject the God revealed in creation; the Jews are guilty because, despite possessing the law, they fail to keep it. Paul insists that God shows no partiality: all people will be judged according to their deeds, and all are “under the power of sin.” Religious identity, circumcision, and observance of Mosaic practices have no salvific value. By the end of Romans 3:19, Paul has leveled the playing field between Jews and Gentiles. No human being is righteous before God, and no one can earn salvation. This sets the stage for understanding what Paul means by “works of law” in Romans 3:28.
@@ -16,24 +16,33 @@ Let’s begin.
 
 ## Salvation By Faith (1:1–17)
 
-Paul opens his letter with a greeting in which he identifies himself as “a servant of Jesus Christ, called to be an apostle” (1:1). No sooner has he finished his fairly long‑winded salutation than he launches into the theme of the entire letter:
+Paul opens his letter with a greeting in which he identifies himself as “a servant of Jesus Christ, called to be an apostle” (1:1). After a fairly long‑winded salutation, he launches into the theme of the letter:
 
 > #### ✝️ Romans 1:16 (RSV‑2CE)
 > The gospel ... is the power of God for salvation to every one who has faith, to the Jew first and also to the Greek.
 
-Two points are noteworthy:
+If your goal was to put Romans on a bumper sticker, this is your verse. It succinctly summarizes Paul’s entire epistle:
 
-- Paul’s early emphasis on **salvation by faith**
-- Paul’s explicit mention of **the Jew** and **the Greek** (i.e., the Gentile)
+Question                           | Answer
+--------                           | ------
+What is the subject of the letter? | “**salvation**” (a.k.a. justification)
+How is salvation achieved?         | through “**faith**”
+Who can be saved?                  | “the Jew” and also “the Greek” (a.k.a. **everyone**)
 
-In the next verse, Paul presents his thesis statement:
+This one verse is Romans in a nutshell. It touches all the major themes.  
+
+Notice that one of those themes involves the scope of salvation, offered to “the Jew first and also to the Greek”. In first-century Judaism there was very much an “us against the rest of the world” mentality. Every human being belonged to one of two groups: There were the **Jews**—God’s chosen people—and then there was **everybody else**. 
+
+Paul uses different names for this everybody-else category: “Greek”, “Gentile”, “uncircumcised”—just to name a few.  
+
+If you take careful note when you read Romans, you will see Paul compare and contrast these two groups again and again, eventually arriving at a most incredible conclusion already hinted at in Romans 1:16—that when it comes to salvation, God sees not distinction between Jews and Gentiles.
+
+Rather, as Paul states in the very next verse:
 
 > #### ✝️ Romans 1:17 (RSV‑2CE)
 > He who through faith is righteous shall live.
 
-Already, Paul has told us a great deal. The topic of his inspired letter is **salvation by faith** and how it relates to **both Jews and Gentiles**.
-
-This Jew-Gentile topic is one that Paul will return to repeatedly in Romans. But first, he considers the two groups independently. First up: the Gentiles.
+This Jew-Gentile topic is one that Paul will return to repeatedly in Romans. But first, he considers the two groups independently. He begins with the Gentiles.
 
 
 ## What About the Gentiles? (1:18–32)
@@ -57,7 +66,7 @@ Paul next turns to the Jews—especially those who would regard themselves as mo
 > #### ✝️ Romans 2:1 (RSV‑2CE)
 > In passing judgment on him [i.e., the Gentile] you [i.e., the Jew] condemn yourself.
 
-Though the Jews regarded themselves as God’s people and custodians of the Written Law, Paul reminds them that they too are sinners in need of salvation. 
+Though the Jews regarded themselves as God’s people and custodians of the **LAW**, Paul reminds them that they too are sinners in need of salvation. 
 
 Ultimately, every person—Jew and Gentile alike—will be judged by what they do in this life:
 
@@ -76,9 +85,7 @@ Lest the point be missed, Paul doubles down:
 > #### ✝️ Romans 2:9–10 (RSV‑2CE)
 > There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek, but glory and honor and peace for every one who does good, the Jew first and also the Greek.
 
-We will explore the implications of these statements in a later chapter. For now, simply note Paul’s consistent pattern: “the Jew first and also the Greek.” He emphasizes repeatedly that these two groups exist, and that there is **no distinction** between them in God’s plan for salvation.
-
-And Paul concludes on exactly that note:
+We will explore the implications of these statements in a later chapter. For now, we simply note that Paul is speaks of an open-ended plan of salvation that includes **both Jews and Greeks** (a.k.a. Gentiles). And Paul concludes on exactly that note:
 
 > #### ✝️ Romans 2:11 (RSV‑2CE)
 > For God shows no partiality.
@@ -132,7 +139,9 @@ And again:
 
 Far from being a badge of honor, the Mosaic Law was more like a **scarlet letter**—a visible reminder that the Jewish people, like an unfaithful spouse, had broken her covenant with God.
 
-Paul is stating it plainly: **the Mosaic Law did not make Jews superior or give them special status. It simply bore witness to their sinful nature.** 
+Paul is stating it plainly: 
+
+**The Mosaic Law did not make Jews superior or give them special status. It simply bore witness to their sinful nature.** 
 
 For all their privileges, Jews were no better than Gentiles.
 
@@ -169,26 +178,32 @@ All the religious practices Jews perform under the Mosaic Law—circumcision, ab
 
 The unmistakable message Paul delivers is this:
 
-> **No human being is righteous before God. All are in need of salvation. (And yes, if you are a Jew, *that means you too*!)**
+**No human being is righteous before God. All are in need of salvation. (And yes, if you are a Jew, *that means you too*!)**
 
 
 ## What Do “Works of Law” Mean?
 
-Paul’s buildup sets the stage for his dogmatic proclamation in Romans 3:28.
+Paul’s buildup sets the stage for his dogmatic proclamation in Romans 3:28:
 
-We are finally ready to answer the question: **What does Paul mean by *“works of law”* in that verse?**
+> #### ✝️ Romans 3:28 (RSV‑2CE)  
+> For we hold that a man is justified by faith apart from works of law.
 
-As a Catholic, you no doubt know where I land on this question: “works of law,” for Paul, means **works of the Mosaic Law**. And in the next three chapters, I will present three arguments as evidence:
+We are finally ready to answer the question: **What does Paul mean by *“works of law”* in this verse?**
 
-1. **The Two‑Witness Context Argument** (Romans 3:20–27)  
-2. **The Jewish Boundary‑Marker Argument** (Romans 3:28–29)  
-3. **The Abraham Timeline Argument** (Romans 3:30–4:10)
+As a Catholic, you no doubt know where I land on this question: “works of law,” for Paul, means **works of the Mosaic Law**. And in the upcoming chapters, I will present four arguments as evidence:
 
-Of the three, the first is the weakest. But the last two are among the strongest you will find. Indeed, I would say they are *irrefutably* strong in affirming that *“works of law”* means **works of the Mosaic Law**.
+1. **The Covenant‑Context Argument** (Romans 1:1–3:27)
+2. **The Two‑Witness Context Argument** (Romans 3:20–27)  
+3. **The God‑of‑the‑Jews‑Only Argument** (Romans 3:28–29)  
+4. **The Abraham Timeline Argument** (Romans 3:30–4:10)
+
+Of the four, the first two are the weakest. But the last two are among the strongest you will find. Indeed, I would say they are **irrefutably** strong in affirming that “works of law” means **works of the Mosaic Law**.
 
 A bold claim? Sure. But I have receipts.
 
 Ultimately, though, you can judge for yourself.
+
+Before we get to these arguments though, we are going to take a brief detour and talk about the interpretive method we are going to employ in our analysis.
 
 > #### 💡 Ask An AI
 > 
