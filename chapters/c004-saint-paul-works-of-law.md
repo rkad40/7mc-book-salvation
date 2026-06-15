@@ -89,7 +89,7 @@ This is only a sampling. A full catalog would force me to break my 7-minute rule
 
 ## Implications for Romans 3:28
 
-The implications are significant. In short, there are *two* possible interpretations of Romans 3:28, depending on how one understands “works of law.” Either:
+The implications in Romans 3:28 are significant. In short, there are *two* possible interpretations of Romans 3:28, depending on how one understands “works of law.” Either:
 
 - Man is justified by faith apart from **good works** (i.e., by faith alone) **—OR—**  
 - Man is justified by faith apart from **works of the Mosaic Law**
