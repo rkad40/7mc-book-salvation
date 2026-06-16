@@ -1,4 +1,4 @@
-📖 **Chapter 7** *(7-minute read)*
+📖 **Chapter 8** *(7-minute read)*
 
 # The Two‑Witness Context Argument (Romans 3:20–28)
 
@@ -125,7 +125,7 @@ If you want a good analogy—imagine a child asking both parents for something t
 
 The “law and the prophets” formula has the same weight. When you see it in Scripture, it’s time to pull out the highlighter; the Bible is about to drop some wisdom.[^Romans-4-Arugment]
 
-[^Romans-4-Arugment]: Side note: When Paul says “the **LAW** and the Prophets bear witness” to this new manifestation of righteousness, he is teasing a biblical proof that will come in Romans 4. It is truly a *exquisite* argument proving definitively that the Torah—the very source of Jewish boasting and ethnic identity—states that man is truly justified by faith and not by doing the works of the Torah. The argument that Paul presents in Romans 4 is mic-drop good—a true 10 out of 10 winner. But there is a catch. The proof that Paul uses only works if “works of the law” means **works of the Mosaic Law**. It completely breaks if we try to sneak **good works** under the umbrella of what Paul is calling “works of the law.” We will review this argument in an [upcoming chapter](./c009-the-abraham-timeline-argument.md).
+[^Romans-4-Arugment]: Side note: When Paul says “the **LAW** and the Prophets bear witness” to this new manifestation of righteousness, he is teasing a biblical proof that will come in Romans 4. It is truly a *exquisite* argument proving definitively that the Torah—the very source of Jewish boasting and ethnic identity—states that man is truly justified by faith and not by doing the works of the Torah. The argument that Paul presents in Romans 4 is mic-drop good—a true 10 out of 10 winner. But there is a catch. The proof that Paul uses only works if “works of the law” means **works of the Mosaic Law**. It completely breaks if we try to sneak **good works** under the umbrella of what Paul is calling “works of the law.” We will review this argument in an [upcoming chapter](./c010-the-abraham-timeline-argument.md).
 
 
 ## Romans 3:20–22: The Prequel to 3:28 (Part II)
@@ -216,5 +216,5 @@ They are both veritable **debate enders**.
 > 3. **How do Protestant and Catholic interpreters differ in their reading of Romans 3:28, and what assumptions shape each view?**  
 > 4. **What role does the Deuteronomic two‑witness rule play in Jewish legal reasoning, and how might Paul be drawing on it?**
 
-🧭 **Navigation**: [⬅️Prev](c006-covenant-context-argument.md) [Next➡️](c008-god-of-the-jews-only-argument.md) 
+🧭 **Navigation**: [⬅️Prev](c007-covenant-context-argument.md) [Next➡️](c009-god-of-the-jews-only-argument.md) 
 

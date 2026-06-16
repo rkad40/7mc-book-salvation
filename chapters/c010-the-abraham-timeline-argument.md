@@ -1,4 +1,4 @@
-📖 **Chapter 9** *(7-minute read)*
+📖 **Chapter 10** *(7-minute read)*
 
 # The Abraham Timeline Argument (Romans 3:30)
 
@@ -14,7 +14,7 @@ Let’s get down to business.
 
 ## Introduction to the Abraham Timeline Argument
 
-In an [earlier chapter](./c007-the-two-witness-argument.md), we examined Romans 3:21–22:
+In an [earlier chapter](./c008-the-two-witness-argument.md), we examined Romans 3:21–22:
 
 > #### ✝️ Romans 3:21–22 (RSV‑2CE)  
 > The righteousness of God has been manifested apart from **LAW** [**Torah**], although the **LAW** [**Torah**] and the **Prophets** bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe...
@@ -190,5 +190,5 @@ Thus, we again arrive at a biblical proof that further demonstrates that when Pa
 > 3. Does Paul’s argument in Romans 4 logically support a distinction between “works of the law” and “good works,” or does it treat all works the same?
 > 4. How did Second Temple Jews understand Abraham’s righteousness, and how might that background illuminate Paul’s use of Abraham as an example?
 
-🧭 **Navigation**: [⬅️Prev](c008-god-of-the-jews-only-argument.md)
+🧭 **Navigation**: [⬅️Prev](c009-god-of-the-jews-only-argument.md)
 

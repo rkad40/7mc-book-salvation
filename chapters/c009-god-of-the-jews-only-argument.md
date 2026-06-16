@@ -1,4 +1,4 @@
-📖 **Chapter 8** *(7-minute read)*
+📖 **Chapter 9** *(7-minute read)*
 
 # The God‑of‑the‑Jews‑Only Argument (Romans 3:28–29)
 
@@ -231,5 +231,5 @@ But we are not done yet.
 > 3. **What evidence exists in Jewish and early Christian writings that “works of the law” refers to practices that distinguish Jews from Gentiles?**
 > 4. **How do different Christian traditions interpret Romans 3:28–29, and what assumptions shape those interpretations?**
 
-🧭 **Navigation**: [⬅️Prev](c007-the-two-witness-argument.md) [Next➡️](c009-the-abraham-timeline-argument.md) 
+🧭 **Navigation**: [⬅️Prev](c008-the-two-witness-argument.md) [Next➡️](c010-the-abraham-timeline-argument.md) 
 

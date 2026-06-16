@@ -1,4 +1,4 @@
-📖 **Chapter 6** *(7-minute read)*
+📖 **Chapter 7** *(7-minute read)*
 
 # The Covenant‑Context Argument (Romans 1:1–3:27)
 
@@ -189,5 +189,5 @@ Rest assured, though: much better and far stronger arguments await.
 > 3. **Why is circumcision central to Paul’s argument?**  
 > 4. **Does the Catholic reading of Romans 1-3 result in works-salvation?**
 
-🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md) [Next➡️](c007-the-two-witness-argument.md) 
+🧭 **Navigation**: [⬅️Prev](c006-right-way.md) [Next➡️](c008-the-two-witness-argument.md) 
 
