@@ -1,4 +1,4 @@
-📖 **Chapter 6** *(5-minute read)*
+📖 **Chapter 6** *(6-minute read)*
 
 # Interpreting Scripture the RIGHT Way
 
@@ -116,11 +116,25 @@ When this occurs, I refer to it as **RIGHT‑0**.
 
 In the chapters ahead, we’re going to put these **RIGHT** rules to work. And once we do, you’ll see why they matter so much. 
 
-These **RIGHT** rules aren’t complicated. They’re not exotic. They’re not even controversial. They’re simply the difference between reading the Bible and reading into the Bible.
+These **RIGHT** rules aren’t complicated. They’re not exotic. They’re not even controversial. They’re simply the difference between reading what the Bible says and what you *want* the Bible to say.
 
-The Bible is not unclear. But our habits, assumptions, and biases often are. If we don’t define biblical words biblically, and if we don’t read verses in context, then we’re not interpreting Scripture—we’re just affirming our own biases.  
+The Bible is not unclear. But our habits, assumptions, and biases often are. If we don’t define biblical words and expressions biblically, and if we don’t read verses in context, then we’re not interpreting Scripture—we’re just affirming our own biases.  
 
-With the rules established, we can finally get to the good stuff: the arguments. And once we apply these rules consistently, the fog lifts, the noise dies down, and the meaning of the Text becomes surprisingly clear.
+With the rules established, we can finally get to the good stuff: the arguments. 
+
+As we first noted in the last chapter, the entire meaning of Paul’s letter to the Romans hinges on the meaning of “works of law” in Romans 3:28:
+
+1. Does Paul mean **good works**?
+2. Or, does he mean **works of the Mosaic Law**?
+
+In the next four chapters we are going to cover four chapters we will consider four different arguments showing that Paul has the latter meaning in mind:
+
+1. **The Covenant‑Context Argument** (Romans 1:1–3:27)
+2. **The Two‑Witness Context Argument** (Romans 3:20–27)  
+3. **The God‑of‑the‑Jews‑Only Argument** (Romans 3:28–29)  
+4. **The Abraham Timeline Argument** (Romans 3:30–4:10)
+
+In each case, we are going to apply the **RIGHT** rules. Once we do, we will see that Paul’s intended meaning becomes incredibly clear.
 
 🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md) [Next➡️](c007-covenant-context-argument.md) 
 
