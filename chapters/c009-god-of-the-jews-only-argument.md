@@ -164,7 +164,7 @@ Does that make sense?
 
 How does pulling a five‑dollar bill out of my wallet and giving it to a man holding a cardboard sign that reads “HUNGRY” prove that God is only the God of the Jews?
 
-![](../assets/img/pic/theme/system/HungrySign.svg)
+![](../assets/img/pic/Hungry.png)
 
 It doesn’t.
 

@@ -1,11 +1,11 @@
 📖 **Chapter 5** *(7-minute read)*
 
-# Romans in Review
+# Romans Rewind
 
 > #### 📄 Abstract
 > Paul’s opening argument in Romans establishes that both Jews and Gentiles stand equally in need of salvation. The Gentiles are guilty because they reject the God revealed in creation; the Jews are guilty because, despite possessing the law, they fail to keep it. Paul insists that God shows no partiality: all people will be judged according to their deeds, and all are “under the power of sin.” Religious identity, circumcision, and observance of Mosaic practices have no salvific value. By the end of Romans 3:19, Paul has leveled the playing field between Jews and Gentiles. No human being is righteous before God, and no one can earn salvation. This sets the stage for understanding what Paul means by “works of law” in Romans 3:28.
  
-To discern what Saint Paul means by *“works of law”* in Romans 3:28, we must cast a wider net and look at the broader context leading up to that verse.
+To discern what Saint Paul means by **“works of law”** in Romans 3:28, we must cast a wider net and look at the broader context leading up to that verse.
 
 In this chapter, I will give a brief overview of the first three chapters of Romans.
 

@@ -134,7 +134,7 @@ In the next four chapters we are going to cover four chapters we will consider f
 3. **The God‑of‑the‑Jews‑Only Argument** (Romans 3:28–29)  
 4. **The Abraham Timeline Argument** (Romans 3:30–4:10)
 
-In each case, we are going to apply the **RIGHT** rules. Once we do, we will see that Paul’s intended meaning becomes incredibly clear.
+In each case, we are going to apply the **RIGHT** rules. Once we do, I think you will see that Paul’s intended meaning becomes incredibly clear.
 
 🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md) [Next➡️](c007-covenant-context-argument.md) 
 
