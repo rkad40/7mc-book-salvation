@@ -140,7 +140,7 @@ Answer:
 
 **When you *sign* it.**
 
-And for the record, that is exactly what the Jews did. Only they didn’t put their mark on a piece of paper; **they marked their flesh**.
+And for the record, that is exactly what the Jews did. Only they didn’t put their mark on a piece of paper; **they marked their flesh**. That is was circumcision was--the sacred signing of the covenant contract. 
 
 Circumcision was the first and foundational work of the Mosaic Law. It functioned as a **covenant identity marker**, defining the Jews’ unique place as God’s own people. 
 
