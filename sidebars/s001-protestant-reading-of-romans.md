@@ -15,13 +15,9 @@ This mainline Protestant view requires that--when Paul says that we are "justifi
 3. Romans 3:19 says that "we know that whatever the law says it speaks to those who are under the law, so that **every** mouth may be stopped, and the **whole** world may be held accountable to God". If the law binds "every mouth" and the "whole world", then it must be universal in scope.  
 4. Romans 3:20 states that "no human being will be justified in his sight by works of the law, since through the law comes knowledge of sin”. Since all people possess knowledge of sin, the “law” in view cannot be limited to the Mosaic Law but must include a universally binding moral standard.
 5. Paul speaks out against "boasting" (Romans 3:27)--just one verse before he says that we are justified "by faith apart from works of law" (Romans 3:28). But boasting isn't exclusively a **Jewish** problem--it is a **humanity** problem. If Paul only excluded Jewish ceremonial works, Gentiles could still boast in their moral achievements. But Paul says all boasting is excluded. Therefore, the “works” excluded must be all works, including moral works.
-5. Paul excludes all “boasting” in Romans 3:27, immediately before declaring that justification is “by faith apart from works of law” (Romans 3:28). Because boasting is not merely a Jewish problem but a universal human problem, Protestants argue that Paul must be excluding all forms of human achievement—moral as well as ceremonial. If only Jewish works were excluded, Gentiles could still boast in their moral performance.
-6. Even granting that the "law" means the Mosaic Law in some verses, the Mosaic Law included both ceremonial and moral commandments. Paul explicitly associates the "law" with the moral commandments against stealing and adultery (Romans 3:22-23). He also says that righteousness is “apart from the law” (Romans 3:21). If righteousness is "apart from the [Mosaic] Law" then it would be apart from both the ceremonial **and** moral laws.
-6. Even if “law” refers to the Mosaic Law in some verses, the Mosaic Law itself contains both ceremonial and moral commandments. Paul associates “law” with moral prohibitions such as adultery and theft (Romans 2:22). He also says that righteousness is revealed “apart from the law” (Romans 3:21). Therefore, Protestants conclude that justification must be apart from both ceremonial observances and moral works.
-7. In Romans 4:4-5 Paul juxtaposes belief and "works"--not "works of the law". The one who "trusts in God" will be saved. Conversely, the one who works is the one who is illicitly treating salvation like a wage, something that they are **"due"**.   
-7. In Romans 4:4–5 Paul contrasts “working” with “believing,” not “works of the law” with faith. The one who works seeks wages that are “due,” whereas the one who trusts in God receives righteousness as a gift. Protestants take this to establish a general theological principle: faith and works operate on fundamentally opposite principles in justification.
+6. Even if “law” refers to the Mosaic Law in some verses, the Mosaic Law itself contains both ceremonial and moral commandments. Paul associates “law” with moral prohibitions such as adultery and theft (Romans 2:22). He also says that righteousness is revealed “apart from the law” (Romans 3:21). Therefore, justification must be apart from both ceremonial **and** moral works.
+7. In Romans 4:4–5 Paul contrasts “believing” with “working”--not “works of the law”. The one who works seeks wages that are “due,” whereas the one who trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
 8. The Catholic claim from Romans 4 alleging that Abraham was justified before doing any works of the Mosaic Law is impossible. Since Abraham predates Moses and the Torah, “works” must be broader than Mosaic works.
-8. Paul’s appeal to Abraham reinforces this conclusion. Because Abraham lived before Moses and the giving of the Torah, his justification cannot be contrasted with Mosaic observances. Therefore, when Paul says that Abraham was not justified by “works” (Romans 4:2), Protestants infer that “works” must refer to human effort in general, not merely to Mosaic works.
 
 
 Ignores Romans 2:6-10 or treats it as a hypothetical.
@@ -96,12 +92,7 @@ The argument states that the first part of the verse--"whatever the law says it 
 
 Paul's aim is to strip away covenantal privilege. 
 
-Let's take this in context. Backing up to verse 9, Paul writes:
-
-> #### ✝️ Romans 3:9 (RSV‑2CE)
-What then? Are we Jews any better off? No, not at all; for I have already charged that all men, both Jews and Greeks, are under the power of sin...
-
-In Romans 1, Paul outlined a long list of grievances targeted at the Gentiles:
+Let's take this in context. Back in Romans 1, Paul outlined a long list of grievances targeted at the Gentiles:
 
 Verse       | Old Testament Quote                                                                     | Addressed to Whom
 ----------- | --------------------------------------------------------------------------------------- | -----------------
@@ -118,7 +109,12 @@ Romans 1:29 | they were "filled with all manner of wickedness, evil, covetousnes
 Romans 1:29 | they were "full of envy, murder, strife, deceit, ... slanderers, haters of God"         | Gentiles
 Romans 1:30 | they were "inventors of evil, ... foolish, faithless, heartless, ruthless"              | Gentiles
 
-Immediate after rhetorically asking "Are we Jews any better off? No, not at all", he provides a long list of grievances against the Jews:
+In Romans 2-3, he invites the Jews to the party.  He say:
+
+> #### ✝️ Romans 3:9 (RSV‑2CE)
+> Are we Jews any better off? No, not at all; for I have already charged that all men, both Jews and Greeks, are under the power of sin...
+
+He then proceeds to bring charges against the Jews:
 
 Verse       | Old Testament Quote                                                                     | Addressed to Whom
 ----------- | --------------------------------------------------------------------------------------- | -----------------
@@ -132,14 +128,16 @@ Romans 3:16 | in their paths are ruin and misery"                               
 Romans 3:17 | and the way of peace they do not know”                                                  | Israelites / Jews
 Romans 3:18 | “There is no fear of God before their eyes”                                             | Israelites / Jews
 
-Importantly, **not one of these quotes is address to mankind in general**. They are all--**every one of them**--explicit indictments against the Israelites / Jews. The first part of the next verse then reads:
+Note, this is not Paul speaking. He is, in face, listing **quotes from the Old Testament**. They are all--**every one of them**--explicit indictments against the Israelites / Jews.   
+
+He follows this by saying:
 
 > #### ✝️ Romans 3:19 (RSV‑2CE, Part 1 of 2)
 > Now we know that whatever the LAW says it speaks to those who are under the LAW...
 
-Every indictment is an explicit condemnation leveled by the Torah against ("whatever the LAW says...") against the Israelites / Jews ("...it speaks to those who are under the LAW")
+Every indictment is an explicit condemnation leveled by the Torah ("whatever the LAW says...") against the Israelites / Jews ("...it speaks to those who are under the LAW")
 
-That's **not** universal. That is **specific** to Jews.  
+That is **not** universal. That is **specific** to Jews.  
 
 Now, let's move on to the second part of the verse:
 
@@ -148,15 +146,17 @@ Now, let's move on to the second part of the verse:
 
 This **is** universal--just like Protestants say it is. But Paul has already established that the Gentiles are sinners. Here he simply does likewise for the Jews using the very source of authority from which they believed they received their covenantal privilege.   
 
-The universalism of the second part of the verse is product of the fact that the Gentiles were previously condemned and now the Jews are too. As Paul notes, **all** are sinner and "held accountable to God".
-
-Protestant theologians invariably will quote Romans 3:19 without any context. But when you divorce this verse from its context, you divorce it from its meaning. Paul is not universalizing the LAW in this context. He is showing how the LAW (Torah)--speaking to those "under the LAW [Torah]--condemns even the Jews and makes all people, Gentiles and Jews alike, "accountable to God".  
-
-His logical argument is:
+The universalism of the second part of the verse is product of the fact that the Gentiles were previously condemned and now the Jews are too. As Paul notes, **all** are sinner and "held accountable to God". His logical argument is:
 
 1. The Gentiles are condemned.
 2. Jews are likewise condemned. (Paul: "If you don't believe me, just ask the Torah!")
 3. All are condemned and "held accountable to God".
+
+Protestant theologians invariably will quote Romans 3:19 without any context. But as I have stated before, when you divorce a verse from its context, you divorce it from its meaning. That is exactly what has happened here.
+
+The universalism of point 3 is ascribed to "works of LAW". But Paul never makes that argument.  
+
+ Paul is not universalizing the LAW in this context. He is showing how the LAW (Torah)--speaking to those "under the LAW [Torah]--condemns even the Jews and makes all people, Gentiles and Jews alike, "accountable to God".  
 
 
 
@@ -168,82 +168,6 @@ His logical argument is:
 
 This the very next verse after Romans 3:19.  
 
-The commands 
-
-He is talking about experiential or intimate knowledge of sin. Think Mary telling the archangel Gabriel "I have no knowledge of man." Clearly Mary knew what a man was. She is telling Gabriel she has no experiential or intimate (carnal) knowledge of man.  
-
-The LAW added gravity to sin as an offense against the one true God.
-
-
-"Think yourself morally superior the 'godless' and 'wicked' Gentiles? Well, here is what the Torah says about **you**." 
-
-
-
-Of the Gentiles and their wicked behavior he says "We know that the judgment of God rightly falls upon those who do such things" (Romans 2:2)
-
-
-If Gentiles are condemned because they have violated the law of God written on their hearts...
-...and Jews are condemned because they have violated the Mosaic Law of the Torah...
-
-then there is a universal judgement in scope such that "every mouth may be stopped, and the whole world may be held accountable to God" (Romans 3:9).
-
-
-Paul is trying to divorce Jews from the errant assumptions of covenantal privilege.
-
-
-
-Paul has already demonstrated that the Gentiles don't have an inherent path to achieving right-standing with God.  
-
-
-
-
-
- in a patristic sense, as evidenced by the extra-biblical 
-
-
-Protestants do not deny that “works of the law” includes Mosaic works. They simply argue it cannot only mean Mosaic works.
-Protestants see Romans 1–4 as a universal anthropology, not a covenantal argument.
-
-
-
-**Protestant Claim**:
-
-1. Paul’s purpose is to show that all humanity--to include Jews and Gentiles alike--is under the power of sin (Romans 3:9)
-2. Therefore, when Paul speaks of "law" in Romans 1-3, he must be speaking of something that applies to **all** people, not only Jews.
-3. In some instances in Romans 1-3, Paul clearly does not mean Torah or Mosaic Law when he uses the word "law" (Greek *nomos*). This can be clearly seen in Romans 2:14-15. His usage in these verses proves that Paul has a bigger concept than just the Mosaic Law in view.
-4. Further, Paul speaks out against "boasting" (Romans 3:27)--one verse before he says that we are justified "by faith apart from works of law" (Romans 3:28). But boasting isn't exclusively a **Jewish** problem--it is a **humanity** problem. If Paul only excluded Jewish ceremonial works, Gentiles could still boast in their moral achievements. But Paul says all boasting is excluded (Romans 3:27). Therefore, the “works” excluded must be all works, including moral works.
-
-
-
-Paul’s purpose is to show that all humanity--to include Jews and Gentiles alike--is under the power of sin (Romans 3:9). Therefore, when Paul speaks of "law" in Romans 1-3, he must be speaking of something that applies to **all** people, not only Jews. 
-
-In some instances in Romans 1-3, Paul clearly does not mean Torah or Mosaic Law when he uses the word "law" (Greek *nomos*). This can be clearly seen in Romans 2:14-15. His usage in these verses proves that Paul has a bigger concept than just the Mosaic Law in view. 
-
-Further, Paul speaks out against "boasting" (Romans 3:27)--one verse before he says that we are justified "by faith apart from works of law" (Romans 3:28). But boasting isn't exclusively a **Jewish** problem--it is a **humanity** problem. If Paul only excluded Jewish ceremonial works, Gentiles could still boast in their moral achievements. But Paul says all boasting is excluded (Romans 3:27). Therefore, the “works” excluded must be all works, including moral works.
-
-
-
-**Catholic Answer**:
-
-Yes! Paul is, in fact, saying that all humanity in dripping in sin. No argument whatsoever on this point. But does that mean that when Paul uses the term "law" in Romans 1-3, he means the "moral law"?   
-
-
-**Protestant Claim**:
-
-This can be seen clearly in passages like Romans 2:3
-
-They show that what the law requires is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or perhaps excuse them
-
-
-
-
-
-I will write as if I am trying my best to defend this belief system from a Protestant perspective.  
-
-
-## Sometimes Paul Means "Moral Law"
-
-Protestants will claim that there are times in Romans 1-3 where Paul speaks of the "law" but means "moral law".  For instance, Paul says 
 
 
 
