@@ -24,38 +24,58 @@ How do they arrive at this conclusion? There are eight points:
 
 **The Protestant Point**:
 
-I am going to pair the first two Protestant points because they are intimately related:
-
 > 1. Paul’s purpose is to show that all people--Jews and Gentiles alike--are under the power of sin (Romans 3:9). Therefore, when Paul speaks of "law" (Greek *nomos*) in Romans 1-3, he must be speaking of something that applies to **all** people--not only Jews. To wit, if the Gentiles are condemned--as Paul says they are--then the “law” that condemns must be broader than Mosaic Law, applying ot all people.
-> 2. In some instances in Romans 1-3, Paul's clearly does not mean Torah or Mosaic Law when he uses the word "law". Paul says what when the Gentiles do right, "they are a law unto themselves" (Romans 2:14) and that the law is "written on their hearts" (Romans 2:15). These verses speak of Gentile actions in the context of "law". This cannot be a reference to the Mosaic Law which only the Jews had. It must be a reference to the moral law.
 
 **The Catholic Counter**:
 
 I have spent a good portion of this book addressing Paul's usage and meaning of the word "works" in Romans 1-3, particularly when he speaks of "works of law". The analysis shows that Paul's meaning is not the Protestant understanding--pointedly that "works of law" does not refer **good works**, **works of righteousness**, the **moral law**, or **any type of human effort**.  Rather, when Paul references "works of law", he means **works of the Mosaic Law** or **works of the Torah**.  
 
-This is very clearly demonstrated by the BYOD test:
+This is very clearly demonstrated by the Romans 3:28-29 **Bring Your Own Definition** (**BYOD**) test:
 
 > #### Romans “Works of Law” BYOD Test (Fill‑in‑the‑Blank)  
 > If man is justified by __________, then God is only the God of the Jews.
+
+This test was introduced in [Chapter 9: The God‑of‑the‑Jews‑Only Argument](../chapters/c009-god-of-the-jews-only-argument.md). It is the logical reduction of the disjunctive union of verses 28 and 29 where Paul's logic demands that, if man were justified by "works of law", then God would only be "the God of the Jews".  In the test, you simply insert your definition of "works of law" into the blank.  
 
 Whatever you think Paul means by "works of law", **it must fit intelligibly into this fill-in-the-blank test**. If it does not, it is not biblical. Period. There is no way around this. If you claim to be a bible-believing Christian, this your litmus test for that claim. 
 
 Insert any of the Protestant definitions and you reduce Paul's dogmatic claim to incoherence. Insert the Catholic definition and Paul's dogmatic statement becomes an irrefutable truth claim.
 
-This makes the two Protestant points about non-starters. **The statements must be false**.  
+This makes the two Protestant points above non-starters. **The statements *must* be false**.  
 
-Regarding point 1, yes, Paul very much aims to show that all peoples--Jews and Gentiles--are under sin. And he does this by demonstrating that both Gentiles and Jews are guilty of sin for respectively transgressing the independent systems of law that governs their conduct.
+Regarding point 1, yes, Paul very much aims to show that all peoples--Jews and Gentiles--are under sin. And he does this by demonstrating that both Gentiles and Jews are guilty of sin for **respectively transgressing the independent systems of law that governs their conduct**.
 
-- Gentiles are guilty for transgressing the moral law that God has "written on their hearts" (Romans 2:15).
-- Jews are also guilty of transgressing the Mosaic Law (Romans 2:17) or formally "written code" (Romans 2:27).
+- Gentiles are guilty for transgressing **the moral law that God has "written on their hearts"** (Romans 2:15).
+- Jews are also guilty of transgressing **the Mosaic Law** (Romans 2:17) or formally **"written code"** (Romans 2:27).
 
-Mainline Protestantism equivocates the two systems of law collapsing them into one system that they properly define as "any human effort". But Paul does not himself do this. He speaks of the "Gentiles who have not the law" (Romans 2:14) and contrasts them with Jews "who have the written code" (Roman 2:27). 
+Mainline Protestantism equivocates the two systems of law collapsing them into one system that they properly define as "any human effort". But this is a Protestant invention. Paul never does this in Romans. In fact, he explicitly speaks of the **"Gentiles who have not the law"** (Romans 2:14) and contrasts them with **Jews "who have the written code"** (Roman 2:27). 
 
-Even if a natural man intrinsically knows that stealing is wrong--because God has written such knowledge on his heart--that is not the same thing as God giving the commandment "Thou shalt not steal" to the Israelites. A general knowledge of right and wrong is not the same thing as a divine ultimatum that attaches gravity and consequence to commandment. 
+Even if a natural man intrinsically knows that stealing is wrong--because God has written such knowledge on his heart--that is not the same thing as God giving the commandment "Thou shalt not steal" that God formally gave to the Israelites. A general knowledge of right and wrong is not the same thing as a divine ultimatum given personally by God that attaches gravity and consequence to the commandment.
 
-This is a really practical point. Virtually all systems of governance will have laws against stealing. But even if two systems of governance have the same law, **it does not mean we can equivocate those systems**. Steal something in the United States and you might get a slap on the wrist. The same act in a Islamic country might result and you might get your hand cut off. Same moral wrongdoing; two very different outcomes as defined by two very difference systems of law.   
+> #### ✝️ Romans 5:20 (RSV‑2CE)
+> **LAW** came in to increase the trespass...
 
-Regarding point 2, yes, it is true that "In some instances in Romans 1-3, Paul's clearly does not mean Torah or Mosaic Law when he uses the word 'law'". But predominately, when Paul uses the word "law" he means **works of the Mosaic Law** or **works of the Torah**. In the rare instances when he means "law" in some other sense, he clearly signals the change in meaning. For example:
+Through the law written on peoples' hearts, everyone knows that stealing is wrong. But the **LAW** (a.k.a. the **Torah**) defines the commandment as an offense against God and assigns consequence to it.  
+
+That is why Paul later states, "If it had not been for the **LAW**, I should not have known sin", adding, "I should not have known what it is to covet if the **LAW** had not said, 'You shall not covet.'" (Romans 7:7). A Protestant might read this biblical soundbite and conclude that the "law" must be the moral law because all men have knowledge of sin. 
+
+But that is not at all what the Paul means. In the previous verse he states, "we are discharged from the **LAW**, dead to that which held us captive, so that we serve not under **the old written code**" (Romans 7:6). The moral law does not qualify as "the old written code". That is a clear reference to the **Torah**. And it was the **Torah** that defined the true consequences of breaking God's commandments.
+
+So again, what we are presented with in Romans are two related, but differentiated, systems of law--the moral law and the Mosaic Law--that respectively convict Gentiles and Jews of sin. Paul's point is--as Protestants rightly point out--that **all** are sinners in need of God's grace. But we dare not conflate the two systems of law lest we break Paul's logic.
+
+As a Catholic reading Romans, it is shocking to me that Protestantism so nonchalantly try to merge the two systems of law just because they share moral precepts. How does that even make sense? Consider that virtually all systems of governance will have laws against stealing. You'll find such laws codified in Christian, Jewish, Muslim, and atheist countries the world over. But even if two countries have systems of law that condemn stealing, **we cannot equivocate those systems**. Steal something in the United States and you might get a slap on the wrist. Steal something in an Islamic country practicing sharia law and you very well could get your hand cut off at the wrist. We are talking about the same moral wrongdoing. But there are two very different outcomes as defined by two very difference systems of law.
+
+The point is: **Just because Paul says that Gentiles are guilty of the moral law and Jews are guilty of the "written code" in the Mosaic Law, you cannot conflate the moral law and the Mosaic Law.** If you believe that is what Paul is doing, then you must show where Paul equates the two.   
+
+**The Protestant Point**:
+
+> 2. In some instances in Romans 1-3, Paul's clearly does not mean Torah or Mosaic Law when he uses the word "law". Paul says what when the Gentiles do right, "they are a law unto themselves" (Romans 2:14) and that the law is "written on their hearts" (Romans 2:15). These verses speak of Gentile actions in the context of "law". This cannot be a reference to the Mosaic Law which only the Jews had. It must be a reference to the moral law.
+
+**The Catholic Counter**:
+
+I feel I hardly need to respond with an answer to this point as I have already dealt with it tangentially in the previous section. But I will say a few words.
+
+Yes, it is true that "In some instances in Romans 1-3, Paul's clearly does not mean Torah or Mosaic Law when he uses the word 'law'". But predominately, when Paul uses the word "law" he means **works of the Mosaic Law** or **works of the Torah**. In the rare instances when he means "law" in some other sense, he clearly signals the change in meaning. For example:
 
 > #### ✝️ Romans 2:14-15 (RSV‑2CE)
 > When Gentiles who have not the LAW do by nature what the LAW requires, they are a law to themselves, even though they do not have the LAW. They show that what the LAW requires is written on their hearts...
@@ -68,8 +88,6 @@ But it should be clear in context why Paul uses "law" to mean something other th
 
 In other words, the one-time meaning of "law" in Romans 2:14 is not some interpretive key that allows Protestants to effectively universalize Paul's usage to "law" in Romans 1-3 to mean **good works**, **works of righteousness**, the **moral law**, or **any type of human effort**.
 
-Again, I will forcibly make the point--because I must--those Protestant definitions break Paul's logic in Romans 3:28-29 as demonstrated in the **Romans “Works of Law” BYOD Test**.
-
 ---
 
 ### The Protestant Point
@@ -78,19 +96,21 @@ Again, I will forcibly make the point--because I must--those Protestant definiti
 
 ### The Catholic Counter
 
-I really think it is the best argument of the bunch. I'm not saying it is a good argument. It is still fatally flawed. But it is the best of the bad.
+I really think it is the best argument of the bunch. I'm not saying it is a *good* argument. It is still fatally flawed. But unlike the points that we have already covered, and the ones we have yet to cover, this one at least has the air of credibility to it.  
 
 The argument states that the first part of the verse--"whatever the law says it speaks to those who are under the law"--cannot reference Jews only because of the universality of the second part of the verse--"so that **every** mouth may be stopped, and the **whole** world may be held accountable to God". Certainly this provided universal scope to whatever Paul is calling "law", right? 
 
-No, that is not at all the case. Yes, words like "every" and "whole" are universal in scope, but that universality does not extend to the "law".  Let me explain...
+No, that is not at all the case. Yes, words like "every" and "whole" are **universal** in scope, but that universality does not extend to the "law".  Let me explain...
 
-Paul's aim is to strip away covenantal privilege. He does that by first showing that Gentiles are condemned, then showing that Jews are likewise condemned by the LAW (a.k.a. **Torah**). It is only *after* making the case that Jews are condemned by the Torah that he is able to universally say that all are condemned such that "**every** mouth may be stopped, and the **whole** world may be held accountable to God". 
+Paul's aim is to strip away covenantal privilege. He does that first in his epistle by showing that Gentiles are condemned by the moral law that God has written on their hearts. He then proceeds to show that Jews are likewise condemned by the **LAW** (a.k.a. **Torah**). 
 
-Let's track Paul's argument in Romans 1-3. Back in Romans 1, Paul outlined a long list of grievances targeted at the Gentiles:
+It is only *after* making the case that Jews are condemned by the Torah that he is able to universally say that all are condemned such that "**every** mouth may be stopped, and the **whole** world may be held accountable to God". 
 
-Verse       | Old Testament Quote                                                                     | Addressed to Whom
+Let's track Paul's argument. Back in Romans 1, Paul outlined a long list of grievances **targeted at the Gentiles**:
+
+Verse       | Paul's Grievances                                                                       | Addressed to Whom
 ----------- | --------------------------------------------------------------------------------------- | -----------------
-Romans 1:18 | identified by "ungodliness and wickedness"; they "suppress the truth"                   | Gentiles
+Romans 1:18 | they are identified by "ungodliness and wickedness"; they "suppress the truth"          | Gentiles
 Romans 1:20 | "they are without excuse"                                                               | Gentiles
 Romans 1:21 | "although they knew God they did not honor him"                                         | Gentiles
 Romans 1:21 | "they became futile in their thinking and their senseless minds were darkened"          | Gentiles
@@ -103,12 +123,12 @@ Romans 1:29 | they were "filled with all manner of wickedness, evil, covetousnes
 Romans 1:29 | they were "full of envy, murder, strife, deceit, ... slanderers, haters of God"         | Gentiles
 Romans 1:30 | they were "inventors of evil, ... foolish, faithless, heartless, ruthless"              | Gentiles
 
-In Romans 2-3, he invites the Jews to the party.  He says:
+Okay Paul, we get it. The Gentiles are condemned as sinners. But the Jews are sitting pretty right? No. Paul writes: 
 
 > #### ✝️ Romans 3:9 (RSV‑2CE)
 > Are we Jews any better off? No, not at all; for I have already charged that all men, both Jews and Greeks, are under the power of sin...
 
-He then proceeds to bring charges against the Jews:
+He then proceeds to bring formal charges against the Jews:
 
 Verse       | Old Testament Quote                                                                     | Addressed to Whom
 ----------- | --------------------------------------------------------------------------------------- | -----------------
@@ -122,36 +142,29 @@ Romans 3:16 | in their paths are ruin and misery"                               
 Romans 3:17 | and the way of peace they do not know”                                                  | Israelites / Jews
 Romans 3:18 | “There is no fear of God before their eyes”                                             | Israelites / Jews
 
-Note, this is not Paul speaking. He is, in fact, listing **quotes from the Old Testament**. They are all--**every one of them**--explicit indictments against the Israelites / Jews.   
+And here's the important thing you need to know about all these charges: this is not Paul speaking--**this is God Himself speaking**. All of these charges are actually citations from the Hebrew Bible (a.k.a. the Christian Old Testament). **And every one of them is God condemning the Israelites / Jews**.  
 
-He follows this by saying:
+What is that fact important? It becomes clear in the very next verse when Paul says:
 
 > #### ✝️ Romans 3:19 (RSV‑2CE, Part 1 of 2)
-> Now we know that whatever the LAW says it speaks to those who are under the LAW...
+> Now we know that whatever the **LAW** says it speaks to those who are under the **LAW**...
 
-Every indictment is an explicit condemnation leveled by the Torah ("whatever the LAW says...") against the Israelites / Jews ("...it speaks to those who are under the LAW")
-
-That is **not** universal. That is **specific** to Jews.  
+Every indictment is an explicit condemnation leveled by the Torah ("whatever the **LAW** says...") against the Israelites / Jews ("...it speaks to those who are under the **LAW**") That is **not** universal. That is **specific** to Jews.  
 
 Now, let's move on to the second part of the verse:
 
 > #### ✝️ Romans 3:19 (RSV‑2CE, Part 2 of 2)
 > ...so that every mouth may be stopped, and the whole world may be held accountable to God.
 
-This **is** universal--just like Protestants say it is. But Paul has already established that the Gentiles are sinners. Here he simply does likewise for the Jews using the very source of authority from which they believed they received their covenantal privilege.   
+This **is** universal--just like Protestants say it is. But Paul has already established that the Gentiles are sinners. **Here he simply does likewise for the Jews using the very source of authority from which they believed they received their covenantal privilege**.   
 
 The universalism of the second part of the verse is product of the fact that the Gentiles were previously condemned and now the Jews are too. As Paul notes, **all** are sinners and "held accountable to God". His logical argument is:
 
-1. The Gentiles are condemned.
-2. Jews are likewise condemned. (Paul: "If you don't believe me, just ask the Torah!")
-3. All are condemned and "held accountable to God".
+1. The Gentiles are condemned for breaking the moral law.
+2. Jews are likewise condemned for breaking the Mosaic Law (Paul: "If you don't believe me, just ask the Torah!")
+3. All are condemned as law breakers and summarily "held accountable to God".
 
-Protestant theologians invariably will quote Romans 3:19 without any context. But as I have stated before, when you divorce a verse from its context, you divorce it from its meaning. That is exactly what has happened here.
-
-The universalism of point 3 is ascribed to "works of LAW". **But Paul never makes that argument**.  
-
-Paul is not universalizing the LAW in this context. He is showing how the LAW (Torah)--speaking to those "under the LAW [Torah]--condemns even the Jews and makes all people, Gentiles and Jews alike, "accountable to God".  
-
+What I find most common is that Protestant theologians will invariably quote Romans 3:19--"we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God"--without any context. That's the error that dooms the interpretation. As I have often stated (and will continue to do so), when you divorce a verse from its context, you divorce it from its meaning.
 
 
 ### The Protestant Point
