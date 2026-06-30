@@ -85,8 +85,6 @@ Steal something in the United States and you might get a slap on the wrist. Stea
 
 The point is: **Just because Paul says that Gentiles are guilty of the moral law and Jews are guilty of the "written code" in the Mosaic Law, you cannot conflate the moral law and the Mosaic Law.** 
 
-If you wish to say that Paul is collapsing the moral law and the Mosaic Law into one...  
-
 ---
 
 ### Protestant Point 2
