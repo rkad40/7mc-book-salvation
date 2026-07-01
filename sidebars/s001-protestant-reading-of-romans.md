@@ -98,7 +98,9 @@ As a Jew, you might be able to say you haven't stolen. But Paul is pointing out 
 > #### ✝️ Romans 2:3 (RSV‑2CE)
 > Do you suppose, O man, that when you judge those who do such things and yet do them yourself, you will escape the judgment of God?
 
-Does that really sound like Paul is trying to collapsed two systems of law into one? Guilt and sinfulness is universal. But the systems of law that establish that guilt and sinfulness are not. Just because you can find some of the same moral precepts in both the moral law and the Mosaic Law does not mean you can conflate those two systems of law. 
+Does that really sound like Paul is trying to collapsed two systems of law into one? 
+
+Guilt and sinfulness is indeed universal. But the systems of law that establish that guilt and sinfulness are not. Just because you can find some of the same moral precepts in both the moral law and the Mosaic Law does not mean you can conflate those two systems of law. 
 
 Let's take Paul's own example. Every country in the world has laws against stealing. But just because two countries have the same law, it does not follow that two countries have the same system of law. 
 
@@ -119,10 +121,7 @@ Everyone intrinsically knows that stealing is wrong. But the **LAW** (a.k.a. the
 
 So again, Protestants who say that point of Romans 1-3 is to show that all are sinners are absolutely correct. The point is not even up for debate. The universality of sin is a biblical truth affirmed by both Protestants and Catholics. 
 
-But this universality does not give any of us license to collapse the moral law and Mosaic Law into some type of monolithic system of law. 
-
-
-Paul does not do this. Neither, then, should we.
+But this universality does not give any of us license to conflate the moral law and Mosaic Law into some type of monolithic system of law. If you believe that Paul does this, then where? You would need to provide chapter and verse that shows Paul equating the moral law and the Mosaic Law. But Paul never does this. And neither, then, should we.
 
 
 ---
