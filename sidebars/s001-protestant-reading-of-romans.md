@@ -270,7 +270,7 @@ The universality of the second half of the verse is **built upon** the specific 
 
 Read Romans 3:19 with the Jew–Gentile conflict in view, and Paul’s point becomes unmistakable. He is not collapsing the **moral law** and **Mosaic Law** into a universal, covenant‑agnostic system. He is using the **Mosaic Law** specifically to show that Jews, like Gentiles, are condemned.
 
-The universality of condemnation arises not from a universal law, but from **two groups violating two different laws**—each with God as its author.
+The universality of condemnation arises not from a universal law, but from **two groups violating two different systems of law**—each with God as its author.
 
 
 ---
