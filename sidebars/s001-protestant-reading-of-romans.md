@@ -70,6 +70,8 @@ I am going to geive
 
 ### Protestant Point 1
 
+First up, the Protestant point that "law" in Romans 1-3 must be universal in scope, applying to Gentiles and Jews alike:
+
 > 1. Paul’s purpose in Romans 1-3 is to show that all people--Jews and Gentiles alike--are under the power of sin (Romans 3:9). Therefore, when Paul speaks of "law" (Greek *nomos*), he must be speaking of something that applies to **all** people--not only Jews. To wit, if the Gentiles are condemned--as Paul says they are--then the “law” that condemns must be broader than Mosaic Law, applying to all people.
 
 ---
@@ -141,6 +143,8 @@ Paul does not argue that Jews and Gentiles are judged by one universal law. He a
 
 ### Protestant Point 2
 
+Next up, we have another Protestant proof that Paul's usage of "law" must be universal in scope: 
+
 > 2. In some instances in Romans 1–3, Paul clearly does not mean Torah or Mosaic Law when he uses the word “law.” Paul says that when Gentiles do what is right, “they are a law unto themselves” (Romans 2:14) and that the law is “written on their hearts” (Romans 2:15). These verses speak of Gentile actions in the context of “law.” This cannot be a reference to the Mosaic Law, which only the Jews possessed. It must be a reference to the moral law.
 
 ---
@@ -192,13 +196,13 @@ In short: **Universal guilt does not imply a universal law.** It implies univers
 
 ### Protestant Point 3
 
+Of the eight Protestant points listed, this, I believe is the strongest. It is still flawed, but unlike the previous arguments, it has a superficial air of credibility. Once again, the goal is to show that when Paul writes "law" we should think of something universal in scope:
+
 > 3. Romans 3:19 says that "we know that whatever the law says it speaks to those who are under the law, so that **every** mouth may be stopped, and the **whole** world may be held accountable to God". If the law binds "every mouth" and the "whole world", then it must be universal in scope.  
 
 ---
 
 ### Catholic Counter to Point 3
-
-Of the eight Protestant points listed, this is the strongest. It is still flawed, but unlike the previous arguments, it has a superficial air of credibility.
 
 The Protestant claim is that the first half of Romans 3:19 (“whatever the law says it speaks to those who are under the law”) cannot refer only to Jews because the second half of the verse speaks universally (“every mouth… the whole world”). Therefore, the “law” must be universal.
 
@@ -273,12 +277,203 @@ The universality of condemnation arises not from a universal law, but from **two
 
 ### Protestant Point 4
 
-> 4. Romans 3:20 states that "no human being will be justified in his sight by works of the law, since through the law comes knowledge of sin”. Since all people possess knowledge of sin, the “law” in view cannot be limited to the Mosaic Law but must include a universally binding moral standard.
+Point 4 is yet another Protestant attempt to universalize Paul's usage of "law":
+
+> 4. Romans 3:20 states that “no human being will be justified in his sight by works of the law, since through the law comes knowledge of sin.” Since all people possess knowledge of sin, the “law” in view cannot be limited to the Mosaic Law but must include a universally binding moral standard.
+
+---
 
 ### Catholic Counter to Point 4
 
+Let’s begin with the verse in question:
+
+> #### ✝️ Romans 3:20 
+> For no human being will be justified in his sight by works of the *law*, since through the *law* comes knowledge of sin.
+
+The Protestant argument claims that “law” cannot refer to the **Mosaic Law** because Paul says it brings “knowledge of sin,” and all people know what sin is. Therefore, the “law” must be universal.
+
+This sounds plausible only if Romans 3:20 is read in isolation. But when we embed the verse in its immediate context, Paul’s meaning becomes clear.
+
+Consider the verse immediately preceding it:
+
+> #### ✝️ Romans 3:19 (RSV‑2CE)  
+> Now we know that whatever the **LAW** says it speaks to those who are under the **LAW**…
+
+And the verse immediately following it:
+
+> #### ✝️ Romans 3:21
+> But now the righteousness of God has been manifested apart from **LAW**, although the **LAW** and the prophets bear witness to it…
+
+As discussed earlier, the biblical formula “the Law and the Prophets” refers to the **Torah** and the **Prophets**, the two major sections of the Hebrew Scriptures. Both testify that God’s righteousness has been revealed apart from the **Torah**.
+
+Now observe the contextual flow:
+
+Verse       | Text
+----------- | --------------------
+Romans 3:19 | “whatever the **LAW** says it speaks to those under the **LAW**”
+Romans 3:20 | “no human being will be justified by works of the *law*… through the *law* comes knowledge of sin”
+Romans 3:21 | “the righteousness of God… apart from **LAW**, although the **LAW** and the prophets bear witness to it”
+
+In Romans 3:19 and 3:21, *nomos* clearly means **Torah**. Paul gives no signal that he is changing definitions in verse 20. Therefore, the most natural reading is that *nomos* in verse 20 also refers to the **Torah**.
+
+But how can that be? In verse 20, Paul says that the "law" gives "knowledge of sin". And doesn't everyone *know* what sin is? 
+
+Yes, everyone has *intellectual* knowledge of sin. But that is not what Paul is talking about in verse 20. 
+
+In the Greek New Testament, there are at least three Greek words that we translate as "to know" or "knowledge". Think of it as levels of knowledge:
+
+1. *oida* — cognitive, informational knowledge  
+   - Jesus: “Your Father **knows** what you need before you ask him.” (Matt 6:8)  
+   - Jesus: “No one **knows** the day or the hour.” (Matt 24:36)  
+   - The healed man: “One thing I **know**: I was blind, now I see.” (John 9:25)  
+
+2. *ginōskō* — experiential, relational knowledge  
+   - Mary: “I do not **know** man.” (Luke 1:34)  
+   - Jesus: “I never **knew** you.” (Matt 7:23)  
+   - Jesus: “I **know** my own and my own **know** me.” (John 10:14)  
+   - Paul: “Now that you have come to **know** God, or rather to be **known** by God…” (Gal 4:9)  
+   - John: “He who does not love does not **know** God.” (1 John 4:8)  
+
+3. *epignōsis* — intensified, full, experiential knowledge  
+   - Paul: “…they did not see fit to retain God in their knowledge.” (Rom 1:28)
+   - Paul: “…they have a zeal for God, but not according to **knowledge**.” (Rom 10:2)  
+   - Paul: “…the Spirit of wisdom and revelation in the **knowledge** of Him.” (Eph 1:17)  
+   - Paul: “…filled with the **knowledge** of His will…” (Col 1:9)  
+
+When Paul speaks of “knowledge of sin,” he uses *epignōsis*--the fullest form of knowledge. He is referring to **intensified, full, experiential knowledge** of sin as covenantal rebellion against God--the type of knowledge that can only be revealed by the Word of God, meaning the **Torah**
+
+Gentiles know moral right and wrong (Rom 2:14–15). But the **Torah** gives Jews a deeper, covenantal knowledge of sin—its gravity, its consequences, and its offense against the living God. As Paul says later in Romans 5:20, the "**LAW** came in to increase the trespass".
+
+Thus, when Paul says that “through the law comes knowledge of sin,” he is not universalizing the law. He is describing the Torah’s unique covenantal function.
 
 
+
+---
+
+### Protestant Point 5
+
+Next up is what I believe may be the most abused verse in all of Romans:
+
+5. Paul speaks out against "boasting" (Romans 3:27)--just one verse before he says that we are justified "by faith apart from works of law" (Romans 3:28). But boasting isn't exclusively a **Jewish** problem--it is a **humanity** problem. If Paul only excluded Jewish ceremonial works, Gentiles could still boast in their moral achievements. But Paul says all boasting is excluded. Therefore, the “works” excluded must be all works, including moral works.
+
+---
+
+### Catholic Counter to Point 5
+
+From a Protestant (especially Reformed/Evangelical) perspective, “boasting” in Romans 3 refers to **any human confidence in one’s own righteousness, moral performance, religious achievement, or covenantal status before God**.
+
+One verse before Paul says that we are “justified by faith apart from works of law” (Romans 3:28), he writes:
+
+> #### ✝️ Romans 3:27 (RSV‑2CE)  
+> Then what becomes of our boasting? It is excluded.
+
+Protestants argue that Paul is associating “boasting” (v. 27) with “works of law” (v. 28), and since boasting is a universal human problem, “works of law” must likewise be universal in scope. Thus, “boasting” includes:
+
+- confidence in one’s moral superiority
+- reliance on one’s own obedience
+- pride in religious performance
+
+And all of these, they say, are excluded from justification.
+
+What do we, as Catholics, say to this?
+
+Protestants are not entirely wrong — but they are not entirely right either. They correctly affirm that initial justification is not brought about by moral performance, obedience, or religious rites. It is, as Paul asserts, **by faith**. No one can earn or merit salvation by human effort. Consequently, confidence or pride in one’s works is excluded.
+
+Have I just conceded the point — admitted that “works of law” is an open door to any and all human effort? This after arguing extensively that “works of law” refers specifically to Jewish works of the Mosaic Law?
+
+No. Not at all.
+
+As I have repeatedly stated, the problem is not the Protestant rejection of works‑salvation. Catholics agree that works‑salvation is a heresy. The problem is that **works‑salvation is not the heresy Paul is addressing in Romans**. Paul is arguing — most elegantly I might add — against the **Judaizer heresy**.
+
+Romans is a laser‑focused polemic against the claim that only Jews could be saved because only Jews possessed the Mosaic Law and the covenantal privileges that came with it.
+
+If you try to map a Pelagian or works‑salvation framework onto Paul’s anti‑Judaizer argument, everything goes sideways. And this happens with alarming frequency in Protestant interpretation.
+
+---
+
+#### Tailoring the Argument: A Thought Experiment
+
+Imagine you are doing Christian apologetics. A friend asks you to speak with someone considering Christianity. What is the first question you ask?
+
+**“What is the person’s religious background?”**
+
+It matters because you must tailor your argument:
+
+- If the person is an atheist, appealing to biblical authority is not your first move.  
+- If the person is a Muslim, you don’t need to prove God exists — you address Qur’anic inconsistencies.  
+- If the person is a Mormon, you can use the Bible to probe LDS doctrines.  
+
+Your argument must be laser‑focused on the target audience.
+
+Now imagine you are a first‑century Christian evangelist combating the Judaizer heresy (Acts 15; Galatians). What is your best tactic?
+
+Would you not tailor your argument to the **Jew‑Gentile problem**? Would you not also appeal to the **Torah and the Prophets**, the authorities your Jewish interlocutors accept?
+
+Isn’t that exactly what Paul does in Romans?
+
+Our Protestant friends are right that boasting in one’s achievements is wrong. Catholics agree wholeheartedly. **But that is not the problem Paul is addressing in Romans.**
+
+Paul is addressing the Judaizer heresy. The Pelagian heresy — the belief that one could merit salvation by human effort — would not arise for another five centuries.
+
+There is an old Christian saying that comes to mind:
+
+**The Bible was written *for* us, but it was not written *to* us.**
+
+Paul was not writing about a future heresy. He was writing about a present one.
+
+Had Paul lived to see Pelagianism, I am quite sure his *Second Letter to the Romans*—for Rome, ironically, was the very battleground of the Pelagian error—would have been every bit as rhetorically sharp and devastating as his *First Letter to the Romans* is to the Judaizers.
+
+---
+
+#### Is “Boasting” Universal in Romans?
+
+Protestants say “boasting” is a universal problem. And it is. But Paul is not addressing a universal problem in Romans. He is addressing a **specific** problem.
+
+Look at every instance of illicit boasting in Romans before 3:27:
+
+> #### ✝️ Romans 2:17 (RSV‑2CE)  
+> But if you call yourself a **Jew** and rely upon the **LAW** and *boast* of your relation to God…
+
+**Question**: Is this directed at all people? Or only the Jews? **Answer**: *Only the Jews*.
+
+> #### ✝️ Romans 2:23-24 (RSV‑2CE)  
+> You who *boast* in the **LAW**, do you dishonor God by breaking the law? For, as it is written, “The name of God is blasphemed among the Gentiles because of you.”
+
+**Question**: Is this directed at all people? Or only the Jews? **Answer**: Again, *only the Jews*.
+
+These are the only instances before Romans 3:27. And there are **no** later instances of illicit boasting that are universal in scope.
+
+What does this mean?
+
+When Paul condemns “boasting,” he has a very **specific** kind of boasting in mind. He is not talking about generic moral pride.
+
+Even though boasting of moral achievement would be equally repugnant, that is not Paul’s argument here. If we force Paul to address a problem he is not addressing, we distort his message and risk theological error.
+
+---
+
+#### The Key: What Are the Jews Boasting About?
+
+Look, I know this argument is not going to sit well with many of my Protestant friends. They have been conditioned to see Pauline “boasting” everywhere — like theological Where’s Waldo. So let me try one more tack that proves the point. 
+
+Most Protestants recognize that when Paul addresses the problem of "boasting" his primary referent is the Jews. Romans 2:17 and 2:23 make that pretty clear. 
+
+But they argue that this is just an examples of a much larger, universal problem--that the "boasting" Paul references includes all prideful forms for human achievement and moral accomplishment.
+
+But what specific work in Romans does Paul say that the Jews boast about?  
+
+Paul tells us that they boasted about **circumcision**. 
+
+Why circumcision? Because it is the foundational work of the Mosaic Law — the covenant‑marking rite that gives Jews their identity.
+
+Now consider: Is circumcision a human achievement or moral accomplishment? 
+
+No, not at all. Male Jews were circumcised eight days after birth. How, then, could a Jew, years removed from their circumcision, boast about something that they **did not consent to**, **did not personally do**, and **do not even remember**?  
+
+What we find is that the type of "boasting" that Paul is dismantling has nothing to do with human achievement or moral accomplishment. It is "boasting" about **covenant identity and privilege**. As such, Paul is dismantling **covenantal boasting**, not moral self‑righteousness.
+
+I have said it before, and I will say it again:
+
+**The Judaizer heresy has nothing to do with *performance*; it is, rather, about *entitlement*.**  
 
 
 
