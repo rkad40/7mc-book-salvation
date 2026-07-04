@@ -320,7 +320,7 @@ But how can that be? In verse 20, Paul says that the "law" gives "knowledge of s
 
 Yes, everyone has *intellectual* knowledge of sin. But that is not what Paul is talking about in verse 20. 
 
-In the Greek New Testament, there are at least three Greek words that we translate as "to know" or "knowledge". Think of it as levels of knowledge:
+In the Greek New Testament, there are at least three Greek words that we translate as "to know" or "knowledge". Think of it as *levels* of knowledge:
 
 1. *oida* — cognitive, informational knowledge  
    - Jesus: “Your Father **knows** what you need before you ask him.” (Matt 6:8)  
