@@ -163,8 +163,8 @@ Paul uses the Greek word *nomos* five times in these two verses. And in each ins
 1. the "Gentiles who do not have the **LAW**" = **Mosaic Law** because the Gentiles do not have it
 2. the Gentiles "do by nature what the **LAW** requires" = moral precepts found in the **Mosaic Law**
 3. "they [the Gentiles] are a **law** to themselves" = **moral law** 
-4. "even though they [the Gentiles] do not have the **LAW** = **Mosaic Law**
-5. the Gentiles "show that what the **LAW** requires is written on their hearts = moral precepts found in the **Mosaic Law**
+4. "even though they [the Gentiles] do not have the **LAW**" = **Mosaic Law**
+5. the Gentiles "show that what the **LAW** requires is written on their hearts" = moral precepts found in the **Mosaic Law**
 
 Note that if you read Romans with the perspective that Paul is dismantling the Judaizer position, assigning proper meaning to *nomos* is trivial.  
 
