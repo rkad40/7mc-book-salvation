@@ -20,8 +20,8 @@ The eight Protestant points are as follows:
 3. Romans 3:19 says that "we know that whatever the law says it speaks to those who are under the law, so that **every** mouth may be stopped, and the **whole** world may be held accountable to God". If the law binds "every mouth" and the "whole world", then it must be universal in scope.  
 4. Romans 3:20 states that "no human being will be justified in his sight by works of the law, since through the law comes knowledge of sin”. Since all people possess knowledge of sin, the “law” in view cannot be limited to the Mosaic Law but must include a universally binding moral standard.
 5. Paul speaks out against "boasting" (Romans 3:27)--just one verse before he says that we are justified "by faith apart from works of law" (Romans 3:28). But boasting isn't exclusively a **Jewish** problem--it is a **humanity** problem. If Paul only excluded Jewish ceremonial works, Gentiles could still boast in their moral achievements. But Paul says all boasting is excluded. Therefore, the “works” excluded must be all works, including moral works.
-6. Even if “law” refers to the Mosaic Law in some verses, the Mosaic Law itself contains both ceremonial and moral commandments. Paul associates “law” with moral prohibitions such as adultery and theft (Romans 2:22). He also says that righteousness is revealed “apart from the law” (Romans 3:21). Therefore, justification must be apart from both ceremonial **and** moral works.
-7. In Romans 4:4–5 Paul contrasts “believing” with “working”--not “works of the law”. The one who works seeks wages that are “due,” whereas the one who trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
+6. Even if “law” refers to the Mosaic Law in some verses, the Mosaic Law itself contains both ceremonial and moral commandments. Paul associates “law” with moral prohibitions such as adultery and theft (Romans 2:22). But if justification is by faith "apart from works of law" (Romans 3:28), then justification must be apart from both ceremonial **and** moral works. This wrecks the Catholic claim that "works of the law" only apply to Jews.  
+7. In Romans 4:4–5 Paul contrasts “believing” with “working”--not “works of the law”. Paul asserts that the one who "works" seeks wages that are “due,” whereas the one who "does not work" but trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
 8. The Catholic claim from Romans 4 alleging that Abraham was justified before doing any works of the Mosaic Law is impossible. Since Abraham predates Moses and the Torah, “works” must be broader than Mosaic works.
 
 ---
@@ -78,7 +78,9 @@ First up, the Protestant point that "law" in Romans 1-3 must be universal in sco
 
 ### Catholic Counter to Point 1
 
-It is unquestionably true that Paul aims to show that all people—Jew and Gentile alike—are sinners in need of God’s grace. That point is not in dispute. The real question is **how** Paul demonstrates this universal guilt. Does he appeal to one universal standard of law against which *both* Gentiles and Jews are judged?
+It is unquestionably true that Paul aims to show that all people—Jew and Gentile alike—are sinners in need of God’s grace. That point is not in dispute. 
+
+The real question is **how** Paul demonstrates this universal guilt. Does he appeal to one universal standard of law against which *both* Gentiles and Jews are judged?
 
 The answer is **no**. Paul never appeals to a single, universal law. Instead, he argues that **Gentiles and Jews are guilty because each group transgresses the particular system of law to which it is bound**:
 
@@ -474,6 +476,311 @@ What we find is that the type of "boasting" that Paul is dismantling has nothing
 I have said it before, and I will say it again:
 
 **The Judaizer heresy has nothing to do with *performance*; it is, rather, about *entitlement*.**  
+
+---
+
+### Protestant Point 6
+
+6. Even if “law” refers to the Mosaic Law in some verses, the Mosaic Law itself contains both ceremonial and moral commandments. Paul associates “law” with moral prohibitions such as adultery and theft (Romans 2:22). But if justification is by faith “apart from works of law” (Romans 3:28), then justification must be apart from both ceremonial **and** moral works. This wrecks the Catholic claim that “works of the law” only apply to Jews.
+
+---
+
+### Catholic Counter to Point 6
+
+This Protestant point concedes that Paul often uses “law” to mean the **Mosaic Law**, but then pivots to note that the Mosaic Law includes both ceremonial and moral commandments. That is true. But it does not collapse the Catholic case.
+
+There are two ways Catholics have historically responded to this challenge. And before addressing them, it is worth noting that the scope of “works of law” has been debated by Catholic theologians since antiquity.
+
+In the fourth century, **St. Jerome** and **St. Augustine** took different positions. Jerome held that “works of law” referred only to those Mosaic works that uniquely identified Jews as Jews. Augustine held that “works of law” referred to the entirety of the Mosaic Law — ceremonial, judicial, and moral.
+
+Both views are plausible. Neither refutes the Catholic case as I have outlined it.
+
+---
+
+### View 1: “Works of Law” Refers Only to Jewish Identity Laws
+
+Let’s begin with the view that “works of law” refers specifically to the ceremonial laws of the Mosaic covenant — the laws that marked Jewish identity (circumcision, feast days, dietary restrictions, etc.).
+
+Catholic proponents of this view have long noted that the biblical expression “works of law” can mean:
+
+1. the **Torah**
+2. the entire Hebrew Scriptures (Torah, Prophets, Writings)  
+3. the **Mosaic Law** in its entirety
+4. only the ceremonial laws of the Mosaic Law  
+
+Protestants traditionally accepted the first three definitions but denied the fourth. Their argument has been:  
+> If “works of law” means the Mosaic Law, it must mean the Mosaic Law **without division**.
+
+But in the 1950s, that view was turned on its head. 
+
+The discovery of the **Dead Sea Scrolls** changed everything.
+
+Among the scrolls found in Cave 4 at Qumran was a document designated **4QMMT**, titled **Miqsat Ma‘ase ha‑Torah**, which is properly translated, “**Some Works of the Law**.” It is now one of the most important Second Temple Jewish texts ever discovered. Among other things, it has helped to definitively unlock the meaning of Paul’s phrase *erga nomou* (“works of law”). 
+
+What is noteworthy about the **4QMMT**?
+
+It discusses a variety of "works of the law" such as:
+
+- purity regulations
+- food laws
+- sacrificial rules
+- calendar observance
+- circumcision
+
+But what it **does not** contain is even more important: 
+ 
+**4QMMT contains no moral laws. Not even one.**
+
+The document is wholly concerned with Mosaic practices that distinguished Jews from other peoples and defined their covenantal identity.
+
+What it demonstrated is that Paul did not *invent* the expression "works of law"--*he inherited it*--along with its meaning and connotations.
+
+4QMMT was a bombshell in Christian scholarship. Virtually overnight, the Protestant claim that “works of law” must refer to the entire Mosaic Law collapsed. We suddenly had **primary-source confirmation** of what Catholic scholars had been saying for nearly two thousand years.
+
+The Protestant objection still circulates today (as evidenced by this Protestant point), but it is largely an artifact of pre–Dead Sea Scroll scholarship — repeated by Protestants who, as the saying goes, “did not get the memo.”[^4QMMT]
+
+[^4QMMT]: Some Protestants point out that 4QMMT is the product of a Jewish sectarian group. As such, it is does not represent "mainstream" Judaism. But Paul’s audience lived in the *same linguistic world*. If the Jews at Qumran were using this language, and Paul was using the same language, then it is far more reasonable than not that they mean the same thing by "works of the law". 
+
+#### View 2: "Works of Law" Refers to the Entire Mosaic Law
+
+Some Catholic scholars still side with Augustine, holding that Paul’s use of “works of law” refers to the **entire** Mosaic Law. This position is still tenable.
+
+But how can this be, given the disjunctive relationship between Romans 3:28 and 3:29, which shows that “works of law” must refer to things **Jews** do?
+
+Because, once again, Paul is speaking about **two separate systems of law**:
+
+- the **moral law**  
+- the **Mosaic Law**
+
+It is the **system** of law in question that Paul says does not justify in Romans 3:28.
+
+Protestants want to collapse these two systems into one “superset” law. Paul never does that. And doing so telegraphs a common Christian misunderstanding of what a **system** of law is.
+
+Protestants argue that because both Jews and Gentiles violate moral commandments found in both systems, the systems must be identical. But as I have shown, moral overlap does not mean the systems are the same.
+
+In Romans, Paul treats the moral law and the Mosaic Law as **distinct**. Consequently, so must we.
+
+Recall the examples I previously used. 
+
+If a person commits the crime of theft in some Muslim countries, the system of law in effect there can cut off the hand of the person if found guilty. But if a person steals here in the United States, our system of law treats the person with more grace. There may still be punishments. But they are likely to be far less severe.
+
+The natural understanding that stealing is wrong is universal. But the statute itself is not in force until codified in a system of law. Pointedly, the statute carries no weight; it is the system of laws that formally enshrine the statute as a law that adds the consequences.
+
+Paul makes this very point in Romans when he says, "the **LAW** brings wrath, but where there is no **LAW**, there is no transgression" (Romans 4:15). If you are a Jew, and you fail to keep the Sabbath, or fail to abstain from pork, or fail any of the other laws that governed Jewish covenantal identity, then you became a **law-breaker**, subject to the penalties for transgressing that law.
+
+He states elsewhere:
+
+> #### ✝️ Romans 5:13 (RSV‑2CE)  
+> Sin indeed was in the world before the **LAW** was given, but sin is not counted where there is no **LAW**.
+
+Paul tells us that even before God gave the **Mosaic Law**, sin was in the world. And this is true because the **moral law** that God had written on the hearts of men *predated* the **Mosaic Law**. But, as Paul says a short time later:
+
+> #### ✝️ Romans 5:20 (RSV‑2CE)
+> **LAW** came in to increase the trespass...
+
+In other words, stealing was *always* a sin, and it *always* will be--because it is part of the law that God has written on our hearts. But it is the system of law that codifies the crime--be it a covenantal system like the **Mosaic Law** or the system of law imposed by a country or government on its citizens--that give the law its gravity.
+
+As I noted earlier, just because the same moral precepts can be found in two systems of law, it does not mean those two systems of law are the same. That’s like saying two restaurants are identical because they both serve chicken.
+
+Stated more formally: 
+
+**The system of law defines the laws under it; the laws do not define the system of laws**.   
+
+Consequently, when Paul says we are justified “by faith apart from works of law,” the Catholic view that “works of law” can mean the entire Mosaic Law is still logically coherent. Under this interpretation, Paul is saying that no works done under the Mosaic **covenant** — ceremonial, judicial, or moral — have salvific value.
+
+While I don't subscribe to this interpretation, I understand it. Further, I believe it is logically consistent with Catholic teaching because this particular definition of "works of law" does not break the Romans 3:28-29 **Bring Your Own Definition** test:
+
+> #### Romans “Works of Law” BYOD Test (Fill‑in‑the‑Blank)  
+> If man is justified by __________, then God is only the God of the Jews.
+
+Fill in the blank:
+
+> If man is justified by *works of the Mosaic Law (meaning ANY ceremonial, judicial, or moral law defined by that system of governance)*, then God is only the God of the Jews.
+
+This remains true even if the Mosaic laws in question are moral. But the Romans 3:28-29 disjunction just makes more sense to me if "works of law" is properly restricted to Mosaic Law prescriptions that uniquely define what it means to be a Jew. 
+
+Things like circumcision, keeping the feast days, abstaining from pork--those are all **positive prescriptions** you **should** do as a Jew. So saying that, as a Jew, you cannot be justified for doing such actions makes sense. 
+
+A Judaizer might assume they could be put in right standing because they were circumcised, because they kept the feast days, because they kept the Sabbath, etc. But Paul is shutting down that faulty thinking.
+
+But moral law observances like "thou shalt not steal" and "thou shalt not commit adultery" are not positive prescriptions but **prohibitions**. And that's a very different animal all together.
+
+Let's do a thought experiment. Suppose you are driving down the road and you see a speed limit sign that says "55 MPH". This type of law is representative of a *prohibition*. And that means that if your speed is greater than 55 MPH, you are a breaking the law and subject to punishment under the law. 
+
+But what if your speed is **not** exceeding 55 MPH? Does the government throw you a ticker-tape parade?
+
+Let's just say that outcome is *doubtful*. That's because prohibition style laws do not *commend*; they only *condemn*. 
+
+While saying “you cannot be justified by not breaking prohibitions” is logically true, it is rhetorically clunky — and not nearly as elegant as Paul’s actual argument.
+
+But if "works of law" is limited to Jewish identity markers--as we now know was the vernacular meaning in Paul’s day--then Paul’s argument is **exquisite** just as it stands. 
+
+#### The Final Verdict
+
+Whether you adopt view 1 (“works of law” = Jewish identity laws) or view 2 (“works of law” = the entire Mosaic Law), the Protestant objection fails.
+
+It is simply not true that if “works of law” refers to the Mosaic Law, it must include the moral precepts in such a way that the Catholic claim collapses.
+
+- View 1 is supported by patristic evidence to include the Dead Sea Scrolls.  
+- View 2 is logically coherent as long as one recognizes that Paul is saying the **Mosaic system** of law does not justify.
+
+Either way, the Protestant objection fails.
+
+---
+
+### Protestant Point 7
+
+7. In Romans 4:4–5 Paul contrasts “believing” with “working”--not “works of law”. Paul asserts that "the one who works" seeks wages that are “due,” whereas "the one who does not work" but trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
+
+There is not a Protestant theologian alive that doesn't love them some Romans 4:4-5. 
+
+A Catholic that knows their way around Romans 1-3 can typically run a Protestant ragged. The Catholic claim that "works of law" cannot mean **good works** but must instead mean **works of the Mosaic Law** has real legs. And Protestants know it.  
+
+But in Romans 4:4-5, Protestant theologians think they have found a can't-miss Catholic theology beater. Paul writes:
+
+> #### ✝️ Romans 4:4-5 (RSV‑2CE)
+> Now to one who works, his wages are not reckoned as a gift but as his due. And to one who does not work but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
+
+This passage is just six short verses from Paul saying man is "justified by faith apart from works of law". While Catholics can claim that "works of law" in Romans 3:28 means **works of the Mosaic Law**, Protestants argue that Catholics have no recourse to do so in Romans 4:4-5. After all, Paul does not speak of "works of law"; he just speaks of "works".
+
+Of this passage, Protestants conclude:
+
+- The expression “the one who works” refers to anyone who attempts to earn God’s favor through moral effort, obedience, or religious performance. That is made clear when Paul says that they approach righteousness as something that is their "due"--that is, something that can be earned.
+- Conversely, the expression “the one who does not work” refers to those who do not attempt to earn righteousness but still receives it by faith.
+
+Romans 4:4–5 is seen as Paul’s clearest contrast between works and faith, showing that justification is entirely unearned and gracious. 
+
+---
+
+### Catholic Counter to Point 7
+
+Romans 4:4-5 is not Paul changing topics on us. It is a continuation of this already established argument. It is wedged between Paul's claim that man is "justified by faith apart from works of **LAW**" (Romans 3:28) and Paul's coup de grâce-level argument that Abraham was justified before he had done *any* works of **LAW**. 
+
+In fact, Romans 4:4-5 *is* part of Paul's Abraham timeline argument. 
+
+Romans 4 begins with Paul setting up the argument:
+
+> #### ✝️ Romans 4:1 (RSV‑2CE)
+> What then shall we say about Abraham, our forefather according to the flesh?
+
+Adding:
+
+> #### ✝️ Romans 4:2-3 (RSV‑2CE)
+> For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? “Abraham believed God, and it was reckoned to him as righteousness.”
+
+Remember our **RIGHT** rules?
+
+- RIGHT-1
+- RIGHT-2
+
+Protests break both in their mishandling of Romans 4:4-5.
+
+In what sense is Paul using the word "boast" in Romans 1-3? Is he using it to denote **prideful works-based merit**? No, he is using it to denote **covenant privilege**. Paul's statement "Abraham believed God, and it was reckoned to him as righteousness" teases the punchline in verse 10:
+
+> #### ✝️ Romans 4:10 (RSV‑2CE)
+> How then was it reckoned to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+
+Circumcision, we have seen, is the first and foundational "work of **LAW**". So if Abraham was "believed God" and credited with righteousness **before** he was circumcised, Paul proves that the patriarch was justified before he had done *any* works of **LAW**.  
+
+**LAW** cannot mean moral law here:
+
+- Circumcision has no chronological significance in the moral law. It would is just a garden variety work.
+- Abraham did, in fact, do at least one "good work" prior to being circumcised when he obeyed God and uprooted his entire family. This obedience is explicitly recorded as in the Bible as an act of faith.  
+
+Going back to verse 2 that says "if Abraham was justified by works, he has something to boast about". 
+
+1. Abraham was not circumcised before he was justified.
+2. Abraham's justification could not have been based on works of the **LAW** as he had not yet done any.
+3. For this reason Abraham had nothing whatsoever to "boast" about--meaning he had not covenantal privilege on which his justification could otherwise be based.
+
+This is not some new idea Paul is expressing in Romans 4. It is a biblical proof of the very assertions he has carefully laid out in Romans 1-3.
+
+
+
+
+
+
+
+
+
+
+“To the one who works” refers to any attempt to earn God’s favor through moral effort, obedience, or religious performance.
+
+“His wages are not reckoned as a gift but as his due” means that if salvation were based on works, God would owe justification as a payment — which contradicts grace.
+
+“To the one who does not work” means the person brings no moral or religious merit to God.
+
+“But trusts him who justifies the ungodly” means God declares righteous those who have no righteousness of their own.
+
+“His faith is reckoned as righteousness” means faith is the sole instrument by which God imputes Christ’s righteousness to the believer.
+
+Therein, 
+
+Romans 4 is not a new topic. It is a continuation of Romans 3.
+
+Paul has not suddenly changed the meaning of “works” from:
+
+works of the Mosaic Law (Rom 3:20, 3:28)
+
+to:
+
+good works (Rom 4:4–5)
+
+
+Paul drops “of law” in Romans 4:4–5 not because the meaning changes, but because he is strengthening the wage‑earning analogy.
+
+Jews who “work” (i.e., perform Mosaic works) think they earn justification like wages.
+
+But salvation is not wages — it is inheritance.
+
+Therefore, justification cannot be earned by Mosaic works.
+
+
+If “works” = “good works,” then Romans 4:4–5 would mean:
+
+“Christians do not work (i.e., do not do good works).”
+
+Which is nonsense.
+
+Romans 1:18:
+
+“The wrath of God is revealed against all ungodliness…”
+
+Who is ungodly in Romans 1?
+
+Gentiles.
+
+Paul drops “of law” not because he is trying to change the definition of "woks" but because he wants the wage analogy to hit hard.
+
+Salvation is not a paycheck. It’s a family inheritance. You don’t clock in for it.
+
+The Abraham argument is about circumcision, not moral works.
+
+
+
+---
+
+If Paul were collapsing the **moral law** and the **Mosaic Law** into one universal superset law in Romans as many Protestants claim, one would expect him to say or do at least one of the following. But Paul never does *any* of them:
+
+- Paul would explicitly say that
+   - the **moral law** is a subset of the **Mosaic Law** -OR-
+   - the **moral law** and the **Mosaic Law** were subsets of God's "superset law" -OR-
+   - the **moral law** and the **Mosaic Law** were the same -OR-
+   - there was even a "superset law" to begin with.
+- Paul would explicitly apply “works of law” *to the Gentiles*.
+- Paul would use the phrase “under the Law” to describe *everyone*.
+- Paul would identify circumcision as a *good work* or *moral achievement*.
+- Paul would indicate a clear example of at least one good work (e.g. feeding the hungry, clothing the naked) that did not justify.
+- Paul would say that *Gentiles* “boast.”
+- Paul would say that illicit "boasting" *included prideful moral achievements*. 
+- Paul would say that the **Mosaic Law** was given to *all nations*.
+- Paul would say that the **Mosaic Law** *condemns Gentiles*.
+- Paul would say that Christ frees Gentiles *from the Mosaic Law*.
+- If Paul intended *nomos* to mean single universal law, he would not provide *clear context cues* distinguishing **moral law** from **Mosaic Law**.
+
+But if you are a Protestant who believes "works of law" is Paul's shorthand for **any form of human effort**, then then you need to be able to show that Paul does at least one of these things. Else, your claims about Paul's meaning is reduced to inference and refutable points, none of which erect any of the core pillars on which Protestant theology is built.
+
+If Paul meant to teach about a universal "superset" law binding on all people, he would have written Romans very differently--and it probably would have been much, *much* longer.
 
 
 
