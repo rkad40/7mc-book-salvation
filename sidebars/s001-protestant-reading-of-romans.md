@@ -654,9 +654,9 @@ Romans 4:4–5 is seen as Paul’s clearest contrast between works and faith, sh
 
 ### Catholic Counter to Point 7
 
-Romans 4:4-5 is not Paul changing topics on us. It is a continuation of this already established argument. It is wedged between Paul's claim that man is "justified by faith apart from works of **LAW**" (Romans 3:28) and Paul's coup de grâce-level argument that Abraham was justified before he had done *any* works of **LAW**. 
+Romans 4:4-5 is not Paul changing topics on us. It is a continuation of this already established argument. It is wedged between Paul's claim that man is "justified by faith apart from works of **LAW**" (Romans 3:28) and Paul's coup de grâce-level argument that Abraham was justified *before* he had done *any* works of **LAW**. 
 
-In fact, Romans 4:4-5 *is* part of Paul's Abraham timeline argument. 
+In fact, Romans 4:4-5 is part of Paul's Abraham timeline argument. 
 
 Romans 4 begins with Paul setting up the argument:
 
@@ -668,14 +668,213 @@ Adding:
 > #### ✝️ Romans 4:2-3 (RSV‑2CE)
 > For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? “Abraham believed God, and it was reckoned to him as righteousness.”
 
+Paul concludes the argument in verse 10:
+
+> #### ✝️ Romans 4:10 (RSV‑2CE)
+> How then was it reckoned to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+
+The chronology of Paul's argument proves that Abraham was not justified by *any* works of **LAW**:
+
+1. Abraham was justified when he "believed God and it was reckoned to him as righteousness" (Genesis 15)--explicitly *before* he was circumcised (Genesis 17).
+2. Circumcision is the first and foundational work of the **LAW**.
+3. Therefore, Abraham was justified before he had done *any* works of the **LAW**.
+
+As proofs go, this one is about as bulletproof as they come--unless, of course, you subscribe to the mainline Protestant position. 
+
+For mainline Protestantism, Paul is teaching that we are justified by faith alone apart from good works. But if this is true, Paul's argument makes little sense. 
+
+- As a mere "good work" circumcision has no chronological significance. If circumcision were merely a good work, it would nondescriptly be one of many.  
+- Moreover, it would be patently false for Paul to say that Abraham was justified before he had done any good works. Abraham's obedience to God in Genesis 12 proves this errant belief wrong.
+
+Already Protestants are looking at an uphill battle in Romans 4. And it only gets steeper the deeper we dig.
+
+Let's start with the biggest problem: 
+
+**Protestant theology incorrectly defines "works" in Romans 4:4-5.**
+
+Paul is juxtaposing two types of people in Romans 4:4-5 (I will call the **Person 1** and **Person 2**):
+
+- **Person 1**: One who "**works**" = *not justified* -- because they treat salvation as their "due"
+- **Person 2**: Someone who "**does not work**" = *justified* -- because they put their trust in God 
+
+The question of paramount importance here is: What does Paul mean by "works" in 5:4-5? Does Paul have in mind works of the Mosaic Law? Good works? Any and all works?
+
 Remember our **RIGHT** rules?
 
-- RIGHT-1
-- RIGHT-2
+- **RIGHT-1**: You must define biblical words and expressions using their biblical definition.
+- **RIGHT-2**: Any interpretation of a verse must agree with its context.
 
-Protests break both in their mishandling of Romans 4:4-5.
+If we apply **RIGHT**, then **the contextually established meaning of "works" from Romans 1-3 is *works of the Mosaic Law*.** Under this interpretation, the two types of people in Romans 4:4-5 are:
 
-In what sense is Paul using the word "boast" in Romans 1-3? Is he using it to denote **prideful works-based merit**? No, he is using it to denote **covenant privilege**. Paul's statement "Abraham believed God, and it was reckoned to him as righteousness" teases the punchline in verse 10:
+- **Person 1**: Jews who do works of the Mosaic Law thinking that salvation is their "due"
+- **Person 2**: Gentiles who do not do works of the Mosaic Law but are saved when they put their trust in God
+
+Mainline Protestants will surly object. They point out that Paul does not mention "works of law"--he just mentions "works". Even if Paul previously meant works of the Mosaic Law when he write "works of law", the transition to "works" by itself, signals a change.
+
+But contextually, there is a very clear reason why Paul drops the "of law" here. Paul is, in fact, making an analogy. 
+
+He is comparing the Jewish position to that of an employee who works for his wages. Under the Jewish system, a person did was not justified just because they were a Jew. The were consequently put in a position of trying to "work" for it.  
+
+Conversely, under the Christian system, salvation is the free gift of God received by faith. You don't have to "work" for it; you already have it. Later, Paul will frame salvation as an inheritance. An inheritances is not something you earn. It is something you are graciously given.
+
+Paul drops the "of law" in "works of law" in this one place to make the analogy hit. Salvation is not a paycheck. It’s a family inheritance--meaning you don’t clock in for it.
+
+The passage is ripe with context clues that all affirm this interpretation.
+
+For starters, verse 5 states that **Person 2** is "one *who does not work* [i.e. the one who does not do works of the Mosaic Law] but trusts him who justifies the *ungodly*". 
+
+Why does Paul call **Person 2** "ungodly"?   
+
+Protestants believe the "ungodly" person is the unjustified person--literally the one who is not of God. The moniker "ungodly" is properly a reference to the person's *pre-justified* state.  
+
+But if that were true, why does Paul reserve this moniker for only **Person 2**? Isn't it true that both **Person 1** and **Person 2** are "ungodly"?  
+
+**Because that is not what "ungodly" means or refers to.**  
+
+**RISK-1** says you must defined biblical works and expressions using their biblical definitions. Protestants define "ungodly" the way they do because that is what their theological systems demands. But that is *not* definition Paul uses.
+
+Back in Genesis 1, in the first verse Paul uses to introduce us to the Gentiles he writes:
+
+> #### ✝️ Romans 1:18 (RSV‑2CE)
+> For the wrath of God is revealed from heaven against all **ungodliness** and wickedness of men who by their wickedness suppress the truth.
+
+Both "ungodliness" (Romans 1:18) and "ungodly" (Romans 4:5) have the same Greek root *seb‑* meaning, just different part of speech. 
+
+Throughout his epistle, Paul has repeatedly compared two groups of people. 
+
+Person 1                          | Person 2
+--------                          | --------
+"Jew"                             | "Gentile"
+"Jew"                             | "Greek"
+"circumcised"                     | "uncircumcised" 
+those "under the **LAW**"         | those "not under the **LAW**"
+those "who have the **LAW**"      | those who "who do not have the **LAW**"
+those who have the "written code" | those who have the precepts of the **LAW** "written on their hearts"
+
+And now, after Romans 4:4-5, we can add one more set to the list:
+
+Person 1                             | Person 2
+--------                             | --------
+one "who works" but is not justified | the "ungodly" one "who does not work" but is justified
+
+In short, “ungodly” in Romans 4:5 refers to the **uncircumcised covenant outsider**, not to the generic morally depraved sinner.
+
+But I am not finished even scratching the surface. Keep in mind, Romans 4:1-10 is the full body text of the Abraham Timeline Argument above. Every verse in this passage fits into that argument and adds something to it.
+
+In the very next verse Paul writes:
+
+> #### ✝️ Romans 4:6 (RSV‑2CE)
+> So also David pronounces a blessing upon the man to whom God reckons righteousness apart from works...
+
+Paul is saying that the psalmist, David, concurred that righteousness is reckoned apart from works of the **LAW**:
+
+> #### ✝️ Romans 4:7-8 (RSV‑2CE)
+“Blessed are those whose iniquities are forgiven, and whose sins are covered; blessed is the man against whom the Lord will not reckon his sin.”
+
+Paul is stating that the blessing David describes in the psalm--forgiveness, non‑imputation of sin, righteousness reckoned apart from works--is not restricted only to circumcised Jews, but available to the uncircumcised as well. That this is Paul's point is clear in the very next verse:
+
+> #### ✝️ Romans 4:9 (RSV‑2CE)
+> Is this blessing pronounced only upon the circumcised, or also upon the uncircumcised? 
+
+This is a rhetorical question. Paul is affirming that the blessing that David pronounces--forgiveness, non‑imputation of sin, righteousness reckoned apart from works of the **LAW**--are blessings available to both the "circumcised" and the "uncircumcised". This is to say, the blessings are available to **everyone**.
+
+Again, Paul did not turn the tables on us. Verse 9 is not some new idea that Paul has moved on to, but rather the continuation of his two-person argument featuring **Person 1** (the one "who works") and **Person 2** (the one "who does not work").  And what does that necessarily mean? 
+
+It means:
+
+- **Person 1**: the one "who works" = *circumcised*
+- **Person 2**: the one "who does not work" = *uncircumcised*
+
+At this point, we just need to do the math:
+
+If **Person 1** (the one "who works") is circumcised, and **Person 2** (the one "who does not work") is uncircumcised, then what **must** "works" refer to? Works of the Mosaic Law? Or good works?
+
+Still not convinced? Let's do a BYOD (Bring Your Own Definition) thought experiment. What happens when take the Protestant definition of "works" as being **good works** and plug it into Romans 4:4-5?
+
+Suddenly **Person 2**--the saved Christian--is explicitly the **"one who does not do *good works*"**. 
+
+This is precisely what Romans 4:5 is made to say under the mainline Protestant interpretation.
+
+Does that not sound odd, even scandalous? I am not the only one to notice.
+
+Protestant William MacDonald, author of the *Believer's Bible Commentary* notes of Romans 4:5:
+
+> Shocking as it may seem, the justified man is the one who, first of all, does not work.  
+
+But I would counter that that it is not simply *shocking*; it is **unbiblical**. Is it not instead the case that the "true" Christian
+
+
+
+
+We say that faith was reckoned to Abraham as righteousness.
+
+
+
+
+
+
+
+
+For anyone wishing to redefine "works" in verses four and five, the burden of proof is on them. 
+
+
+
+And if you do that, the passage makes complete sense in context.
+
+Under this interpretation, Paul is juxtaposing two groups 
+
+
+
+> #### Romans 4:5 ("Works" BYOD)
+> To one who does not ____________ but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
+
+First the Catholic definition:
+
+> To one who does not **do works of the Mosaic Law** but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
+
+
+
+
+
+
+- Abraham did, in fact, do at least one "good work" prior to being circumcised when he obeyed God and uprooted his entire family. This obedience is explicitly recorded as in the Bible as an act of faith.  
+
+
+In the context of the 
+
+
+
+
+
+Remember our **RIGHT** rules?
+
+- **RIGHT-1**: You must define biblical words and expressions using their biblical definition.
+- **RIGHT-2**: Any interpretation of a verse must agree with its context.
+
+Protests break both in their mishandling of Romans 4:4-5. Protestants claim that the type of boasting in scope in Romans 1-3 
+
+Let's start with that word "boast". 
+
+What does Paul mean by it? When a Protestant reads Romans, they are conditioned to understand illicit boasting as **the presumption of prideful works-based merit before God**. But, as I have shown, that is not Paul's meaning. In Romans 1-3, the Apostle states:
+
+- "you call yourself a Jew and rely upon the **LAW** and *boast* of your relation to God" (Romans 2:17)
+- "you who *boast* in the **LAW**, do you dishonor God by breaking the **LAW**?" (Romans 2:23)
+
+In Romans 1-3 illicit boasting is **exclusively associated with Jews** because they boast "in the **LAW**" and of their "relation to God". The presumption in view is of **covenantal privilege**, not meritorious action. 
+
+This is the established contextual meaning. If you are going to suggest another is in paly in Romans 4:2, you **must** show where Paul redefined "boasting" to mean something else.
+
+1. Abraham was justified before he was circumcised.
+2. Circumcision is the first and foundational work of the **LAW**.
+3. Therefore, Abraham could not have been justified by *any* works of the **LAW**.
+
+As proofs go, this one is about as bulletproof as they come--unless, of course, you subscribe to the Protestant position.
+
+
+
+
+
+No, Paul uses the word "boast" it to denote the Jew's presumed **covenant privilege**. Paul's statement "Abraham believed God, and it was reckoned to him as righteousness" teases the punchline in verse 10:
 
 > #### ✝️ Romans 4:10 (RSV‑2CE)
 > How then was it reckoned to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
@@ -684,7 +883,7 @@ Circumcision, we have seen, is the first and foundational "work of **LAW**". So 
 
 **LAW** cannot mean moral law here:
 
-- Circumcision has no chronological significance in the moral law. It would is just a garden variety work.
+- Circumcision has no chronological significance in the context of the moral law. It would just be one of many.
 - Abraham did, in fact, do at least one "good work" prior to being circumcised when he obeyed God and uprooted his entire family. This obedience is explicitly recorded as in the Bible as an act of faith.  
 
 Going back to verse 2 that says "if Abraham was justified by works, he has something to boast about". 
@@ -693,7 +892,9 @@ Going back to verse 2 that says "if Abraham was justified by works, he has somet
 2. Abraham's justification could not have been based on works of the **LAW** as he had not yet done any.
 3. For this reason Abraham had nothing whatsoever to "boast" about--meaning he had not covenantal privilege on which his justification could otherwise be based.
 
-This is not some new idea Paul is expressing in Romans 4. It is a biblical proof of the very assertions he has carefully laid out in Romans 1-3.
+Protestants want to defining "boasting" as boasting in one's own moral accomplishments. But under that definition, Abraham would, in fact, have something to boast about--his act of obedience in Genesis 12. 
+
+This is not some *new* idea Paul is expressing in Romans 4. It is a biblical proof of the very assertions he has carefully laid out in Romans 1-3.
 
 
 
