@@ -789,7 +789,110 @@ At this point, we just need to do the math:
 
 If **Person 1** (the one "who works") is circumcised, and **Person 2** (the one "who does not work") is uncircumcised, then what **must** "works" refer to? Works of the Mosaic Law? Or good works?
 
-Still not convinced? Let's do a BYOD (Bring Your Own Definition) thought experiment. What happens when take the Protestant definition of "works" as being **good works** and plug it into Romans 4:4-5?
+Still not convinced? Let's do a BYOD (Bring Your Own Definition) thought experiment. 
+
+When Paul says in Romans 3:28 that we are justified by faith apart from works of law, what is the Protestant definitions of works? 
+
+Depending on your flavor of Protestantism, you might say "good works" or perhaps even "any human effort". The latter is actually closer to the Protestant mindset that collapses "justification by faith apart from works of law" to "justification by faith alone". A Protestant would proudly claim that works of any kind are excluded.  
+
+But observe what happens when we inject that definition into Romans 4:4-5:
+
+**BYOD**: "works" = *any human effort*:
+
+- **Person 1**: the one who does *any human effort* ➜ **NOT** justified
+- **Person 2**: the one who does **NOT** do *any human effort* ➜ justified 
+
+Does that make sense? 
+
+*No, not at all.*
+
+Were we to paraphrase this Protestant **BYOD** of Romans 4:4-5, it would be:
+
+**You cannot be saved by doing *something* but you can be saved by doing *nothing***.
+
+
+
+
+
+
+
+
+Now, I can hear the objections already. I will be accused of being a strict literalist. But it is better to be a literalist than a subjectivist. If you are always going to allow yourself the mental freedom to wiggle out of every logical conundrum, then you should prepare for a life when you are just wrong most of the time.  
+
+The beauty of **BYOD** is that is objective exegesis in the author's own words. 
+
+You take your definition of a biblical word or expression and replace it verbatim in a passage with the literal biblical word or expression. If your definition survives the textual gauntlet, it is worthy of consideration. If it doesn't, your definition is *wrong*.
+
+Spoiler alert: The Protestant definition "works" meaning *any human effort* is *wrong*.
+
+To solve the problem, Protestant theologians often try to smuggle *intent* into their definition of "works" in Romans 4:4-5. Here--*and only here*--"works" become "any human effort done with the intent of *earning* salvation".  
+
+Problem solved right? 
+
+*No, not at all.*
+
+First of all, Paul never imports *intent* into this definition of either "works of law" or "works". 
+
+You explicitly do not get to smuggle in other words. 
+
+Second, Protestant theologians aren't moving the goalposts in Romans 4:4-5 because Paul gives them license to do so. They are moving the goal posts because, if they don't, their logic collapses.
+
+
+   
+
+
+
+Passage      | Expression     | Meaning
+------------ | -------------- | ------------------
+Romans 1-3   | "works of law" | *any human effort*
+Romans 4:4-5 | "works"        | *any human effort done with the intent of **earning** salvation*
+
+Anything strike you as problematic about this Protestant truth table? 
+
+How about the fact that "works of law" is interpreted by Protestants in a **general** sense to mean "any human effort". But "works" is interpreted by Protestants in a **specific** sense to mean "any human effort done with the intent of *earning* salvation". That logic is backwards.
+
+Suppose you ask me if I attended and graduated from college. I respond that I graduated from a **university**. That's a pretty general statements though is it not? There are over 2500 universities in the United States. Saying I attended one leaves the door wide open.  
+
+But suppose I answer your question instead by saying that I graduated from the **University of Texas**. Well, now I am saying something quite specific. I have whittled down the list of 2500 possible universities to just one.
+
+But Protestant theology conceives of the *reverse* meaning:
+
+1. In Romans 1-3, "works of law" means *any human effort*.
+2. In Romans 4:4-5, "works" means *any human effort done with the intent of **earning** salvation*.
+3. The set of *any human effort done with the intent of **earning** salvation* is a properly a subset of *any human effort*.
+4. But that would require that "works" must likewise be a subset of "works of law"--which is **FALSE**.
+
+
+
+
+
+
+
+
+
+
+
+ because in all cases, we are talking about action done *prior* to justification:
+
+**BYOD**: "works" = **good works**:
+
+- **Person 1**: the one who does *good works* ➜ **NOT** justified
+- **Person 2**: the one who does **NOT** do *good works* ➜ justified 
+
+Protestants teach that the unregenerate person cannot do any good works pleasing to God. But Romans 4:4 would then describe an unregenerate person, **Person 1**, actually *doing good works*.
+
+**BYOD**: "works" = **any human effort**:
+
+- **Person 1**: the one who does *any human effort* ➜ **NOT** justified
+- **Person 2**: the one who does **NOT** do *any human effort* ➜ justified 
+
+
+So let's try something d
+
+Both persons are pre‑justification.
+
+
+What happens when take the Protestant definition of "works" as being **good works** and plug it into Romans 4:4-5?
 
 Suddenly **Person 2**--the saved Christian--is explicitly the **"one who does not do *good works*"**. 
 
