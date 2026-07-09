@@ -632,29 +632,31 @@ Either way, the Protestant objection fails.
 
 7. In Romans 4:4–5 Paul contrasts “believing” with “working”--not “works of law”. Paul asserts that "the one who works" seeks wages that are “due,” whereas "the one who does not work" but trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
 
-There is not a Protestant theologian alive that doesn't love them some Romans 4:4-5. 
+There is not a Protestant theologian alive who doesn’t love Romans 4:4–5. 
 
-A Catholic that knows their way around Romans 1-3 can typically run a Protestant ragged. The Catholic claim that "works of law" cannot mean **good works** but must instead mean **works of the Mosaic Law** has real legs. And Protestants know it.  
+And who can blame them? Romans 4:4–5 is the sort of passage that looks tailor‑made for Protestant theology and seems eager to play the part.
 
-But in Romans 4:4-5, Protestant theologians think they have found a can't-miss Catholic theology beater. Paul writes:
+A Catholic who knows Romans 1–3 can usually run a Protestant ragged. The Catholic claim that *“works of law” means works of the Mosaic Law, not good works* has real exegetical traction — and Protestants know it. But in Romans 4:4-5, Protestant theologians think they have found a can't-miss Catholic theology beater. 
+
+Paul writes:
 
 > #### ✝️ Romans 4:4-5 (RSV‑2CE)
 > Now to one who works, his wages are not reckoned as a gift but as his due. And to one who does not work but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
 
-This passage is just six short verses from Paul saying man is "justified by faith apart from works of law". While Catholics can claim that "works of law" in Romans 3:28 means **works of the Mosaic Law**, Protestants argue that Catholics have no recourse to do so in Romans 4:4-5. After all, Paul does not speak of "works of law"; he just speaks of "works".
+This passage appears only six verses after Paul’s declaration that man is “justified by faith apart from works of law” (Rom 3:28). Protestants argue that while Catholics can restrict “works of law” to Mosaic works in Romans 3, they cannot do so here, because Paul simply says “works.”
 
-Of this passage, Protestants conclude:
+Thus Protestants conclude:
 
-- The expression “the one who works” refers to anyone who attempts to earn God’s favor through moral effort, obedience, or religious performance. That is made clear when Paul says that they approach righteousness as something that is their "due"--that is, something that can be earned.
-- Conversely, the expression “the one who does not work” refers to those who do not attempt to earn righteousness but still receives it by faith.
+- “The one who works” = anyone attempting to earn God’s favor through moral effort, obedience, or religious performance.
+- “The one who does not work” = the person who does not attempt to earn righteousness but receives it by faith.
 
-Romans 4:4–5 is seen as Paul’s clearest contrast between works and faith, showing that justification is entirely unearned and gracious. 
+Romans 4:4–5 is taken as Paul’s clearest contrast between works and faith, proving justification is entirely unearned.
 
 ---
 
 ### Catholic Counter to Point 7
 
-Romans 4:4-5 is not Paul changing topics on us. It is a continuation of this already established argument. It is wedged between Paul's claim that man is "justified by faith apart from works of **LAW**" (Romans 3:28) and Paul's coup de grâce-level argument that Abraham was justified *before* he had done *any* works of **LAW**. 
+Romans 4:4–5 is not a change of topic. It is a continuation of this already established argument. It is wedged between Paul's claim that man is "justified by faith apart from works of **LAW**" (Romans 3:28) and Paul's decisive argument that Abraham was justified *before* he had done *any* works of **LAW**. 
 
 In fact, Romans 4:4-5 is part of Paul's Abraham timeline argument. 
 
@@ -681,66 +683,70 @@ The chronology of Paul's argument proves that Abraham was not justified by *any*
 
 As proofs go, this one is about as bulletproof as they come--unless, of course, you subscribe to the mainline Protestant position. 
 
-For mainline Protestantism, Paul is teaching that we are justified by faith alone apart from good works. But if this is true, Paul's argument makes little sense. 
+Under Protestant theology, Paul is teaching justification by faith alone apart from *good works*. But if that were true, Paul’s argument collapses:
 
 - As a mere "good work" circumcision has no chronological significance. If circumcision were merely a good work, it would nondescriptly be one of many.  
 - Moreover, it would be patently false for Paul to say that Abraham was justified before he had done any good works. Abraham's obedience to God in Genesis 12 proves this errant belief wrong.
 
-Already Protestants are looking at an uphill battle in Romans 4. And it only gets steeper the deeper we dig.
+Romans 4 is already an uphill climb for Protestantism, and it gets steeper.
 
-Let's start with the biggest problem: 
+---
 
-**Protestant theology incorrectly defines "works" in Romans 4:4-5.**
+### The Central Problem: What Does “Works” Mean in Romans 4:4–5?
 
-Paul is juxtaposing two types of people in Romans 4:4-5 (I will call the **Person 1** and **Person 2**):
+In Romans 4:4-5, Paul contrasts two people (I will call the **Person 1** and **Person 2**):
 
-- **Person 1**: One who "**works**" = *not justified* -- because they treat salvation as their "due"
-- **Person 2**: Someone who "**does not work**" = *justified* -- because they put their trust in God 
+- **Person 1**: “the one who *works*” → *not justified*  
+- **Person 2**: “the one who *does not work*” → *justified*
 
-The question of paramount importance here is: What does Paul mean by "works" in 5:4-5? Does Paul have in mind works of the Mosaic Law? Good works? Any and all works?
+The key question: *What does Paul mean by “works” here?*
 
 Remember our **RIGHT** rules?
 
 - **RIGHT-1**: You must define biblical words and expressions using their biblical definition.
 - **RIGHT-2**: Any interpretation of a verse must agree with its context.
 
-If we apply **RIGHT**, then **the contextually established meaning of "works" from Romans 1-3 is *works of the Mosaic Law*.** Under this interpretation, the two types of people in Romans 4:4-5 are:
+When we apply **RIGHT**, the biblical and contextual meaning of “works” in Romans 1–3 is *works of the Mosaic Law*. Therefore:
 
-- **Person 1**: Jews who do works of the Mosaic Law thinking that salvation is their "due"
-- **Person 2**: Gentiles who do not do works of the Mosaic Law but are saved when they put their trust in God
+- **Person 1** = Jews relying on Mosaic works as covenant identity and justification.  
+- **Person 2** = Gentiles who do not perform Mosaic works but trust God.
 
-Mainline Protestants will surly object. They point out that Paul does not mention "works of law"--he just mentions "works". Even if Paul previously meant works of the Mosaic Law when he write "works of law", the transition to "works" by itself, signals a change.
+Protestants object noting that Paul uses "works" in Romans 4:4-5, not "works of law". Thus, Paul is signinally that he does not mean works of the Mosaic Law.
 
-But contextually, there is a very clear reason why Paul drops the "of law" here. Paul is, in fact, making an analogy. 
+But contextually, there is a very clear reason why Paul drops the "of law". Paul is, in fact, making an analogy. 
 
-He is comparing the Jewish position to that of an employee who works for his wages. Under the Jewish system, a person did was not justified just because they were a Jew. The were consequently put in a position of trying to "work" for it.  
+### Paul’s Analogy: Wages vs. Inheritance
 
-Conversely, under the Christian system, salvation is the free gift of God received by faith. You don't have to "work" for it; you already have it. Later, Paul will frame salvation as an inheritance. An inheritances is not something you earn. It is something you are graciously given.
+Paul compares the Jewish reliance on Mosaic works to an employee earning wages.[^Wage] Under the Jewish system, covenant membership did not automatically justify; one “worked” under the Law.
 
-Paul drops the "of law" in "works of law" in this one place to make the analogy hit. Salvation is not a paycheck. It’s a family inheritance--meaning you don’t clock in for it.
+[^Wage]: Paul’s use of the term "wages" in Romans 4:4 is deliberate. The word denotes an obligation arising from labor, as in a contractual wage relationship. Paul employs this economic metaphor to contrast two modes of relating to God: one based on earning (the Jewish reliance on Mosaic observance) and one based on gift (the Abrahamic model of faith). The wage metaphor reinforces Paul’s argument that justification cannot be construed as a divine “payment” for human performance.
 
-The passage is ripe with context clues that all affirm this interpretation.
+Under the Christian system, salvation is a *gift* received by faith. Later Paul will call it an *inheritance* — something not earned but given.
 
-For starters, verse 5 states that **Person 2** is "one *who does not work* [i.e. the one who does not do works of the Mosaic Law] but trusts him who justifies the *ungodly*". 
+Paul drops “of law” to make the analogy punch: salvation is not a paycheck; it is an inheritance. 
 
-Why does Paul call **Person 2** "ungodly"?   
+In other words, you don't have to clock in for it.
 
-Protestants believe the "ungodly" person is the unjustified person--literally the one who is not of God. The moniker "ungodly" is properly a reference to the person's *pre-justified* state.  
+---
 
-But if that were true, why does Paul reserve this moniker for only **Person 2**? Isn't it true that both **Person 1** and **Person 2** are "ungodly"?  
+### Why Paul Calls Person 2 “Ungodly”
 
-**Because that is not what "ungodly" means or refers to.**  
+Verse 5 says Person 2 is “the one who does not work but trusts him who justifies the *ungodly*.”
 
-**RISK-1** says you must defined biblical works and expressions using their biblical definitions. Protestants define "ungodly" the way they do because that is what their theological systems demands. But that is *not* definition Paul uses.
+Protestants believe the "ungodly" person is the unjustified person--literally the one who is not of God. The designation "ungodly", then, is properly a reference to the person's *pre-justified* state.  
 
-Back in Genesis 1, in the first verse Paul uses to introduce us to the Gentiles he writes:
+But if that were true, why does Paul reserve this title *only* for **Person 2**? Isn't it true that *both* **Person 1** and **Person 2** are "ungodly"?
 
-> #### ✝️ Romans 1:18 (RSV‑2CE)
-> For the wrath of God is revealed from heaven against all **ungodliness** and wickedness of men who by their wickedness suppress the truth.
+Let us just say that Paul has a very different idea in mind when he calls **Person 2** "ungodly".
 
-Both "ungodliness" (Romans 1:18) and "ungodly" (Romans 4:5) have the same Greek root *seb‑* meaning, just different part of speech. 
+Back in Romans 1, in the first verse Paul uses to introduce us to the Gentiles he writes:
 
-Throughout his epistle, Paul has repeatedly compared two groups of people. 
+> #### ✝️ Romans 1:18  
+> For the wrath of God is revealed from heaven against all **ungodliness**…
+
+The Greek root (*asebeia / asebēs*) is covenantal: the *ungodly* are the *Gentiles*, the uncircumcised, the covenant outsiders. And this is very clear if we zoom out and look at the Paul's greater argument.
+
+Throughout Romans Paul contrasts:
 
 Person 1                          | Person 2
 --------                          | --------
@@ -751,22 +757,28 @@ those "under the **LAW**"         | those "not under the **LAW**"
 those "who have the **LAW**"      | those who "who do not have the **LAW**"
 those who have the "written code" | those who have the precepts of the **LAW** "written on their hearts"
 
-And now, after Romans 4:4-5, we can add one more set to the list:
+Romans 4:4–5 simply adds:
 
 Person 1                             | Person 2
 --------                             | --------
 one "who works" but is not justified | the "ungodly" one "who does not work" but is justified
 
-In short, “ungodly” in Romans 4:5 refers to the **uncircumcised covenant outsider**, not to the generic morally depraved sinner.
+Thus “ungodly” = *uncircumcised Gentile*, not “generic sinner.”
 
-But I am not finished even scratching the surface. Keep in mind, Romans 4:1-10 is the full body text of the Abraham Timeline Argument above. Every verse in this passage fits into that argument and adds something to it.
+Person 1 could be called "godly" in the sanse that, being a *circumcised Jew*, he was "of God". Of course that did not put Person 1 in right standing with God. Paul underscores this point repeatedly throughout the epistle.
 
-In the very next verse Paul writes:
+Conversely, the circumcised man is not "ungodly" in this sense. Circumcision was a covenant identity marker in the Old Testament. Circumcised Israelites (and later Jews) were literally God's own people.  
 
-> #### ✝️ Romans 4:6 (RSV‑2CE)
-> So also David pronounces a blessing upon the man to whom God reckons righteousness apart from works...
+Of course being "godly" in terms of covenant did not make the Jews godly in terms of justification.
 
-Paul is saying that the psalmist, David, concurred that righteousness is reckoned apart from works of the **LAW**:
+But this only begins to reveal the depth of Paul’s argument. Keep in mind, Romans 4:1-10 is the full body text of the Abraham Timeline Argument above. Every verse in this passage fits into that argument and adds something to it.
+
+Paul’s next move:
+
+> #### ✝️ Romans 4:6  
+> David pronounces a blessing upon the man to whom God reckons righteousness apart from works…
+
+Paul is saying that the psalmist, David, concurred that righteousness is reckoned apart from works of the **LAW**. He then adds:
 
 > #### ✝️ Romans 4:7-8 (RSV‑2CE)
 “Blessed are those whose iniquities are forgiven, and whose sins are covered; blessed is the man against whom the Lord will not reckon his sin.”
@@ -776,39 +788,154 @@ Paul is stating that the blessing David describes in the psalm--forgiveness, non
 > #### ✝️ Romans 4:9 (RSV‑2CE)
 > Is this blessing pronounced only upon the circumcised, or also upon the uncircumcised? 
 
-This is a rhetorical question. Paul is affirming that the blessing that David pronounces--forgiveness, non‑imputation of sin, righteousness reckoned apart from works of the **LAW**--are blessings available to both the "circumcised" and the "uncircumcised". This is to say, the blessings are available to **everyone**.
+This is a rhetorical question. Paul is affirming that the blessing that David pronounces--forgiveness, non‑imputation of sin, righteousness reckoned apart from works of the **LAW**--are blessings available to both the "circumcised" and the "uncircumcised".
 
-Again, Paul did not turn the tables on us. Verse 9 is not some new idea that Paul has moved on to, but rather the continuation of his two-person argument featuring **Person 1** (the one "who works") and **Person 2** (the one "who does not work").  And what does that necessarily mean? 
+In other words, the blessings are available to **everyone**.
+
+Paul did not do a bait-and-switch on us. Verse 9 is not some new idea that Paul has moved on to, but rather the continuation of his two-person argument featuring **Person 1** (the one "who works") and **Person 2** (the one "who does not work").  And what does that necessarily mean? 
 
 It means:
 
 - **Person 1**: the one "who works" = *circumcised*
 - **Person 2**: the one "who does not work" = *uncircumcised*
 
-At this point, we just need to do the math:
+Question: If **Person 1** (the one "who works") is circumcised, and **Person 2** (the one "who does not work") is uncircumcised, then what **must** "works" refer to? 
 
-If **Person 1** (the one "who works") is circumcised, and **Person 2** (the one "who does not work") is uncircumcised, then what **must** "works" refer to? Works of the Mosaic Law? Or good works?
+Answer: By "works" Paul must mean **works of the Mosaic Law**.  
 
-Still not convinced? Let's do a BYOD (Bring Your Own Definition) thought experiment. 
+This is the only answer that contextually makes sense.
+
+#### Protestant Definition: “Works” = *any human effort*
+
+Still not convinced though? Let's do a **BYOD** (**B**ring **Y**our **O**wn **D**efinition) thought experiment. 
 
 When Paul says in Romans 3:28 that we are justified by faith apart from works of law, what is the Protestant definitions of works? 
 
-Depending on your flavor of Protestantism, you might say "good works" or perhaps even "any human effort". The latter is actually closer to the Protestant mindset that collapses "justification by faith apart from works of law" to "justification by faith alone". A Protestant would proudly claim that works of any kind are excluded.  
+Depending on your flavor of Protestantism, you might say "**good works**", "**works of righteousness**", or perhaps even "**any human effort**". 
 
-But observe what happens when we inject that definition into Romans 4:4-5:
+The latter is probably the most Protestant of the bunch as it gets you closest to the Protestant doctrine of *sola fide*. I will use that definition so that I cannot be accused of straw-manning the Protestant position. 
 
-**BYOD**: "works" = *any human effort*:
+Now, let's replace "works" into Romans 4:4-5 with "**any human effort**"[^AnyHumanEffort] and see what happens:
 
-- **Person 1**: the one who does *any human effort* ➜ **NOT** justified
-- **Person 2**: the one who does **NOT** do *any human effort* ➜ justified 
+[^AnyHumanEffort]: The identification of “works of the law” with “any human effort” is characteristic of the mainstream Reformed tradition. See, e.g., John Calvin, *Institutes of the Christian Religion* III.11.14–20; Francis Turretin, *Institutes of Elenctic Theology* XV.1–4; and the Westminster Confession of Faith XI.1–2. These sources consistently interpret Paul’s “works of the law” as encompassing all human obedience, whether ceremonial or moral, thereby grounding the Reformed doctrine of *sola fide*. Catholic and other contemporary Pauline scholars dispute this reading, arguing that Paul’s usage is historically and contextually tied to Mosaic covenantal identity and observances.
 
-Does that make sense? 
+> #### **BYOD**: "works" = *any human effort*:
+> - **Person 1**: the one who does *any human effort* ➜ **NOT** justified
+> - **Person 2**: the one who does **NOT** do *any human effort* ➜ justified 
 
-*No, not at all.*
+To paraphrase:
+
+**You cannot be saved by doing *something*, but you can be saved by doing *nothing*.**
+
+Regardless of your theological leanings, I hope you can recognize the absurdity of this statement. 
+
+Unregenerate people--both **Person 1** and **Person 2**--will absolutely engage in "human effort". I am doing it as I write this book. You are doing likewise as you read it.
+
+"Now wait a minute", my Protestant friend will inject, "Paul is not referring to *any* human effort in Romans 4:4-5; he is referring to any human effort done with the intent of *earning* salvation."
+
+And I will concede the point. Such a *redefining* of "works" in Romans 4:4-5 indeed solves the problem. But it is that *redefining* that I, and other Catholics, have a problem with.
+
+Consider:  
+
+Passage      | Expression     | Protestant Meaning
+------------ | -------------- | ------------------
+Romans 3:28  | "works of law" | *any human effort*
+Romans 4:4-5 | "works"        | *any human effort done with the intent of **earning** salvation*
+
+There is a glaring contradiction staring back at us from this table:
+
+1. “any human effort done with the intent of earning salvation” is a proper **subset** of “any human effort.”  
+2. but by extension, that would mean that “works” (Romans 4) is a **subset** of “works of law” (Romans 3)
+
+Point 1 is true. Point 2--required by the Protestant reading--is categorically false.
+
+The expressions "done with the intent of earning salvation" and "of law" are both qualifying expressions. They make the referent a *subset* of the larger whole.   
+
+- "planets of the solar system" are a *subset* of all "planets"
+- "rules of the game" are a *subset* of all "rules"
+- "duties of the office" are a *subset* of all "duties"
+- "human effort done with a particular intent" is a *subset* of all "human effort"
+- and--contrary to the Protestant reading--"works of law" must be a *subset* of all "works"
+
+Think I'm making a mountain out of a molehill? 
+
+Look what happens when we do the reverse **BYOD** and inject the Protestant's Romans 4:4-5 definition of "works" into Romans 3:28:
+
+> #### Romans 3:28 ("works" = *any human effort with the intent of earning salvation*)
+> For we hold that a man is justified by faith apart from works of *any human effort with the intent of earning salvation*.
+
+Try squeezing *sola fide* out of that verse. Here we merely have justification by faith apart from some *subset* or works--*not all possible works*. That is not justification by faith alone. 
+
+This is no molehill. If your interpretation of a passage only survives by redefining key words on a verse-by-verse basis so that that passage does not otherwise break your theology, then you’re not doing exegesis; you’re doing theological duct‑taping. Verily, it might be time to get new theology.
+
+#### The Final Verdict
+
+The Protestant reading of Romans 4 is not simply strained; it is demonstrably false. It is contextually inconsistent and self-contradicting. 
+
+The Protestant definition of “works” in Romans is less a term with theological precision as it is a flexible placeholder that adjusts itself whenever the Text refuses to cooperate.
+
+Yes, Paul speaks of "works" in Romans 4:4-5, and not "works of law". But the omission of the qualifier is, once again, an attempt by Paul to strip Jews of their presumed sense of covenant privilege. He is comparing Jews doing works of the Mosaic Law to an employee who "works" for what is his "due". This is very much Paul trying to shame to the Judaizers into realizing that they cannot earn their salvation as one earns a wage. No one can. 
+
+Meanwhile you have the "ungodly" Gentile who is justified--not by doing works of the Mosaic Law--but by faith. Unlike the circumcised Jew, the uncircumcised Christians starts out saved. He receives this salvation as a gracious gift in the form of an inheritance from God.
+
+The Catholic reading of Romans is the only one that makes sense of Paul's arguments and the words that undergird them.
+
+
+
+
+
 
 Were we to paraphrase this Protestant **BYOD** of Romans 4:4-5, it would be:
 
 **You cannot be saved by doing *something* but you can be saved by doing *nothing***.
+
+Unregenerate individuals--and that means **Person 1** and **Person 2**--are certainly going to engage in some form of human effort.  
+
+To escape the problem, Protestant theologians do not import their definition of "works" from Romans 3; *they create a new new one*. In Romans 4:4-5--*and only in Romans 4:4-5*--"works" is understood to mean "**any human effort done with the intent of *earning* salvation**".  
+
+> #### "works" = *any human effort with the intent of earning salvation*
+> - **Person 1**: the one who does *any human effort with the intent of earning salvation* ➜ **NOT** justified
+> - **Person 2**: the one who does **NOT** do *any human effort done with the intent of earning salvation* ➜ justified 
+
+But Paul never imports intent into his definition. That interpretation is theological rather than textual. That is clearly seen in the **BYOD** example. The beauty of **BYOD** is that is objective exegesis in the author's own words. 
+
+You must take your definition of a biblical word or expression, whatever it is, and replace it **verbatim** in a passage with the literal biblical word or expression. If your definition survives the textual gauntlet, it is worthy of consideration. If it doesn't, your definition is **wrong**.
+
+Protestants invariably change the definition of "works" between Romans 3 and Romans 4, because keeping one definition across both chapters creates theological contradictions for *sola fide*.
+
+Doubt this to be so? Look what happens when we do the reverse **BYOD** and inject the Protestant's Romans 4 definition of "works" into Romans 3. Paul's dogmatic dictum becomes:
+
+> #### "works" = *any human effort with the intent of earning salvation* (Romans 3:28)
+> For we hold that a man is justified by faith apart from works of *any human effort with the intent of earning salvation*.
+
+If one qualifies "works" or "human effort" in *any* way, then one can no longer claim Romans 3:28 teaches justification *by faith alone*. 
+
+After all, Paul would not be pitting faith against "any human effort"; he would be pitting faith only against human effort with a particular *intent*. 
+
+Think about the consequences of that to Protestantism. Might good works be considered salvific if done out of the goodness of one's heart, without pretense of payment? 
+
+This is ground the Protestant *cannot* give.
+
+In spite of the inherent inconsistencies of defining "works" using this whatever-makes-Protestantism-true model, most Protestant theologians blithely turn the other way. But maybe it is time that some start to look at the implications of what their imposes on Paul.  
+
+Consider the following table showing Paul's usage of "works" and the Protestant interpretation:
+
+Passage      | Expression     | Protestant Meaning
+------------ | -------------- | ------------------
+Romans 3:28  | "works of law" | *any human effort*
+Romans 4:4-5 | "works"        | *any human effort done with the intent of **earning** salvation*
+
+Anything strike you as particularly problematic about this Protestant truth table? It should:
+
+1. In Romans 3:28, Protestants interpret "works of law" = *any human effort*.
+2. In Romans 4:4-5, Protestants interpret "works" = *any human effort done with the intent of earning salvation*.
+3. But note that logically, the set of *any human effort done with the intent of earning salvation* is a properly a **subset** of *any human effort*.
+4. Therefore "works" must analogously be a **subset** of "works of law".
+
+This type of argument is called a *reductio ad absurdum*. You take your opponent's premise or premises (points 1 and 2) and show how they logically, necessarily, and unavoidably result in absurdity (point 4). And if the conclusion is invalid, the premises on which it is based are, themselves, **invalid**.  
+
+
+
 
 
 
