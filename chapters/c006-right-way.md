@@ -3,7 +3,7 @@
 # Interpreting Scripture the RIGHT Way
 
 > #### 📄 Abstract
-> Blah, blah.
+> Before evaluating competing interpretations of Romans 3:28, this chapter lays out a simple method for reading Scripture responsibly. The proposed framework, RIGHT—Rules for Interpreting God’s Holy Text—insists that biblical words must be defined biblically and that every interpretation must fit its context. The chapter also introduces the BYOD test, which asks whether a proposed definition actually works when inserted back into the verse. These rules prepare the reader for the arguments that follow.
 
 Before we jump into the formal arguments I teased in the last chapter, we need to do a bit of housekeeping.
 
@@ -135,6 +135,16 @@ In the next four chapters we are going to cover four chapters we will consider f
 4. **The Abraham Timeline Argument** (Romans 3:30–4:10)
 
 In each case, we are going to apply the **RIGHT** rules. Once we do, I think you will see that Paul’s intended meaning becomes incredibly clear.
+
+> #### 💡 Ask An AI
+>
+> Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **What are the basic principles of sound biblical interpretation?**
+> 2. **Why is context so important when interpreting a Bible verse?**
+> 3. **How do scholars determine the meaning of important biblical words and phrases?**
+> 4. **What are some common examples of Bible verses being misread out of context?**
+> 5. **How can different Christian traditions test whether their interpretation fits the biblical context?**
 
 🧭 **Navigation**: [⬅️Prev](c005-romans-rewind.md) [Next➡️](c007-covenant-context-argument.md) 
 

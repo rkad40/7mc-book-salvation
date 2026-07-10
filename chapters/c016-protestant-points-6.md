@@ -3,7 +3,7 @@
 # Protestant Point 6
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> This chapter addresses the Protestant claim that because the Mosaic Law contains moral commandments, “works of law” must include moral works and therefore cannot be limited to Jewish covenant practices. The Catholic reply presents two possible readings: “works of law” may refer specifically to Jewish identity markers such as circumcision, food laws, and purity regulations, or it may refer to the Mosaic Law as an entire covenantal system. Either way, Paul’s point remains that the Mosaic covenant does not justify. The chapter also appeals to 4QMMT as evidence that “works of law” was used in Second Temple Judaism for covenant-defining Torah observances.
 
 
 ### Protestant Point 6
@@ -153,6 +153,12 @@ Either way, the Protestant objection fails.
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **Does “works of law” refer to the whole Mosaic Law or only Jewish identity markers?**
+> 2. **What is 4QMMT, and why is it important for understanding Paul’s phrase “works of law”?**
+> 3. **How did Jerome and Augustine differ on the meaning of “works of law”?**
+> 4. **Can the Mosaic Law include moral commandments while still functioning as a distinct covenantal system?**
+> 5. **Why does moral overlap between two systems of law not make them the same system?**
 >
 
 🧭 **Navigation**: [⬅️Prev](c015-protestant-points-5.md) [Next➡️](c017-protestant-points-7.md) 

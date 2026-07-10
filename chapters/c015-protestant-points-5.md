@@ -3,7 +3,7 @@
 # Protestant Point 5
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> This chapter answers the Protestant objection that Paul’s exclusion of “boasting” in Romans 3:27 must exclude all moral effort from justification. The Catholic reply is that Paul’s specific target in Romans is not generic human pride but Jewish covenantal boasting: boasting in the Law, circumcision, and special covenant status. While Catholics agree that no one can earn salvation by human effort, the chapter argues that Romans is addressing the Judaizer heresy rather than a later Pelagian works-salvation framework.
 
 
 ### Protestant Point 5
@@ -126,6 +126,12 @@ I have said it before, and I will say it again:
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **What kind of boasting is Paul addressing in Romans 2 and 3?**
+> 2. **How does Jewish covenant identity shape Paul’s argument about boasting?**
+> 3. **Is Paul condemning moral pride, covenantal privilege, or both in Romans 3:27?**
+> 4. **How does circumcision function as a source of boasting in Romans?**
+> 5. **What is the difference between the Judaizer controversy and the Pelagian controversy?**
 >
 
 🧭 **Navigation**: [⬅️Prev](c014-protestant-points-3-4.md) [Next➡️](c016-protestant-points-6.md) 

@@ -3,7 +3,7 @@
 # Protestant Points 3 and 4
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> This chapter responds to Protestant objections drawn from Romans 3:19–20. Protestants argue that because Paul says “every mouth” is stopped and the “whole world” is accountable, the law must be universal; they also argue that because the law gives knowledge of sin, it must be the moral law known by all people. The Catholic reply is that Paul uses the Mosaic Law to condemn Jews after already condemning Gentiles, so the universal verdict arises from both groups being guilty. The chapter also argues that Torah gives a deeper, covenantal knowledge of sin, not merely basic moral awareness.
 
 ### Protestant Point 3
 
@@ -154,6 +154,12 @@ Thus, when Paul says that “through the law comes knowledge of sin,” he is no
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **How does Romans 3:19 fit into Paul’s larger Jew-Gentile argument?**
+> 2. **What does Paul mean when he says “every mouth” is stopped before God?**
+> 3. **Does “through the law comes knowledge of sin” refer to moral law or Mosaic Law?**
+> 4. **What is the difference between knowing sin morally and knowing sin covenantally?**
+> 5. **How does Romans 3:20 relate to Romans 3:21 and the phrase “the law and the prophets”?**
 >
 
 🧭 **Navigation**: [⬅️Prev](c013-protestant-points-1-2.md) [Next➡️](c015-protestant-points-5.md) 

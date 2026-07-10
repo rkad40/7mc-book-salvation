@@ -3,7 +3,7 @@
 # Protestant Points 3 and 4
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> This chapter answers the Protestant appeal to Romans 4:4–5, where Paul contrasts the one who “works” with the one who “does not work” but believes. Protestants often read this as a general contrast between faith and all human effort. The Catholic reply argues that Romans 4 continues the same Abraham timeline argument: Paul is still contrasting those who rely on Mosaic covenant works with the uncircumcised who receive righteousness by faith. The chapter contends that “works” in Romans 4 must be read in light of the surrounding circumcision/uncircumcision context, not redefined as any human effort.
 
 ### Protestant Point 7
 
@@ -250,6 +250,16 @@ Yes, Paul speaks of “works” in Romans 4:4-5, and not “works of law”. But
 Meanwhile you have the “ungodly” Gentile who is justified—not by doing works of the Mosaic Law—but by faith. Unlike the circumcised Jew, the uncircumcised Christians starts out saved. He receives this salvation as a gracious gift in the form of an inheritance from God.
 
 The Catholic reading of Romans is the only one that makes sense of Paul’s arguments and the words that undergird them.
+
+> #### 💡 Ask An AI
+>
+> Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **How does Romans 4:4–5 fit into Paul’s larger argument about Abraham and circumcision?**
+> 2. **Does Paul’s word “works” in Romans 4 mean all good works or works of the Mosaic Law?**
+> 3. **Why does Paul contrast the circumcised and uncircumcised in Romans 4:9–10?**
+> 4. **What does Paul mean when he says God justifies the ungodly?**
+> 5. **How do Protestant and Catholic theologians interpret the wage metaphor in Romans 4:4?**
 
 🧭 **Navigation**: [⬅️Prev](c016-protestant-points-6.md)
 

@@ -3,7 +3,7 @@
 # Protestant Points 1 and 2
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> This chapter answers the first two Protestant objections to the Catholic reading of Romans. The first objection claims that because Paul condemns both Jews and Gentiles, the “law” must be universal rather than Mosaic. The second argues that Paul’s references to Gentiles having a law written on their hearts prove that “law” means moral law. The Catholic reply is that Paul distinguishes two systems: Gentiles are judged by the moral law written on the heart, while Jews are judged by the Mosaic Law written in the Torah. Universal guilt does not require one universal law.
 
 ### Protestant Point 1
 
@@ -125,6 +125,12 @@ In short: **Universal guilt does not imply a universal law.** It implies univers
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **Does universal human guilt in Romans require one universal law?**
+> 2. **How does Paul distinguish Gentiles and Jews in Romans 2?**
+> 3. **What does Paul mean when he says Gentiles have the law written on their hearts?**
+> 4. **How are the moral law and the Mosaic Law related but distinct?**
+> 5. **Why does Paul say some people have the law while others do not?**
 >
 
 🧭 **Navigation**: [⬅️Prev](c012-protestant-points-intro.md) [Next➡️](c014-protestant-points-3-4.md) 

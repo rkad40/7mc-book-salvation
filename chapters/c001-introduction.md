@@ -2,6 +2,9 @@
 
 # A Question of Salvation
 
+> #### 📄 Abstract
+> The book opens with the Philippian jailer’s urgent question to Paul and Silas: “What must I do to be saved?” From there, it argues that no question carries greater consequence than salvation. Because Catholics and Protestants answer this question differently, the chapter invites readers into a careful, prayerful examination of the dispute from a Catholic perspective, while asking all Christians to follow Christ wherever the truth leads.
+
 Our story begins in Acts chapter sixteen, verse sixteen. Let us set the stage...
 
 Paul—the self-described “apostle to the Gentiles”—and his companions have traveled to Philippi to preach the gospel. While there, he and one of his disciples, Silas, are seized and arrested, accused by the locals of “disturbing our city.” The two are beaten, thrown into prison, and chained to await formal charges.
@@ -80,6 +83,16 @@ As we embark on this journey of exploration and discernment, let us do so togeth
 **Lord Jesus Christ, hear the prayer of all who sincerely and earnestly seek you. Grant us the wisdom to discern, in the light of Scripture, the answer to that most important question once asked by the Philippian jailer: *“What must I do to be saved?”* Give us the grace to embrace that answer with our lives and to walk faithfully in the way you set before us. We ask this in your holy name.**
 
 **Amen.**
+
+> #### 💡 Ask An AI
+>
+> Here are a few theologically neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **How do different Christian traditions answer the question, “What must I do to be saved?”**
+> 2. **Why is Acts 16:30 such an important passage in Christian discussions of salvation?**
+> 3. **How do Catholics and Protestants differ in their understanding of salvation and justification?**
+> 4. **What did Jesus teach about the value of salvation compared with worldly success?**
+> 5. **How can Christians approach disagreements about salvation with humility and charity?**
 
 🧭 **Navigation**: [Next➡️](c002-the-great-divide.md) 
 

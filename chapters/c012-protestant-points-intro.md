@@ -3,7 +3,7 @@
 # Protestant Points
 
 > #### 📄 Abstract
-> Blah, blah, blah
+> After presenting the Catholic case that “works of law” refers to the Mosaic Law, this chapter introduces eight Protestant objections to that reading. These objections attempt to universalize Paul’s use of “law,” arguing that he must be excluding all good works, moral effort, or human achievement from justification. The chapter previews those objections and frames the coming replies around the Romans 3:28–29 BYOD test: any definition of “works of law” must explain why justification by those works would make God the God of the Jews only.
 
 The Catholic reading of Romans 1-3 sees Paul addressing the **Judaizer heresy**—the idea that one needed to first become a Jew in order to be saved. But mainline Protestant teaching is that Paul is opposing the **works-salvation heresy**. The fact that Paul focuses so much attention on the Jew-Gentile divide is seen only as a means to an end. The errant idea that undergirds Paul’s epistle is that one cannot “earn” or “merit” salvation.
 
@@ -57,6 +57,12 @@ Let us now step through each of these Protestant points and show why they do not
 > #### 💡 Ask An AI
 > 
 > Here are a few neutral questions a reader might ask an AI to explore this topic more deeply:
+>
+> 1. **Why do many Protestants interpret “works of law” as good works or moral effort?**
+> 2. **What does it mean to universalize Paul’s use of “law” in Romans?**
+> 3. **How do Protestant and Catholic interpretations of Romans 3:28 differ?**
+> 4. **What is the Judaizer controversy, and why does it matter for interpreting Romans?**
+> 5. **How does Romans 3:28–29 affect the meaning of “works of law”?**
 >
 
 🧭 **Navigation**: [⬅️Prev](c011-four-arguments.md) [Next➡️](c013-protestant-points-1-2.md) 
