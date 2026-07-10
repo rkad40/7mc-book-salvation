@@ -19,13 +19,20 @@ Description: 'A concise and accessible guide to understanding the Catholic doctr
 Published: 2026-06-13
 Repo: https://github.com/rkad40/7mc-book-salvation/tree/main
 Content:
-  - {Type: Chapter, Index: 1, File: chapters/c001-introduction.md}
-  - {Type: Chapter, Index: 2, File: chapters/c002-the-great-divide.md}
-  - {Type: Chapter, Index: 3, File: chapters/c003-sola-fide-proof-text.md}
-  - {Type: Chapter, Index: 4, File: chapters/c004-saint-paul-works-of-law.md}  
-  - {Type: Chapter, Index: 5, File: chapters/c005-romans-rewind.md}  
-  - {Type: Chapter, Index: 6, File: chapters/c006-right-way.md}  
-  - {Type: Chapter, Index: 7, File: chapters/c007-covenant-context-argument.md}
-  - {Type: Chapter, Index: 8, File: chapters/c008-the-two-witness-argument.md}
-  - {Type: Chapter, Index: 9, File: chapters/c009-god-of-the-jews-only-argument.md}
+  - {Type: Chapter, Index:  1, File: chapters/c001-introduction.md}
+  - {Type: Chapter, Index:  2, File: chapters/c002-the-great-divide.md}
+  - {Type: Chapter, Index:  3, File: chapters/c003-sola-fide-proof-text.md}
+  - {Type: Chapter, Index:  4, File: chapters/c004-saint-paul-works-of-law.md}  
+  - {Type: Chapter, Index:  5, File: chapters/c005-romans-rewind.md}  
+  - {Type: Chapter, Index:  6, File: chapters/c006-right-way.md}  
+  - {Type: Chapter, Index:  7, File: chapters/c007-covenant-context-argument.md}
+  - {Type: Chapter, Index:  8, File: chapters/c008-the-two-witness-argument.md}
+  - {Type: Chapter, Index:  9, File: chapters/c009-god-of-the-jews-only-argument.md}
   - {Type: Chapter, Index: 10, File: chapters/c010-the-abraham-timeline-argument.md}
+  - {Type: Chapter, Index: 11, File: chapters/c011-four-arguments.md}
+  - {Type: Chapter, Index: 12, File: chapters/c012-protestant-points-intro.md}
+  - {Type: Chapter, Index: 13, File: chapters/c013-protestant-points-1-2.md}
+  - {Type: Chapter, Index: 14, File: chapters/c014-protestant-points-3-4.md}
+  - {Type: Chapter, Index: 15, File: chapters/c015-protestant-points-5.md}
+  - {Type: Chapter, Index: 16, File: chapters/c016-protestant-points-6.md}
+  - {Type: Chapter, Index: 17, File: chapters/c017-protestant-points-7.md}

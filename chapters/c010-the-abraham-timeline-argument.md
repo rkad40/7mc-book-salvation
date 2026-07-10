@@ -190,5 +190,5 @@ Thus, we again arrive at a biblical proof that further demonstrates that when Pa
 > 3. Does Paul’s argument in Romans 4 logically support a distinction between “works of the law” and “good works,” or does it treat all works the same?
 > 4. How did Second Temple Jews understand Abraham’s righteousness, and how might that background illuminate Paul’s use of Abraham as an example?
 
-🧭 **Navigation**: [⬅️Prev](c009-god-of-the-jews-only-argument.md)
+🧭 **Navigation**: [⬅️Prev](c009-god-of-the-jews-only-argument.md) [Next➡️](c011-four-arguments.md) 
 

@@ -55,6 +55,7 @@ For Catholics, the question Paul is answering is:
 
 In this reading, Paul is refuting **Torah‑based covenantal exclusivism**—sometimes called the **Judaizer heresy**. This is the biblically attested claim that some believed one must become a Jew to be saved (Acts 15).
 
+
 ## Analysis of the Protestant Reading of Romans 1–3
 
 According to mainline Protestantism, Paul is arguing that no one can “earn” or “merit” salvation.
@@ -140,7 +141,7 @@ Answer:
 
 **When you *sign* it.**
 
-And for the record, that is exactly what the Jews did. Only they didn’t put their mark on a piece of paper; **they marked their flesh**. That is was circumcision was--the sacred signing of the covenant contract. 
+And for the record, that is exactly what the Jews did. Only they didn’t put their mark on a piece of paper; **they marked their flesh**. That is was circumcision was—the sacred signing of the covenant contract. 
 
 Circumcision was the first and foundational work of the Mosaic Law. It functioned as a **covenant identity marker**, defining the Jews’ unique place as God’s own people. 
 
@@ -171,6 +172,7 @@ Plainly stated:
 
 In the final analysis, Romans 1–3 does not support the idea that Paul was arguing against the **works‑salvation heresy**. He was, rather, taking square aim at the **Judaizer heresy**—the idea that Gentile Christians were not already saved because they had not submitted to the Law of Moses.
 
+
 ## Conclusion
 
 While the Protestant reading struggles to find a sure footing in Romans 1–3, the Catholic covenantal interpretation is difficult to miss. Throw a dart at Romans 2 and it would be hard to hit a verse that does *not* deal with Jewish covenant inclusion and identity.
@@ -200,3 +202,4 @@ Rest assured, though: much better and far stronger arguments await.
 > 4. **Does the Catholic reading of Romans 1–3 result in works‑salvation?**
 
 🧭 **Navigation**: [⬅️Prev](c006-right-way.md) [Next➡️](c008-the-two-witness-argument.md) 
+
