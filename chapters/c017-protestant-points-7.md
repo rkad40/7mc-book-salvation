@@ -1,6 +1,6 @@
 📖 **Chapter 17** *(7-minute read)*
 
-# Protestant Points 3 and 4
+# Protestant Point 7
 
 > #### 📄 Abstract
 > Protestants often appeal to Romans 4:4–5, where Paul contrasts the one who “works” with the one who “does not work” but believes. Protestants typically read this as a general contrast between faith and all human effort. The Catholic reply argues that Romans 4 continues Paul’s Abraham‑timeline argument: Paul is still contrasting those who rely on Mosaic covenant works with the uncircumcised who receive righteousness by faith. Thus “works” in Romans 4 must be read in light of the surrounding circumcision/uncircumcision context, not redefined as any human effort.
@@ -10,7 +10,7 @@
 
 > In Romans 4:4–5 Paul contrasts “believing” with “working”—not “works of law.” Paul asserts that “the one who works” seeks wages that are “due,” whereas “the one who does not work” but trusts in God receives righteousness as a gift. This clearly establishes a general theological principle: faith and works operate on fundamentally opposite principles in justification.
 
-There is not a Protestant theologian alive who doesn’t love Romans 4:4–5. 
+Romans 4:4–5 understandably occupies an important place in Protestant accounts of justification.
 
 And who can blame them? 
 
@@ -21,21 +21,19 @@ Paul writes:
 > #### ✝️ Romans 4:4–5 (RSV‑2CE)
 > Now to one who works, his wages are not reckoned as a gift but as his due. And to one who does not work but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
 
-In this passage Protestant theologians think they have found a can’t-miss Catholic theology beater.
+In this passage many Protestant theologians think they have found a can’t-miss Catholic theology beater.
 
 Even if it is allowed that “works of law” means Mosaic works in Romans 3, that cannot be the case here, because Paul simply says “works”:
 
 - “The one who works” = anyone attempting to earn God’s favor through human effort.
 - “The one who does not work” = the person who does not attempt to earn righteousness but receives it by faith.
 
-Thus Romans 4:4–5 is taken as Paul’s clearest contrast between works and faith, proving justification is entirely unearned.
+Thus Romans 4:4–5 is taken as Paul’s clearest contrast between works and faith, proving justification is entirely unearned.[^ProtestantReading]
+
+[^ProtestantReading]: Many Protestants read Romans 4 as a general contrast between faith and human effort. But that reading ignores the covenantal contrast between reliance on the Mosaic Law and the faith exemplified by Abraham. This does not deny that justification is an unearned gift; Catholic teaching affirms that it begins entirely with God’s grace. 
 
 
 ## Catholic Counter to Point 7
-
-Let me begin by saying that Protestants read Romans 4 as a universal contrast between faith and human effort; Catholics read it as a covenantal contrast between Mosaic works and Abrahamic faith.
-
-It is a theme Paul touches on repeatedly in the chapter.  
 
 In Romans 4:4–5 Paul contrasts two people. Let’s call them **Person 1** and **Person 2**:
 
@@ -50,13 +48,13 @@ To answer that, we only need to answer a related question:
 
 **What does Paul mean by “works” in Romans 3:28?**
 
-These passages are separated by just *six* verses[^Proximity]. That means:
+These passages are separated by just six verses[^Proximity]. That gives us good reason to conclude:
 
 Same word. Same context. Same *meaning*.
 
 [^Proximity]: Don’t be distracted by the fact that we are dealing with different chapters. Chapters are a medieval invention. Paul did not write in chapters.  
 
-If so, then “works” in Romans 4 cannot suddenly refer to **good works**, **works of righteousness**, or **human effort**. It must refer to **works of the Mosaic Law**.
+If true, then “works” in Romans 4 should not suddenly be expanded to mean every kind of good action or human effort. It refers at least principally to works performed under the Mosaic Law.
 
 Consequently:
 
@@ -80,7 +78,7 @@ Protestants claim Paul is teaching justification by faith alone apart from *work
 - As a mere good work, **circumcision has no chronological significance**. But Paul builds his case on the fact that it does.
 - Abraham performed good works prior to Genesis 15 (e.g., Genesis 12). This shows **good works precede justification**, contradicting the Protestant reading.
 
-Thus the “works” in Romans 4 cannot be **good works** or **human effort**. They must be **Mosaic works**.[^WorksAccordingToPaul]
+Thus the immediate focus of “works” in Romans 4 is not good works in the abstract but works viewed in relation to the Mosaic Law, with circumcision as the decisive example.[^WorksAccordingToPaul]
 
 [^WorksAccordingToPaul]: Protestants will sometimes argue that Paul uses “works” without “of law” in other letters to refer to all human effort (e.g. Ephesians 2:9). Paul’s usage of “works” varies by context. In Romans 3–4, the surrounding argument is explicitly about circumcision, Abraham’s timeline, and Mosaic covenant identity. Therefore, the burden of proof lies on anyone who claims Paul suddenly shifts to a universal category of “all human effort” in the middle of a covenantal argument.
 
@@ -92,7 +90,7 @@ But contextually, there is a very clear reason why Paul drops the “of law”; 
 
 Paul compares the Jewish reliance on Mosaic works (**Person 1**) to an employee earning wages.[^Wage1] Under the Jewish system, covenant membership did not automatically justify; one “worked” under the **LAW** for the righteousness one lacked.  
 
-Note, the analogy restricts “works of law” to “works”. An employee “works”; they don’t do “works of law”. 
+Note, the analogy properly restricts “works of law” to “works”. An employee “works”; they don’t do “works of law”. 
 
 [^Wage1]: Paul’s use of the term “wages” in Romans 4:4 is deliberate. The word denotes an obligation arising from labor, as in a contractual wage relationship. Paul employs this economic metaphor to contrast two modes of relating to God: one based on earning (the Jewish reliance on Mosaic observance) and one based on gift (the Abrahamic model of faith). The wage metaphor reinforces Paul’s argument that justification cannot be construed as a divine “payment” for human performance.
 
@@ -102,31 +100,31 @@ Paul drops “of law” to sharpen the analogy: **Salvation is not a paycheck; i
 
 What Paul is not doing is giving his readers a license to ignore context and redefine what “works”.[^Wage2]
 
-[^Wage2]: Many Protestant theologians argue that Paul is giving a general theological principle in Romans 4:4-5, not a covenant‑specific one. While Paul’s wage analogy is universal, but the referent of “work” is not. Analogies simplify language for rhetorical effect; they do not redefine the underlying categories. Paul drops “of law” because employees do not perform “works of law,” not because he is shifting to a universal category of human effort.
+[^Wage2]: Many Protestant theologians argue that Paul is giving a general theological principle in Romans 4:4–5, not merely a covenant-specific one. The two possibilities need not be mutually exclusive: the wage analogy states a broad truth about grace while serving a particular argument about Abraham, the Law, and circumcision.
 
 ### Reason 3: The Meaning of “Ungodly”
 
 In Romans 4:5 Paul describes **Person 2** as “ungodly.”
 
-Protestants believe “ungodly” points to the **depraved state of the pre-justified person**. 
+Protestants commonly understand “ungodly” as describing **depraved state of the pre-justified person**.[^UngodlyContext] 
+
+[^UngodlyContext]: That is a legitimate lexical reading: the Greek word means “ungodly” or “impious,” and Romans 3 has already placed both Jews and Gentiles under sin. However, Paul presumably has a slightly different idea in mind here.
 
 But if that were true, why does Paul reserve this title *only* for **Person 2**? Isn’t it true that *both* **Person 1** and **Person 2** are “ungodly” under that definition?
 
-Under the Protestant definition, **yes**—but under Paul’s definition, **no**.
-
-If we read Romans carefully, we see that Paul explicitly defines what it means to be “ungodly”—*and that definition does not match the Protestant definition*.
+A careful reading or Romans shows that Paul has already defined what it means to be “ungodly”—*and that definition informs its use in Romans 1-4*.
 
 In Romans 1, Paul brings a list of charges against the “uncircumcised” Gentiles. The first is this:
 
 > #### ✝️ Romans 1:18  
 > For the wrath of God is revealed from heaven against all **ungodliness**…
 
-In Romans 1 the “ungodly” are the **uncircumcised Gentiles**—those outside the covenant.
+In Romans 1, “ungodliness” appears within Paul’s indictment of the Gentile world. 
 
 - The uncircumcised Gentile (**Person 2**) is “ungodly” because he lacks a covenant relationship with God.[^Ungodly]  
-- The circumcised Jew (**Person 1**) *has* a covenant relationship with God.
+- The circumcised Jew (**Person 1**) *has* a covenant relationship with God.[^Ungodly]
 
-[^Ungodly]: The Greek root (*asebeia / asebēs*) is covenantal: the *ungodly* are the *Gentiles*, the uncircumcised, the covenant outsiders. 
+[^Ungodly]: The related Greek words *asebeia* and *asebēs* mean “ungodliness” and “ungodly” or “impious.” In a primary senese they do not mean “Gentile” or “uncircumcised.” But Paul’s return to this word in Romans 4, and his unique association of it with **Person 2**—the one who does “not work”—provides clues to its contextual meaning in Romans 1-4.
 
 This reinforces the Catholic reading.
 
@@ -151,7 +149,7 @@ one “who works” but is not justified | the “ungodly” one “who does not
 
 Are these new categories? Or the same two groups Paul has been contrasting all along?
 
-After quoting Psalm 32, where God bestows his blessing on all people independent of the their covenant identity, Paul gives the answer:
+After quoting Psalm 32, where David celebrates the forgiveness of sins, Paul asks whether this blessing extends beyond one covenant group:
 
 > #### ✝️ Romans 4:9  
 > Is this blessing pronounced only upon the *circumcised*, or also upon the *uncircumcised*? 
@@ -167,13 +165,9 @@ And this lands us, once again, on a Catholic interpretation of “works”.
 
 ### Reason 5: Continuity of Definition
 
-To make their theology fit into Romans 4:4-5, Protestants must redefine “works”. 
-
-From Romans 3:28, Protestants take “works of law” to mean **any human effort**.[^AnyHumanEffort]
+In Romans 3:28, Protestants interpeters commonly take “works of law” to mean **any human effort**.[^AnyHumanEffort] But that definition does not work in Romans 4:4-5:
 
 [^AnyHumanEffort]: I am intentionally using “any human effort” as the referent definition of “works” so that I cannot be accused of straw-manning the Protestant position. The argument I will present is agnostic to the particular Protestant definition used. But defining “works” as “any human effort” is closest to a *sola fide* reading of Romans and characteristic of the mainstream Reformed tradition. 
-
-Thus:
 
 - **Person 1**: the one who does *any human effort* → not justified  
 - **Person 2**: the one who does **no** human effort → justified  
@@ -213,14 +207,13 @@ Here Paul would be saying that justification is by faith apart from some *subset
 This is no molehill. 
 
 If your interpretation of a passage only survives by redefining key words on a verse-by-verse basis so that that passage does not otherwise break your theology, then you’re not doing exegesis; you’re doing theological duct‑taping.
-
 ### The Final Verdict
 
-The Protestant reading of Romans 4 is not merely strained; it is contextually inconsistent and self‑contradicting.
+The standard Protestant reading rightly emphasizes that justification is God’s gift and cannot be earned. Its weakness, in my view, is that it can flatten Paul’s specific argument about Abraham, the Mosaic Law, and circumcision into a purely abstract contrast between faith and every form of human action.
 
-The Catholic reading is the only one that makes sense of Paul’s argument and of the words—“works” and “works of law”—that undergird it.
+The covenantal reading defended here better preserves the immediate movement of Paul’s argument and the relationship between “works,” “works of law,” and circumcision.
 
-Taken together, these five reasons show that Paul’s contrast is covenantal, not existential. Paul’s contrast is not between faith and effort in Romans 4, but between two covenantal systems: Mosaic labor and Abrahamic trust
+Taken together, these five reasons show that Paul’s contrast is not merely between faith and effort in the abstract. It is embedded in a contrast between reliance on the Mosaic Law and the faith of Abraham—a faith that receives God’s promise as a gift. This reading remains fully compatible with the Catholic confession that even our response of faith is preceded and sustained by grace.
 
 > #### 💡 Ask An AI
 >
