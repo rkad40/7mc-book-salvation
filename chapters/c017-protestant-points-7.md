@@ -3,7 +3,7 @@
 # Protestant Points 3 and 4
 
 > #### 📄 Abstract
-> This chapter answers the Protestant appeal to Romans 4:4–5, where Paul contrasts the one who “works” with the one who “does not work” but believes. Protestants often read this as a general contrast between faith and all human effort. The Catholic reply argues that Romans 4 continues the same Abraham timeline argument: Paul is still contrasting those who rely on Mosaic covenant works with the uncircumcised who receive righteousness by faith. The chapter contends that “works” in Romans 4 must be read in light of the surrounding circumcision/uncircumcision context, not redefined as any human effort.
+> Protestants often appeal to Romans 4:4–5, where Paul contrasts the one who “works” with the one who “does not work” but believes. Protestants often read this as a general contrast between faith and all human effort. The Catholic reply argues that Romans 4 continues the same Abraham timeline argument: Paul is still contrasting those who rely on Mosaic covenant works with the uncircumcised who receive righteousness by faith. Thus “works” in Romans 4 must be read in light of the surrounding circumcision/uncircumcision context, not redefined as any human effort.
 
 
 ## Protestant Point 7
@@ -12,14 +12,18 @@
 
 There is not a Protestant theologian alive who doesn’t love Romans 4:4–5. 
 
-And who can blame them? Romans 4:4–5 is the sort of passage that looks tailor‑made for Protestant theology and seems eager to play the part. In this passage Protestant theologians think they have found a can’t-miss Catholic theology beater.
+And who can blame them? 
+
+Romans 4:4–5 is the sort of passage that looks tailor‑made for Protestant theology and seems eager to play the part. 
 
 Paul writes:
 
 > #### ✝️ Romans 4:4-5 (RSV‑2CE)
 > Now to one who works, his wages are not reckoned as a gift but as his due. And to one who does not work but trusts him who justifies the ungodly, his faith is reckoned as righteousness.
 
-Protestants argue that while Catholics can restrict “works of law” to Mosaic works in Romans 3, they cannot do so here, because Paul simply says “works”:
+In this passage Protestant theologians think they have found a can’t-miss Catholic theology beater.
+
+Even if it is allowed that “works of law” means Mosaic works in Romans 3, that cannot be the case here, because Paul simply says “works”:
 
 - “The one who works” = anyone attempting to earn God’s favor through moral effort, obedience, or religious performance.
 - “The one who does not work” = the person who does not attempt to earn righteousness but receives it by faith.
@@ -29,7 +33,7 @@ Romans 4:4–5 is seen as Paul’s clearest contrast between works and faith, pr
 
 ## Catholic Counter to Point 7
 
-In Romans 4:4-5, Paul contrasts two people (I will call the **Person 1** and **Person 2**):
+In Romans 4:4-5, Paul contrasts two people. I will call the **Person 1** and **Person 2**:
 
 - **Person 1**: “the one who *works*” → *not justified*  
 - **Person 2**: “the one who *does not work*” → *justified*
@@ -50,12 +54,12 @@ Same word. Same context. Same *meaning*.
 
 And if that is the case, then we know that “works” does not refer to **good works** or **works of righteousness** or **human effort**. Rather, “works” refers to the the works of **Mosaic Law**.
 
-In other words:
+Consequently:
 
-- **Person 1**: “the one who *works*” = the circumcised Jew that relies on Mosaic works and covenant identity for justification  
+- **Person 1**: “the one who *works*” = the circumcised Jew that relies on Mosaic works and covenant identity and believes justification is their “due”  
 - **Person 2**: “the one who *does not work*” = the uncircumcised Gentile who does not perform Mosaic works but trusts God for justification
 
-Protestants will certainly disagree.  But Romans 4 overwhelmingly supports it. Here are four reasons why.
+Protestants will certainly disagree. But Romans 4 overwhelmingly supports this reading. Here are four reasons why.
 
 ### Reason 1: Romans 4:4-5 is Part of the Abraham Timeline Argument
 
@@ -67,7 +71,7 @@ In Romans 4, Paul states:
 2. Circumcision is the first and foundational work of the **LAW**.
 3. Therefore, Abraham was justified *before* he had done *any* works of the **LAW**.
 
-Protestants see things differently though. For them, Paul is teaching justification by faith alone apart from *good works*. If that were the case however, Paul’s argument is falsifiable:
+Protestants see things differently though. For them, Paul is teaching justification by faith alone apart from *good works*. But if that were the case, Paul’s argument is false for several reasons:
 
 - As a mere “good work” circumcision has no chronological significance. But Paul builds his case on the fact that it does.
 - Moreover, Abraham did good works prior to his justification as recorded in Genesis 12. This collapses Paul’s chronology showing that good works precede justification.  
@@ -80,21 +84,26 @@ Protestants often object that Paul uses “works” in Romans 4:4-5, not “work
 
 But contextually, there is a very clear reason why Paul drops the “of law”; he is making an **analogy**. 
 
-Paul compares the Jewish reliance on Mosaic works (**Person 1**) to an employee earning wages.[^Wage] Under the Jewish system, covenant membership did not automatically justify; one “worked” under the **LAW** for that which they did not have.
+Paul compares the Jewish reliance on Mosaic works (represented by **Person 1**) to an employee earning wages.[^Wage] Under the Jewish system, covenant membership did not automatically justify; one “worked” under the **LAW** for that which they did not have.  
+
+An employ “works”; they don’t do “works of law”. Paul’s covenantal language breaks the analogy. 
 
 [^Wage]: Paul’s use of the term “wages” in Romans 4:4 is deliberate. The word denotes an obligation arising from labor, as in a contractual wage relationship. Paul employs this economic metaphor to contrast two modes of relating to God: one based on earning (the Jewish reliance on Mosaic observance) and one based on gift (the Abrahamic model of faith). The wage metaphor reinforces Paul’s argument that justification cannot be construed as a divine “payment” for human performance.
 
-Conversely, under the Christian system (**Person 2**), salvation is a *gift* received by faith. Later Paul will call it an *inheritance*—something not earned but given.
+Conversely, under the Christian system (represented by **Person 2**), salvation is a *gift* received by faith. Later Paul will call it an *inheritance*—something not earned but given.
 
-Paul drops “of law” to make the analogy punch hard: **salvation is not a paycheck; it is an inheritance**. 
+Paul drops “of law” to make the analogy punch hard: **Salvation is not a paycheck; it is an inheritance**. 
 
-He is is not giving the Protestant reader the license to change the established definition of “works”.
+Paul is not giving the Protestant reader a license to ignore the context and redefine what works are.
+
 
 ### Reason 2: Paul Identifies Person 2 as “Ungodly”
 
 In Romans 4:5, Paul says **Person 2** is “ungodly”.
 
-Protestants believe “ungodly” describes the depraved state of the *pre-justified* person. But if that were true, why does Paul reserve this title *only* for **Person 2**? Isn’t it true that *both* **Person 1** and **Person 2** are “ungodly”?
+Protestants believe “ungodly” describes the **depraved state of the pre-justified person**. 
+
+But if that were true, why does Paul reserve this title *only* for **Person 2**? Isn’t it true that *both* **Person 1** and **Person 2** are “ungodly”?
 
 If we read Romans carefully, we see that Paul explicitly defines what it means to be “ungodly”—and that definition does not match the Protestant definition.
 
@@ -103,16 +112,20 @@ In Romans 1, Paul brings a list of charges against the “uncircumcised” Genti
 > #### ✝️ Romans 1:18  
 > For the wrath of God is revealed from heaven against all **ungodliness**…
 
-It is explicitly the unregenerate and uncircumcised Gentile that is “ungodly”. Why?
+It is explicitly the uncircumcised Gentile that is “ungodly”. Why?
 
-- An unregenerate and uncircumcised Gentile (**Person 2**) was “ungodly” because they did not have a relationship with God.[^Ungodly]
-- An unregenerate but circumcised Jews (**Person 1**) *did* have a relationship with God. (This person was godly on account of the covenant made with God, not on account of conduct.)   
+- The uncircumcised Gentile (**Person 2**) is “ungodly” because he does not have a relationship with God.[^Ungodly]
+- The circumcised Jews (**Person 1**) *does* have a relationship with God. By covenant, he is a member of God’s chosen people.   
 
 [^Ungodly]: The Greek root (*asebeia / asebēs*) is covenantal: the *ungodly* are the *Gentiles*, the uncircumcised, the covenant outsiders. 
 
-### Reason 3: Continuity of Understanding Regarding the “Two Groups” of People in Romans 1-4
+Again, the meaning reinforces the covenantal understanding.
 
-Throughout Romans, Paul is constantly contrasting the same two groups of people he identifies by different names and references:
+---
+
+### Reason 3: Continuity of Understanding Regarding the “Two Groups” in Romans
+
+Throughout Romans, Paul is constantly contrasts the same two groups of people he identifies by various names and references:
 
 **Groups 1**                         | **Group 2**
 --------                             | --------
@@ -123,20 +136,23 @@ those “under the **LAW**”            | those “not under the **LAW**”
 those “who have the **LAW**”         | those who “who do not have the **LAW**”
 those who have the “written code”    | those who have the precepts of the **LAW** “written on their hearts”
 
-And in Romans 4:4–5 we get another pair:
+And in Romans 4:4–5 we get another notable pairing:
 
 **Person 1**                         | **Person 2**
 --------                             | --------
 one “who works” but is not justified | the “ungodly” one “who does not work” but is justified
 
-Which makes more sense? That Romans 4:4-5 is defining two *new, distinct groups*? Or that it is *continuation of the two groups already established*?
+Which makes more sense? 
+
+- That Romans 4:4-5 is defining two *new, distinct groups*? 
+- Or that it is *continuation of the two groups already established*?
 
 In the three verses that follow Romans 4:5, Paul quotes Psalm 32 where God blesses people independent of the their covenant identity. Paul comments:
 
 > #### ✝️ Romans 4:9 (RSV‑2CE)
 > Is this blessing pronounced only upon the circumcised, or also upon the uncircumcised? 
 
-Notice the two groups mentioned, “the circumcised” and the “the uncircumcised”. If you track Paul’s argument, these are the same two groups mentioned in Romans 4:4-5.
+Notice the two groups mentioned, “the circumcised” and the “the uncircumcised”. If you trace Paul’s argument, **these are the same two groups mentioned in Romans 4:4-5**.
 
 In other words, Romans 4:4-5 is not presenting two *new, distinct groups*. Rather:
 
