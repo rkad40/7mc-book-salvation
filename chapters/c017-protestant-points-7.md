@@ -54,7 +54,7 @@ Same word. Same context. Same *meaning*.
 
 [^Proximity]: Don’t be distracted by the fact that we are dealing with different chapters. Chapters are a medieval invention. Paul did not write in chapters.  
 
-If true, then “works” in Romans 4 should not suddenly be expanded to mean every kind of good action or human effort. It refers at least principally to works performed under the Mosaic Law.
+If so, then “works” in Romans 4 should not suddenly be expanded to mean every kind of good action or human effort. It refers at least principally to works performed under the Mosaic Law.
 
 Consequently:
 
@@ -84,13 +84,13 @@ Thus the immediate focus of “works” in Romans 4 is not good works in the abs
 
 ### Reason 2: The Wage Analogy
 
-Protestants often object that Paul uses “works” in Romans 4:4-5, not “works of law”. They claim Paul is clearly signalling that he does not mean works of the Mosaic Law.
+Protestants often object that Paul uses “works” in Romans 4:4–5, not “works of law.” They claim Paul is clearly signaling that he does not mean works of the Mosaic Law.
 
 But contextually, there is a very clear reason why Paul drops the “of law”; he is making an **analogy**. 
 
 Paul compares the Jewish reliance on Mosaic works (**Person 1**) to an employee earning wages.[^Wage1] Under the Jewish system, covenant membership did not automatically justify; one “worked” under the **LAW** for the righteousness one lacked.  
 
-Note, the analogy properly restricts “works of law” to “works”. An employee “works”; they don’t do “works of law”. 
+Notice that the analogy naturally restricts “works of law” to “works.” An employee “works”; an employee does not perform “works of law.”
 
 [^Wage1]: Paul’s use of the term “wages” in Romans 4:4 is deliberate. The word denotes an obligation arising from labor, as in a contractual wage relationship. Paul employs this economic metaphor to contrast two modes of relating to God: one based on earning (the Jewish reliance on Mosaic observance) and one based on gift (the Abrahamic model of faith). The wage metaphor reinforces Paul’s argument that justification cannot be construed as a divine “payment” for human performance.
 
@@ -98,7 +98,7 @@ Conversely, under the Christian system (**Person 2**), salvation is a **gift** r
 
 Paul drops “of law” to sharpen the analogy: **Salvation is not a paycheck; it is an inheritance.** Paul’s analogy only works if the “work” in question is covenantal labor, not generic human effort.
 
-What Paul is not doing is giving his readers a license to ignore context and redefine what “works”.[^Wage2]
+What Paul is not doing is giving his readers a license to ignore context and redefine “works”.[^Wage2]
 
 [^Wage2]: Many Protestant theologians argue that Paul is giving a general theological principle in Romans 4:4–5, not merely a covenant-specific one. The two possibilities need not be mutually exclusive: the wage analogy states a broad truth about grace while serving a particular argument about Abraham, the Law, and circumcision.
 
@@ -106,13 +106,13 @@ What Paul is not doing is giving his readers a license to ignore context and red
 
 In Romans 4:5 Paul describes **Person 2** as “ungodly.”
 
-Protestants commonly understand “ungodly” as describing **depraved state of the pre-justified person**.[^UngodlyContext] 
+Protestants commonly understand “ungodly” as describing **the depraved state of the pre-justified person**.[^UngodlyContext]
 
 [^UngodlyContext]: That is a legitimate lexical reading: the Greek word means “ungodly” or “impious,” and Romans 3 has already placed both Jews and Gentiles under sin. However, Paul presumably has a slightly different idea in mind here.
 
 But if that were true, why does Paul reserve this title *only* for **Person 2**? Isn’t it true that *both* **Person 1** and **Person 2** are “ungodly” under that definition?
 
-A careful reading or Romans shows that Paul has already defined what it means to be “ungodly”—*and that definition informs its use in Romans 1-4*.
+A careful reading of Romans shows that Paul has already introduced “ungodliness”—*and that earlier usage informs its meaning in Romans 4*.
 
 In Romans 1, Paul brings a list of charges against the “uncircumcised” Gentiles. The first is this:
 
@@ -124,9 +124,11 @@ In Romans 1, “ungodliness” appears within Paul’s indictment of the Gentile
 - The uncircumcised Gentile (**Person 2**) is “ungodly” because he lacks a covenant relationship with God.[^Ungodly]  
 - The circumcised Jew (**Person 1**) *has* a covenant relationship with God.[^Ungodly]
 
-[^Ungodly]: The related Greek words *asebeia* and *asebēs* mean “ungodliness” and “ungodly” or “impious.” In a primary senese they do not mean “Gentile” or “uncircumcised.” But Paul’s return to this word in Romans 4, and his unique association of it with **Person 2**—the one who does “not work”—provides clues to its contextual meaning in Romans 1-4.
+[^Ungodly]: The related Greek words *asebeia* and *asebēs* mean “ungodliness” and “ungodly” or “impious.” In their primary sense, they do not mean “Gentile” or “uncircumcised.” But Paul’s return to this word in Romans 4, and his association of it with **Person 2**—the one who does “not work”—provides clues to its contextual meaning in Romans 1-4.
 
-This reinforces the Catholic reading.
+This reinforces the covenantal reading.[^CovenantalReading]
+
+[^CovenantalReading]: The word “ungodly” cannot simply be cited as proof that Paul has abandoned his covenantal argument and begun speaking about human effort in the abstract. The term fits the covenantal reading at least as comfortably as it fits the Protestant one.
 
 ### Reason 4: The Two Groups in Romans
 
@@ -154,18 +156,18 @@ After quoting Psalm 32, where David celebrates the forgiveness of sins, Paul ask
 > #### ✝️ Romans 4:9  
 > Is this blessing pronounced only upon the *circumcised*, or also upon the *uncircumcised*? 
 
-Notice the two groups mentioned: “the circumcised” and “the uncircumcised”. At this point, we have a choice:
+Notice the two groups mentioned: “the circumcised” and “the uncircumcised.” At this point, we have a choice:
 
 Either we believe that **Person 1** and **Person 2** in Romans 4:4-5 are nothing more than bit characters in Paul’s salvation drama that **disappear as quickly as they appear**. Or we recognize that logically and grammatically, **Person 1** and **Person 2** in Romans 4:4-5 **are the same as those in Romans 4:9**:
 
 - **Person 1**: the one “who works” = *circumcised*
 - **Person 2**: the one “who does not work” = *uncircumcised*
 
-And this lands us, once again, on a Catholic interpretation of “works”. 
+And this lands us, once again, on a Catholic interpretation of “works.”
 
 ### Reason 5: Continuity of Definition
 
-In Romans 3:28, Protestants interpeters commonly take “works of law” to mean **any human effort**.[^AnyHumanEffort] But that definition does not work in Romans 4:4-5:
+In Romans 3:28, Protestants interpreters commonly take “works of law” to mean **any human effort**.[^AnyHumanEffort] But that definition does not work in Romans 4:4-5:
 
 [^AnyHumanEffort]: I am intentionally using “any human effort” as the referent definition of “works” so that I cannot be accused of straw-manning the Protestant position. The argument I will present is agnostic to the particular Protestant definition used. But defining “works” as “any human effort” is closest to a *sola fide* reading of Romans and characteristic of the mainstream Reformed tradition. 
 
@@ -182,7 +184,7 @@ Romans 4:4-5 | “works”        | *any human effort done with the intent of **
 But:
 
 1. “any human effort done with the intent of earning salvation” is a **subset** of “any human effort”  
-2. by the equivalence principle “works” would then be **subset** of “works of law”
+2. by the equivalence principle, “works” would then be **a subset** of “works of law”
 
 That is impossible. Qualifying expressions always make the referent a subset of the larger whole:
 
@@ -202,11 +204,12 @@ Look what happens when we do the reverse and take the Protestant definition of �
 
 Try squeezing *sola fide* out of that verse. 
 
-Here Paul would be saying that justification is by faith apart from some *subset* or works—*not all possible works*. That is **not** justification by faith alone. 
+Here Paul would be saying that justification is by faith apart from some *subset* of works—*not all possible works*. That is **not** justification by faith alone.
 
 This is no molehill. 
 
-If your interpretation of a passage only survives by redefining key words on a verse-by-verse basis so that that passage does not otherwise break your theology, then you’re not doing exegesis; you’re doing theological duct‑taping.
+If your interpretation of a passage survives only by redefining key words on a verse-by-verse basis so that the passage does not otherwise challenge your theology, then you’re not doing exegesis; you’re doing theological duct-taping.
+
 ### The Final Verdict
 
 The standard Protestant reading rightly emphasizes that justification is God’s gift and cannot be earned. Its weakness, in my view, is that it can flatten Paul’s specific argument about Abraham, the Mosaic Law, and circumcision into a purely abstract contrast between faith and every form of human action.
