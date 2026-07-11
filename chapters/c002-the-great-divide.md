@@ -4,7 +4,7 @@
 
 
 > #### 📄 Abstract
-> Christians have historically answered the question *“What must I do to be saved?”* in different ways. For the first fifteen hundred years of Christianity, the Catholic view—centered on the Sacraments, cooperation with grace, and a lifelong process of justification—was largely uncontested. The Protestant Reformation introduced a radically different answer: *justification by faith alone*, understood as a one‑time declaration of righteousness. This event split Christianity in two. Five hundred years later, the divide remains, with Protestants differing sharply on whether Catholics are to be considered fellow Christians, or if, as some charge, they are followers of a “false gospel”. 
+> For the first fifteen hundred years of Christianity, the ancient apostolic churches shared a broadly sacramental and transformative understanding of salvation. The Protestant Reformation introduced a fundamentally different account: *justification by faith alone*, understood by the Reformed tradition as a forensic declaration of righteousness. Five hundred years later, the divide remains. This book focuses principally on Catholicism and classical Reformed Protestantism, while recognizing that other Protestant traditions differ on important points—including whether Catholics should be considered fellow Christians or followers of a “false gospel.”
 
 Now that we have laid the groundwork, we can finally turn to the central question of this book—the same question the Philippian jailer asked Paul and Silas in Acts 16: 
 
@@ -12,70 +12,77 @@ Now that we have laid the groundwork, we can finally turn to the central questio
 
 As we have already noted, Christianity is deeply divided on how to answer this question. Yet this division is a relatively recent development.
 
-The historic Christian church fought and fragmented over a range of theological issues. No fewer than three major schisms rocked the early church, some producing distinct apostolic communions that still exist today. **Yet for all these ruptures—Christological, political, cultural, and ecclesial—none of them involved a fundamental disagreement about the nature of salvation itself.**  
+The historic Christian Church fought and fragmented over a range of theological issues. Several major schisms rocked the early Church, producing distinct apostolic communions that still exist today. These ruptures involved Christological, political, cultural, and ecclesial disputes—often with profound implications for salvation. **Yet none centered on the later Reformation dispute over justification by faith alone.**
 
-For the first fifteen centuries of Christian history, **the Catholic Church’s understanding was, for all practical purposes, the only game in town.**
+For the first fifteen centuries of Christian history, the ancient apostolic churches shared a broadly sacramental and transformative understanding of salvation. They did not agree on every theological detail, but none taught the later Reformed doctrine of justification as a purely forensic declaration received through faith alone and distinct from interior renewal.
 
 ### Historic Christian (and Catholic) Teaching on Justification
 
-What is the historical Christian view on justification? 
+What is the historic Catholic view of justification?
 
-It can be summarized as follows:
+For an adult convert, it can be summarized as follows:
 
-1. God gives a person grace awakening a desire for Him.
+1. God gives a person grace, awakening a desire for him.
 2. The person hears the Gospel and freely responds with grace‑enabled faith.
-3. The person is baptized and receives **initial justification**. (This is what Protestants call being “saved”, Catholics preferring the expression “**being in a state of sanctifying grace**”.)
+3. The person is baptized and receives **initial justification**, entering a **state of sanctifying grace**.[^InfantBaptism]
 
-The key idea is that salvation is a **process**:
+[^InfantBaptism]: In infant Baptism, God grants this grace before the child can make a personal profession of faith. The child is later called to embrace and live that baptismal faith personally.
+
+Initial justification is a real transition into grace, but salvation also has an ongoing dimension:
 
 - A person must **persevere in faith, hope, and charity** to remain in a state of grace. 
-- A person can **lose sanctifying grace** through serious, or **mortal**, sin. Communion with God can, however, be restored through the sacrament of Reconciliation.
+- A person can **lose sanctifying grace** through serious, or **mortal**, sin. Communion with God is ordinarily restored through the sacrament of Reconciliation.
 
-For a millennia and a half, this is how all of Christendom understood salvation.
+This sacramental and transformative pattern characterized the ancient apostolic churches long before the Reformation.
 
 ### Martin Luther and the Protestant Reformation
 
-In the sixteenth century though, an Augustinian monk named **Martin Luther** challenged the prevailing consensus. His theological convictions ignited the **Protestant Reformation** and reshaped the Christian world. 
+In the sixteenth century, though, an Augustinian friar named **Martin Luther** challenged the prevailing consensus. His theological convictions helped ignite the **Protestant Reformation** and reshape the Christian world.
 
 According to Luther:
 
-1. God gives a person grace so they can believe.
-2. The person hears the Gospel and responds with **faith alone** and, at that moment, is justified, that is, **saved**.
+1. God gives a person grace so that he or she can believe.
+2. The person hears the Gospel and responds with **faith alone** and, at that moment, is justified—declared righteous before God.
 
 Luther’s theology differed from the Catholic view in several decisive ways:
 
-- A person is justified **by faith alone** (*sola fide*); works play **no role** in determining one’s eternal destiny.
+- A person is justified **by faith alone** (*sola fide*); works provide no merit and form no part of the basis of justification.
 - Justification is not a gradual transformation but a **one‑time forensic declaration** in which God pronounces the sinner righteous on the basis of Christ’s merits.
-- A person who is authentically justified **cannot lose their salvation**.[^Once-Saved]
 - Good works necessarily follow salvation, but they **add nothing** to justification and **take nothing away** from it.
 
-[^Once-Saved]: This is the Reformed view. Some Protestants today hold a position closer to Catholicism, arguing that a person can lose their right-standing relationship with God.
+Luther brought *sola fide* to the center of the controversy, but the Reformation did not produce a single Protestant theology. Lutheran, Reformed, Anglican, Anabaptist, and later Wesleyan traditions developed important differences concerning Baptism, the Eucharist, predestination, perseverance, and the precise relationship between faith and salvation.
+
+This book cannot do justice to them all. Its principal conversation partner will therefore be **classical confessional Reformed Protestantism**—the tradition associated with Calvin and expressed in documents such as the Westminster Confession and Catechisms. In this tradition, a person who is authentically justified **cannot finally lose salvation**.[^Once-Saved]
+
+[^Once-Saved]: Confessional Lutherans teach that a person can fall away from saving faith. The doctrine that the truly justified will certainly persevere to the end is characteristic of Reformed theology.
 
 ### The Many Faces of Protestantism—And What They All Have in Common
 
-In the decades following Luther’s break from the Church, numerous Protestant confessions emerged, each with its own doctrinal points of distinction. Yet despite their differences, the major Protestant traditions shared two core convictions:
+In the decades following Luther’s break from the Church, numerous Protestant confessions emerged, each with its own doctrinal distinctions. The magisterial Protestant traditions nevertheless shared two core convictions:
 
-1. **A rejection of the Catholic Church’s authority.**
+1. **A rejection of the Catholic Church’s claim to supreme teaching authority and papal jurisdiction.**
 2. **A belief that justification by faith alone was the core teaching of the gospel.**
 
-What started as a clash of ideologies and a war of words soon spilled over the pulpit and into the public square, eventually erupting into violence across Europe. 
+What started as a theological controversy and war of words soon moved beyond the pulpit and into the public square, eventually contributing to violence across Europe.
+
+**An important note**: From this point forward, when I refer to “the Protestant position” without qualification, I generally mean this classical Reformed position. Where another Protestant tradition differs materially, I will say so.
 
 
 ## The Current State of Affairs
 
 In recent times, the temperature has cooled in some quarters.
 
-In 1999 the Catholic Church and the Lutheran World Federation signed the **Joint Declaration on the Doctrine of Justification** (**JDDJ**). This first‑of‑its‑kind ecumenical document identified substantial common ground on the long‑standing dispute over justification.
+In 1999, the Catholic Church and the Lutheran World Federation signed the **Joint Declaration on the Doctrine of Justification** (**JDDJ**). This historic ecumenical document identified substantial common ground on the long‑standing dispute over justification without claiming that every disagreement had disappeared.
 
-Another significant development occurred with the publication of **Evangelicals and Catholics Together** (**ECT**). Between 1994 and 2003, leading Evangelical and Catholic theologians and pastors issued a series of joint statements seeking to articulate areas of genuine agreement while candidly acknowledging remaining differences.
+Another significant development began with the 1994 publication of **Evangelicals and Catholics Together** (**ECT**). In that statement and others that followed, leading Evangelical and Catholic theologians and pastors sought to articulate areas of genuine agreement while candidly acknowledging remaining differences.
 
 Taken together, these documents represented a notable thawing in Catholic–Protestant relations.
 
 ### “No Common Cause in the Gospel”
 
-But not all parties in the Protestant camp saw the **JDDJ** and **ECT** as progress. 
+But not everyone in the Protestant camp saw the **JDDJ** and **ECT** as progress.
 
-The groundbreaking ecumenical documents, and even their signatories, drew fire from many Protestants who believed the doctrinal divide between Catholics and Protestants was too great.
+The documents, and even their signatories, drew fire from Protestants who believed the doctrinal divide remained too great.
 
 One of the more vocal respondents was **Dr. R. C. Sproul**.
 
@@ -91,25 +98,25 @@ But when he turns to Catholicism, the gloves come off—politely, of course, but
 
 That is not the language one typically hears from the Catholic Church today. 
 
-The *Catechism of the Catholic Church* teaches that Protestants are **true Christians**—brothers and sisters in Christ—who share an imperfect but real communion with the Catholic Church. Protestants receive grace, posses Christian truth, and can truly be saved.[^CCC]
+The *Catechism of the Catholic Church* teaches that Protestants are **true Christians**—brothers and sisters in Christ—who share an imperfect but real communion with the Catholic Church. Protestants receive grace, possess Christian truth, and can truly be saved.[^CCC]
 
-[^CCC]: *Catechism of the Catholic Church*, 817–822, 838, 847. For example, CCC 817 laments the divisions that exist in Christianity noting “men of both sides were to blame”. CCC 818 states definitively that, “all who have been justified by faith in Baptism are incorporated into Christ; they therefore have a right to be called Christians, and with good reason are accepted as brothers in the Lord”. CCC 819 adds: “Christ’s Spirit uses these Churches and ecclesial communities as means of salvation”. And CCC 838 elaborates: “The Church knows that she is joined in many ways to the baptized who are honored by the name of Christian, but do not profess the Catholic faith in its entirety”. The *Catechism of the Catholic Church* constitutes the official teaching of the Catholic Church, binding on all Catholics. I have never encountered, nor do I believe there exists, an official Protestant confession that extends the same theological openness to Catholics. I don’t say that as a critique of Protestantism. I just wish to highlight what I see to be be a real distinction in the way Catholics and think and feel about Protestants with the way Protestants think and feel about Catholics.
+[^CCC]: *Catechism of the Catholic Church*, 817–822 and 838. CCC 817 laments the divisions within Christianity, noting that “men of both sides were to blame.” CCC 818 teaches that “all who have been justified by faith in Baptism are incorporated into Christ” and are rightly accepted as brothers and sisters in the Lord. CCC 819 adds that Christ’s Spirit uses non-Catholic churches and ecclesial communities as means of salvation. The *Catechism* is an authoritative presentation of the Catholic Church’s teaching.
 
 
-That’s not lip service. Its Catholic doctrine. If a validly baptized Protestant becomes Catholic, **they are not re‑baptized**. Baptized Christians are already **part of the family**, so to speak.  
+That’s not lip service. It’s Catholic doctrine. If a validly baptized Protestant becomes Catholic, **that person is not re‑baptized**. Baptized Christians are already **part of the family**, so to speak.
 
-And when the topic of Protestant Christianity comes up in homilies (as it infrequently does) the universal honorific used to identify its adherents is: **“our brothers and sisters in Christ.”**
+And when Protestant Christianity comes up in Catholic teaching and preaching, a customary expression for its adherents is **“our brothers and sisters in Christ.”**
 
 The implication is clear from a Catholic viewpoint: **Christians of all denominations make up a family**. 
 
-Now, it might, for all intents and purposes, be a **dysfunctional family**—but it is a family nonetheless. 
+Now, it might be a **dysfunctional family**—but it is a family nonetheless.
 
-Your obnoxious uncle Al does not get banished to the porch at the Thanksgiving gathering. Rather, he gets a seat at the table with everyone else. Why? Because even if he tends to get on peoples’ nerves, he is still family.
+In a dysfunctional family, everyone has a story about everyone else—and, if we are honest, everyone has contributed something to the dysfunction. Still, no one gets banished to the porch at Thanksgiving. Family gets a seat at the table.
 
 This is the way that Catholics see things today.
 
 
-## Anathematizing the Gospel
+## Has Rome “Anathematized the Gospel”?
 
 Sproul, however, sees the relationship differently:
 
@@ -117,19 +124,19 @@ Sproul, however, sees the relationship differently:
 
 [^Sproul-2]: R. C. Sproul, *Are We Together? A Protestant Analyzes Roman Catholicism*, p. 4.
 
-How have Catholics “anathematized the gospel”? According to Sproul and those Protestants who share his perspective, the Catholic view of salvation is incompatible with the biblical teaching. Many Protestants would summarize it this way:
+How have Catholics “anathematized the gospel”? According to Sproul and Reformed Protestants who share his perspective, the Catholic view of salvation is incompatible with biblical teaching. They often summarize the disagreement this way:
 
 - **Protestant view = salvation is by faith alone**
 - **Catholic view = salvation is by faith *and* works**
 
 This is a drastic oversimplification of a far more nuanced topic—one we will explore in detail later. But this is how many Protestants see it. 
 
-Many Protestants would argue that, since justification is by faith alone, any theological system that introduces human cooperation, sacramental participation, or ongoing transformation into the salvific equation has, in fact, **“anathematized the gospel.”**[^Sproul-2]
+Many Reformed Protestants argue that, since justification is by faith alone, any theological system that introduces human cooperation, sacramental participation, or ongoing transformation into the salvific equation has, in fact, **“anathematized the gospel.”**[^Sproul-2]
 
 
 ## Protestant Views on Catholicism—A Spectrum, Not a Single Position
 
-As noted, Sproul’s view is not shared by all Protestants. Views on Catholicism vary widely. Most Protestants tend to place Catholics into one of three broad categories:
+As noted, Sproul’s view is not shared by all Protestants. Protestant attitudes toward Catholics can be grouped into three broad categories:
 
 1. **Catholics are Christians without qualification.**
 2. **Catholics are Christians—but not “*Bible‑believing*” Christians.**
@@ -137,9 +144,7 @@ As noted, Sproul’s view is not shared by all Protestants. Views on Catholicism
 
 [^Note-1]: It is not uncommon to hear testimonies such as: “I was raised Catholic, but at seventeen I *became a Christian*,” or, “I was Catholic, but then I *got saved*.”
 
-A number of well‑known Protestant theologians lean toward the first category. Figures such as **Billy Graham**, **J. I. Packer**, **Timothy George**, **N. T. Wright**, **Alister McGrath**, and **John Stott** have spoken warmly of Catholics as fellow believers.
-
-Others lean strongly toward the third category. **R. C. Sproul**, **John MacArthur**, **James White**, **D. A. Carson**, **Michael Horton**, **Wes Huff**, and **John Piper** express far more serious reservations. Many in this group openly question whether a Catholic can be saved. Some allow for the possibility of a Catholic being saved, but only if the Catholic **internally rejects** the “false gospel of Rome.”[^Sproul-3]
+Some prominent Protestant leaders have spoken warmly of Catholics as fellow believers. Others express serious reservations about Catholic teaching while distinguishing between the Catholic system and individual Catholics. Sproul, for example, allows that a Catholic may be a brother or sister in Christ—but only insofar as that person embraces *sola fide* despite Rome’s official teaching.[^Sproul-3]
 
 [^Sproul-3]: In *Faith Alone*, Sproul writes: “Rome’s official repudiation of *sola fide* disqualifies it as an acceptable Christian communion. Yet members of Rome who do embrace *sola fide* are brothers and sisters in Christ.” (p. 57)
 
@@ -150,16 +155,16 @@ In short, Protestant views on Catholicism are not monolithic. They form a spectr
 
 The question **“What must I do to be saved?”** is one of utmost importance to Christians. This quintessential question has shaped Christian identity and divided Christian communities for the last five hundred years.
 
-The respective beliefs in a nutshell:
+Here are the two positions in simplified form:
 
-Profession | Salvation is a ... | Key points
+Tradition | Salvation is a ... | Key points
 --- | --- | ---
-Catholicism | **process** | - initiated by grace‑enabled faith<br>- **completed in Baptism** (initial justification)<br>- maintained by remaining in a **state of grace**, ordinarily through the sacraments<br>- can be lost through mortal sin
-Protestantism[^Protestantism-in-a-Nutshell] | **one‑time event** |- by **faith alone**<br>- a one‑time **forensic declaration** of righteousness<br>- in many traditions, cannot be lost
+Catholicism | **gift received and lived** | - entirely initiated by grace<br>- **initial justification conferred in Baptism**<br>- includes forgiveness and interior renewal<br>- calls for perseverance in faith, hope, and charity<br>- sanctifying grace can be lost through mortal sin
+Reformed Protestantism | **forensic declaration** | - received through **faith alone**<br>- Christ’s righteousness is imputed to the believer<br>- works are fruits and evidence, not the basis or instrument, of justification<br>- the truly justified will persevere
 
-[^Protestantism-in-a-Nutshell]: This table summarizes mainstream Evangelical and Reformed Protestantism. Various Protestant traditions differ on key points. For example, **Arminian** Protestants hold that salvation can be lost through the sin of **apostasy**. Even the expression “faith alone” is understood in different ways. **Lutherans**, for instance, teach that we are justified by faith alone, yet they insist that justifying faith is *never* without baptism, the preached Word, and the means of grace. **Reformed** Protestants also affirm faith alone, but define saving faith more strictly as the instrument of justification, distinguished from the works that inevitably follow. Thus, “faith alone” functions differently across Protestant traditions, even when the phrase is shared.
+Note, this table intentionally compares Catholicism with the classical Reformed position defined earlier in the chapter. It does not purport to summarize every Protestant tradition.
 
-Although genuine ecumenical progress has been made, a real state of tension still exists between these two great professions of Christian faith.
+Although genuine ecumenical progress has been made, real tension remains between these two Christian traditions.
 
 By examining the Catholic and Protestant perspectives on salvation—and the historical forces that formed them—we begin to see just how deep and complex the divide truly is. 
 
