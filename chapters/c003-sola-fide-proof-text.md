@@ -28,7 +28,7 @@ One of the founding tenets of the Protestant Reformation was that an infallible 
 
 This distinctly Protestant idea is known as the **perspicuity of Scripture**.
 
-The word *perspicuity* simply means “clarity,” and the doctrine asserts exactly that.
+The word *perspicuity* simply means “clarity.” (Admittedly, it is not the clearest word anyone could have chosen for the job.) The doctrine itself, however, asserts exactly that.
 
 Reformed theologians often appeal to the “plain sense” or “clear meaning” of Scripture. The Westminster Confession summarizes the doctrine carefully:
 
@@ -46,11 +46,12 @@ The doctrine of perspicuity does not say that *all* of Scripture is clear. It sa
 
 [^Perspicuity-Limits]: Perspicuity does not require every doctrine to appear verbatim in Scripture. This applies to *sola fide*: Reformed theology permits it to be deduced by “good and necessary consequence” from Scripture as a whole. Nevertheless, when Romans 3:28 is presented as a particularly plain proof, it is fair to examine what the verse actually says and what must be inferred.
 
+
 ## Justification by Faith Alone, Clearly Taught
 
 Given Reformed appeals to the “plain sense” of Scripture, one might expect the doctrine of justification by faith alone—*sola fide*—to appear explicitly in the Bible. Reformed theologians insist that it does.
 
-Interestingly, however, the only verse in all of Scripture that uses the phrase *“faith alone”* is James 2:24—and it explicitly rejects the formula:
+The Bible, however, has placed one small textual speed bump in the road. The only verse in all of Scripture that uses the phrase *“faith alone”* is James 2:24—and it explicitly rejects the formula:
 
 > #### ✝️ James 2:24 (RSV‑2CE) 
 > You see that a man is justified by works and not by faith alone.
@@ -79,7 +80,7 @@ Catholic theologians in Luther’s day—and ever since—have pointed out that 
 
 In other words, Paul is not contrasting faith with **works in general**. He is contrasting faith with a specific category of works—**works of law**.
 
-But to the Reformers, this was a point without distinction. Even though Paul does not explicitly say we are justified by “faith alone,” they believed this was clearly what the Apostle meant.
+But to the Reformers, this was a distinction without a difference. Even though Paul does not explicitly say we are justified by “faith alone,” they believed this was clearly what the Apostle meant.
 
 
 ## Getting “Faith Alone” From “Faith Apart From Works of Law”
@@ -100,7 +101,7 @@ And *voilà*—the doctrine of *sola fide* emerges.
 
 The logic is coherent. But it rests upon a controlling premise: that Paul intended “works of law” to be understood this broadly. Before Romans 3:28 can serve as an open-and-shut proof of *sola fide*, that premise must be demonstrated rather than assumed.
 
-While the word “alone” does not appear in Paul’s version of Romans 3:28, it has certainly made itself at home in Reformed theology.
+While the word “alone” does not appear in Paul’s wording of Romans 3:28, it has certainly made itself at home in Reformed theology.
 
 
 ## The Reformers Defend Their Interpretation
@@ -123,7 +124,7 @@ John Calvin was more measured—though only slightly. He conceded that the word 
 
 [^3]: John Calvin, *Institutes of the Christian Religion*, 3.11.19. Translations of this statement vary slightly across editions.
 
-The same inference continues in modern Evangelical commentary and Reformed apologetics. In his commentary on Romans, modern Evangelical pastor and commentator John MacArthur writes:
+The same inference continues in modern Evangelical commentary and Reformed apologetics. Modern Evangelical pastor John MacArthur writes in his commentary on Romans:
 
 > Although the word *alone* does not appear in the Greek text, that is Paul’s clear meaning.[^MacArthur]
 
@@ -140,7 +141,7 @@ From Luther and Calvin to modern Evangelical commentators and Reformed apologist
 It is, we are told, really quite obvious. How could anyone argue the point?
 
 
-## Fifteen Hundred Years of Bad Theology?
+## Lost for Fifteen Hundred Years?
 
 The Reformers did not believe they were inventing a new gospel. They argued that they were recovering Paul’s teaching after centuries in which it had become obscured.[^Patristic-Sola-Fide]
 
@@ -148,11 +149,13 @@ The Reformers did not believe they were inventing a new gospel. They argued that
 
 But is that really the way of it? 
 
-Did the earliest Christians immediately “drop the ball” when it came to the doctrine of salvation? And did God allow such an error to persist down through the centuries until men like Luther and Calvin came onto the scene and finally set the record straight?
+If *sola fide* is one of Scripture’s clearest truths about salvation, why did the ancient apostolic churches fail to formulate justification in this distinctly Reformed way? And did God allow such an error to persist down through the centuries until men like Luther and Calvin came onto the scene and finally set the record straight?
 
 Let’s just say that would be quite the theological plot twist if true. 
 
-And while many Reformed Protestants treat their reading of Romans 3:28 as an open-and-shut case, there is **another possibility**—one we have not yet considered.
+It would mean the Church misplaced one of the clearest truths of salvation almost immediately—and did not find it again for fifteen centuries.
+
+While many Reformed Protestants treat their reading of Romans 3:28 as an open-and-shut case, there is **another possibility**—one we have not yet considered.
 
 Before we decide that the Reformers recovered what centuries of Christian theology had obscured, we should pause and ask a deeper question. What if—*just maybe*—Saint Paul had something else in mind when he spoke of “works of law”?
 
